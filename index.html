@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>LoungeScout: Airport Lounges</title>
-<meta name="description" content="See which airport lounges your credit cards, memberships and tickets open, what it costs when they don't, and plan every trip around them.">
-<meta name="color-scheme" content="light dark">
+<meta name="description" content="See which airport lounges your credit cards, memberships and tickets open, what it costs when they don't, and plan every trip around them. For iPhone and iPad.">
+<meta name="color-scheme" content="light">
 <link rel="icon" href="assets/icon.png">
 <link rel="apple-touch-icon" href="assets/icon.png">
 <meta property="og:title" content="LoungeScout: Airport Lounges">
@@ -13,199 +13,355 @@
 <meta property="og:image" content="https://loungescout.github.io/loungescout-site/assets/icon.png">
 <style>
 :root{
-  --bg:#F5F3FD; --surface:#FFFFFF; --ink:#14131F; --ink2:#2B2850; --muted:#5E5C72;
-  --accent:#5B4FD0; --accent-soft:#E6E2FB; --sun:#FFB400; --line:#E2DEF3; --navy:#14131F;
+  --bg:#FBFAFF; --alt:#F3F1FB; --ink:#14131F; --ink2:#2B2850; --muted:#6A6880;
+  --accent:#5B4FD0; --accent2:#7C6CF0; --sun:#FFB400; --line:#E4E0F2; --night:#0B0A12;
   --g1:#8B7BFF; --g2:#6FE0C4; --g3:#FF9E7A; --g4:#FFD04D; --g5:#6FBBFF; --g6:#E58BFF;
 }
-@media (prefers-color-scheme: dark){
-  :root{ --bg:#0D0C14; --surface:#1A1926; --ink:#F2F0FA; --ink2:#D9D5F2; --muted:#A8A4C2;
-    --accent:#A89DF5; --accent-soft:#2A2645; --line:#2E2B42; }
-}
 *{box-sizing:border-box}
-html{background:var(--bg)}
-body{margin:0;font:17px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+html{background:var(--bg);scroll-behavior:smooth}
+body{margin:0;font:17px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
 a{color:var(--accent)}
-.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+img{display:block;max-width:100%}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+.center{text-align:center}
 
-/* Hero with the app's overlapping-color glow */
-.hero{position:relative;overflow:hidden;isolation:isolate;padding:28px 0 56px}
-.glow{position:absolute;inset:-20% -10% auto -10%;height:720px;z-index:-1;filter:blur(60px);opacity:.55}
+/* Sticky product bar */
+.bar{position:sticky;top:0;z-index:10;background:rgba(251,250,255,.78);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid rgba(20,19,31,.08)}
+.bar .wrap{display:flex;align-items:center;justify-content:space-between;height:52px;gap:12px}
+.bar .name{display:flex;align-items:center;gap:8px;font-weight:700;font-size:19px;letter-spacing:-.3px;color:var(--ink);text-decoration:none}
+.bar .name img{width:28px;height:28px;border-radius:7px}
+.bar nav{display:flex;align-items:center;gap:20px;font-size:13px}
+.bar nav a{color:var(--ink2);text-decoration:none}
+.bar .pill{background:var(--accent);color:#fff;border-radius:999px;padding:6px 14px;font-weight:600;font-size:13px;text-decoration:none;white-space:nowrap}
+
+/* Hero */
+.hero{position:relative;overflow:hidden;isolation:isolate;padding:72px 0 32px}
+.glow{position:absolute;left:-10%;right:-10%;top:-120px;height:760px;z-index:-1;filter:blur(70px);opacity:.5}
 .glow span{position:absolute;border-radius:50%;mix-blend-mode:multiply}
-@media (prefers-color-scheme: dark){.glow{opacity:.35}.glow span{mix-blend-mode:screen}}
-.glow span:nth-child(1){width:46%;height:60%;left:52%;top:0;background:var(--g1)}
-.glow span:nth-child(2){width:42%;height:55%;left:0;top:8%;background:var(--g2)}
-.glow span:nth-child(3){width:44%;height:50%;left:26%;top:22%;background:var(--g3)}
-.glow span:nth-child(4){width:34%;height:44%;left:8%;top:34%;background:var(--g4)}
-.glow span:nth-child(5){width:38%;height:50%;left:62%;top:30%;background:var(--g5)}
-.glow span:nth-child(6){width:30%;height:40%;left:36%;top:-6%;background:var(--g6)}
+.glow span:nth-child(1){width:44%;height:58%;left:54%;top:4%;background:var(--g1)}
+.glow span:nth-child(2){width:40%;height:52%;left:0;top:10%;background:var(--g2)}
+.glow span:nth-child(3){width:42%;height:48%;left:28%;top:26%;background:var(--g3)}
+.glow span:nth-child(4){width:32%;height:42%;left:10%;top:40%;background:var(--g4)}
+.glow span:nth-child(5){width:36%;height:48%;left:64%;top:34%;background:var(--g5)}
+.glow span:nth-child(6){width:28%;height:38%;left:38%;top:-4%;background:var(--g6)}
+.eyebrow{font-size:clamp(19px,2.4vw,24px);font-weight:600;color:var(--ink2);margin:0 0 6px}
+h1{font-size:clamp(52px,10vw,104px);line-height:.98;letter-spacing:-.04em;font-weight:800;margin:0}
+.hero .lead{font-size:clamp(19px,2.4vw,24px);color:var(--ink2);max-width:640px;margin:18px auto 0;line-height:1.35}
+.cta{display:flex;justify-content:center;flex-wrap:wrap;gap:12px 22px;align-items:center;margin-top:26px}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 22px;border-radius:999px;background:var(--ink);color:#fff;font-weight:600;text-decoration:none}
+.btn svg{width:18px;height:18px}
+.link{font-weight:600;text-decoration:none;color:var(--accent)}
+.link::after{content:" ›"}
 
-nav{display:flex;align-items:center;justify-content:space-between;gap:12px}
-.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:20px;letter-spacing:-.3px;color:var(--ink);text-decoration:none}
-.brand img{width:40px;height:40px;border-radius:10px}
-nav .links{display:flex;gap:18px;font-weight:600;font-size:15px}
-nav .links a{color:var(--ink2);text-decoration:none}
+/* Device frames */
+.dev{background:#14131F;padding:9px;box-shadow:0 40px 80px -30px rgba(43,40,80,.45)}
+.dev img{width:100%}
+.dev.phone{border-radius:44px}
+.dev.phone img{border-radius:36px}
+.dev.pad{border-radius:34px;padding:14px}
+.dev.pad img{border-radius:22px}
+.stage{position:relative;max-width:900px;margin:52px auto 0}
+.stage .pad{width:82%}
+.stage .phone{position:absolute;right:0;bottom:-6%;width:28%}
 
-.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;margin-top:48px}
-h1{font-size:clamp(38px,6vw,64px);line-height:1.02;letter-spacing:-1.6px;margin:0 0 18px;font-weight:850}
-.lead{font-size:clamp(18px,2.2vw,21px);color:var(--ink2);max-width:520px;margin:0 0 28px}
-.cta{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
-.btn{display:inline-flex;align-items:center;gap:10px;min-height:52px;padding:0 22px;border-radius:999px;font-weight:800;font-size:17px;text-decoration:none}
-.btn.primary{background:var(--navy);color:#fff}
-@media (prefers-color-scheme: dark){.btn.primary{background:#fff;color:#14131F}}
-.btn.primary svg{width:20px;height:20px}
-.soon{font-size:14px;color:var(--muted);font-weight:600}
-.phone{justify-self:center;width:min(300px,78vw);border-radius:44px;padding:10px;background:#14131F;box-shadow:0 30px 60px -20px rgba(43,40,80,.45)}
-.phone img{display:block;width:100%;border-radius:36px}
+/* Jump chips */
+.chips{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:64px auto 0;max-width:760px}
+.chips a{border:1px solid var(--line);background:rgba(255,255,255,.7);border-radius:999px;padding:9px 16px;font-size:15px;font-weight:600;color:var(--ink2);text-decoration:none}
 
-/* Features */
-section{padding:56px 0}
-.kicker{font-size:13px;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;color:var(--accent)}
-h2{font-size:clamp(28px,4vw,40px);letter-spacing:-.8px;line-height:1.1;margin:8px 0 14px}
-.sub{color:var(--muted);max-width:600px;margin:0}
-.features{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:32px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:22px}
-.card .ic{width:44px;height:44px;border-radius:12px;background:var(--accent-soft);display:grid;place-items:center;color:var(--accent);margin-bottom:14px}
-.card .ic svg{width:24px;height:24px}
-.card h3{margin:0 0 6px;font-size:19px;letter-spacing:-.2px}
-.card p{margin:0;color:var(--muted);font-size:16px}
+/* Stats */
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:72px auto 0;max-width:960px}
+.stat b{display:block;font-size:clamp(34px,5vw,52px);letter-spacing:-.03em;line-height:1;background:linear-gradient(120deg,var(--accent),#C25BD6 60%,#F08A5D);-webkit-background-clip:text;background-clip:text;color:transparent}
+.stat span{display:block;font-size:14px;color:var(--muted);margin-top:8px;font-weight:600}
 
-/* Screens */
-.screens{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:28px 2px 8px;margin-top:8px}
-.screens figure{flex:0 0 auto;width:min(240px,64vw);margin:0;scroll-snap-align:start}
-.screens img{width:100%;border-radius:28px;border:1px solid var(--line);display:block}
-.screens figcaption{font-size:14px;font-weight:700;color:var(--ink2);margin-top:10px;text-align:center}
+/* Sections */
+section{padding:110px 0}
+section.alt{background:var(--alt)}
+section.night{background:var(--night);color:#F2F0FA}
+section.night .muted,section.night p{color:#B9B5D3}
+.kicker{font-size:clamp(17px,2vw,21px);font-weight:700;color:var(--accent);margin:0 0 10px}
+section.night .kicker{color:#A89DF5}
+h2{font-size:clamp(38px,6.4vw,72px);line-height:1.02;letter-spacing:-.035em;font-weight:800;margin:0}
+.intro{font-size:clamp(18px,2.2vw,21px);color:var(--muted);max-width:680px;margin:20px 0 0;line-height:1.45}
+.intro b{color:var(--ink)}
+section.night .intro b{color:#fff}
+.center .intro{margin-left:auto;margin-right:auto}
 
-/* Privacy band */
-.band{background:var(--navy);color:#fff;border-radius:28px;padding:40px 32px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center}
-@media (prefers-color-scheme: dark){.band{background:var(--surface);border:1px solid var(--line)}}
-.band h2{color:#fff;margin:0 0 8px}
-@media (prefers-color-scheme: dark){.band h2{color:var(--ink)}}
-.band p{margin:0;color:#CFCBE6;max-width:560px}
-@media (prefers-color-scheme: dark){.band p{color:var(--muted)}}
-.pills{display:flex;flex-wrap:wrap;gap:8px}
-.pill{border:1px solid rgba(255,255,255,.25);border-radius:999px;padding:8px 14px;font-weight:700;font-size:14px;white-space:nowrap}
-@media (prefers-color-scheme: dark){.pill{border-color:var(--line)}}
+.pair{display:grid;grid-template-columns:2.6fr 1fr;gap:28px;align-items:end;margin-top:56px}
+.pair.flip{grid-template-columns:1fr 2.6fr}
+.pair.flip .pad{order:2}
+
+.feats{display:grid;grid-template-columns:repeat(4,1fr);gap:28px;margin-top:64px}
+.feats.three{grid-template-columns:repeat(3,1fr)}
+.feat h3{font-size:19px;letter-spacing:-.2px;margin:12px 0 6px}
+.feat p{margin:0;color:var(--muted);font-size:16px}
+section.night .feat p{color:#B9B5D3}
+.ic{width:40px;height:40px;border-radius:11px;display:grid;place-items:center;background:linear-gradient(135deg,var(--accent2),#C25BD6);color:#fff}
+.ic svg{width:22px;height:22px}
+
+/* Split row */
+.split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center;margin-top:56px}
+.split .phone{max-width:320px;justify-self:center}
+.list{display:grid;gap:26px}
+.list h3{font-size:21px;margin:0 0 4px;letter-spacing:-.2px}
+.list p{margin:0;color:var(--muted)}
+
+/* Bento */
+.bento{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-top:56px}
+.tile{background:#fff;border:1px solid var(--line);border-radius:28px;padding:30px;overflow:hidden;position:relative}
+.tile h3{font-size:clamp(22px,2.6vw,28px);letter-spacing:-.02em;line-height:1.1;margin:0 0 8px}
+.tile p{margin:0;color:var(--muted)}
+.tile .big{font-size:clamp(44px,6vw,64px);font-weight:800;letter-spacing:-.04em;line-height:1;margin-bottom:10px;color:var(--accent)}
+.t-wallet{grid-column:span 3;grid-row:span 2;display:flex;flex-direction:column}
+.t-wallet .shot{margin:26px auto -64px;width:72%}
+.t-points{grid-column:span 3;grid-row:span 2;display:flex;flex-direction:column}
+.t-points .shot{margin:26px auto -90px;width:94%}
+.t-s{grid-column:span 2}
+.shot.dev.phone{border-radius:40px}
+
+/* Dark showcase */
+.show{max-width:900px;margin:56px auto 0}
+
+/* Privacy */
+.priv{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:48px}
+.priv .tile{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.12)}
+.priv .tile p{color:#B9B5D3}
+.priv .tile h3{color:#fff}
+
+/* FAQ */
+.faq{max-width:820px;margin:48px auto 0}
+.faq details{border-bottom:1px solid var(--line);padding:22px 0}
+.faq summary{cursor:pointer;list-style:none;font-weight:700;font-size:clamp(18px,2.2vw,21px);display:flex;justify-content:space-between;gap:16px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";font-weight:400;font-size:26px;line-height:1;color:var(--accent)}
+.faq details[open] summary::after{content:"−"}
+.faq p{color:var(--muted);margin:12px 0 0;max-width:720px}
 
 /* Support */
-.support{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:24px}
-.support .card a{font-weight:700}
+.support{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:40px}
+.support .tile a{font-weight:700}
 
-footer{padding:40px 0 56px;color:var(--muted);font-size:14px}
-footer .row{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;border-top:1px solid var(--line);padding-top:24px}
-footer a{color:var(--muted)}
-.fine{margin-top:14px;max-width:760px}
+footer{background:var(--alt);padding:32px 0 48px;color:var(--muted);font-size:12px;line-height:1.5}
+footer .row{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between;border-top:1px solid var(--line);padding-top:18px;margin-top:18px;font-size:13px}
+footer a{color:var(--ink2);text-decoration:none}
 
-@media (max-width:820px){
-  .hero-grid{grid-template-columns:1fr;gap:32px;margin-top:32px}
-  .features{grid-template-columns:1fr}
-  .band{grid-template-columns:1fr;padding:32px 22px}
-  .support{grid-template-columns:1fr}
-  nav .links a.hide-sm{display:none}
+@media (max-width:860px){
+  .bar nav a.opt{display:none}
+  .stats{grid-template-columns:repeat(2,1fr);gap:28px}
+  .stats .stat:last-child{grid-column:span 2}
+  .pair,.pair.flip{grid-template-columns:1fr;justify-items:center}
+  .pair .phone{width:62%;max-width:300px}
+  .pair.flip .pad{order:0}
+  .feats,.feats.three{grid-template-columns:1fr 1fr}
+  .split{grid-template-columns:1fr;gap:40px}
+  .bento{grid-template-columns:1fr}
+  .t-wallet,.t-points,.t-s{grid-column:auto;grid-row:auto}
+  .priv,.support{grid-template-columns:1fr}
+  section{padding:80px 0}
+}
+@media (max-width:520px){
+  .feats,.feats.three{grid-template-columns:1fr}
+  .stage .phone{width:34%}
 }
 </style>
 </head>
 <body>
 
-<header class="hero">
+<div class="bar">
+  <div class="wrap">
+    <a class="name" href="#top"><img src="assets/icon.png" alt="">LoungeScout</a>
+    <nav>
+      <a class="opt" href="#home">Overview</a>
+      <a class="opt" href="#lounges">Lounges</a>
+      <a class="opt" href="#trips">Trips</a>
+      <a class="opt" href="#wallet">Wallet</a>
+      <a href="#support">Support</a>
+      <a class="pill" href="#faq">Coming soon</a>
+    </nav>
+  </div>
+</div>
+
+<header class="hero center" id="top">
   <div class="glow" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
   <div class="wrap">
-    <nav>
-      <a class="brand" href="./"><img src="assets/icon.png" alt="">LoungeScout</a>
-      <div class="links">
-        <a class="hide-sm" href="#features">Features</a>
-        <a href="#support">Support</a>
-        <a class="hide-sm" href="privacy.html">Privacy</a>
-      </div>
-    </nav>
-    <div class="hero-grid">
-      <div>
-        <h1>Know your lounge before you land.</h1>
-        <p class="lead">LoungeScout shows which airport lounges your credit cards, memberships and tickets open, what it costs when they don't, and plans every trip around them.</p>
-        <div class="cta">
-          <a class="btn primary" href="#support" aria-label="Coming soon to the App Store">
-            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.48.83-.72 0-1.82-.81-3-.79-1.54.02-2.96.9-3.76 2.28-1.6 2.78-.41 6.9 1.15 9.16.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74s1.78.74 3 .72c1.24-.02 2.02-1.12 2.78-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.39-.92-2.41-3.69zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.02.61-2.67 1.37-.58.67-1.1 1.76-.96 2.8 1.02.08 2.06-.52 2.69-1.28z"/></svg>
-            Coming soon to the App Store
-          </a>
-          <span class="soon">Free · iPhone and iPad</span>
-        </div>
-      </div>
-      <div class="phone"><img src="assets/1-home.jpg" alt="LoungeScout home screen showing a next trip and lounges free with your cards"></div>
+    <p class="eyebrow">LoungeScout</p>
+    <h1>Your lounge.<br>Found.</h1>
+    <p class="lead">See which airport lounges your credit cards, memberships and tickets open, what it costs when they don't, and plan every trip around them.</p>
+    <div class="cta">
+      <a class="btn" href="#faq">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.48.83-.72 0-1.82-.81-3-.79-1.54.02-2.96.9-3.76 2.28-1.6 2.78-.41 6.9 1.15 9.16.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74s1.78.74 3 .72c1.24-.02 2.02-1.12 2.78-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.39-.92-2.41-3.69zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.02.61-2.67 1.37-.58.67-1.1 1.76-.96 2.8 1.02.08 2.06-.52 2.69-1.28z"/></svg>
+        Coming soon to the App Store
+      </a>
+      <a class="link" href="#home">See what it does</a>
+    </div>
+    <div class="stage">
+      <div class="dev pad"><img src="assets/ipad-1-home.jpg" alt="LoungeScout on iPad: greeting, lounges free with your cards, and your next trip"></div>
+      <div class="dev phone"><img src="assets/1-home.jpg" alt="LoungeScout on iPhone showing the home screen"></div>
+    </div>
+    <div class="chips" aria-label="Jump to a feature">
+      <a href="#home">Home</a><a href="#lounges">Lounges</a><a href="#details">Lounge details</a><a href="#trips">Trips</a><a href="#wallet">Wallet</a><a href="#points">Points</a><a href="#photos">Traveler photos</a><a href="#privacy">Privacy</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>672</b><span>lounges</span></div>
+      <div class="stat"><b>67</b><span>airports</span></div>
+      <div class="stat"><b>28</b><span>cards, memberships and statuses</span></div>
+      <div class="stat"><b>38</b><span>points transfer partners</span></div>
+      <div class="stat"><b>72</b><span>travel tips</span></div>
     </div>
   </div>
 </header>
 
 <main>
-  <section id="features">
-    <div class="wrap">
-      <div class="kicker">What it does</div>
-      <h2>Your wallet, turned into a lounge map.</h2>
-      <p class="sub">Add your credit cards, memberships and elite status once. LoungeScout works out where they get you in at hundreds of airports.</p>
-      <div class="features">
-        <div class="card">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18v-6a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v6"/><path d="M2 18h20"/><path d="M6 9V7a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2"/></svg></div>
-          <h3>Find your lounge</h3>
-          <p>Every lounge at the airport, with the free ones marked for you. Filter by terminal, showers, food and more.</p>
-        </div>
-        <div class="card">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/></svg></div>
-          <h3>Plan every trip</h3>
-          <p>One-way, round-trip and multi-city. See your options at each airport, layovers included, and save a first choice and backup.</p>
-        </div>
-        <div class="card">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="3"/><path d="M2 10h20"/></svg></div>
-          <h3>Get more from your cards</h3>
-          <p>Travel perks for each credit card you carry, and how far your points go when moved to airline and hotel programs.</p>
-        </div>
-      </div>
-      <div class="screens" aria-label="App screenshots">
-        <figure><img src="assets/2-lounges.jpg" alt="Lounges at an airport, filtered by concourse" loading="lazy"><figcaption>Lounges by terminal</figcaption></figure>
-        <figure><img src="assets/3-lounge.jpg" alt="A lounge page showing how you get in" loading="lazy"><figcaption>How you get in</figcaption></figure>
-        <figure><img src="assets/6-points.jpg" alt="Points transfer partners with converted balances" loading="lazy"><figcaption>Points, converted</figcaption></figure>
-        <figure><img src="assets/1-home.jpg" alt="Home screen with your next trip" loading="lazy"><figcaption>Your next trip</figcaption></figure>
-      </div>
-    </div>
-  </section>
 
-  <section>
-    <div class="wrap">
-      <div class="band">
-        <div>
-          <h2>Private by design.</h2>
-          <p>No accounts, no ads, no tracking. Your cards, trips and visits stay on your device. LoungeScout never asks for card numbers.</p>
-        </div>
-        <div class="pills"><span class="pill">No account</span><span class="pill">No ads</span><span class="pill">No tracking</span></div>
-      </div>
+<section id="home">
+  <div class="wrap">
+    <p class="kicker">Home</p>
+    <h2>Everything you need.<br>Before you leave home.</h2>
+    <p class="intro">Open LoungeScout and see <b>how many lounges your credit cards get you into</b>, your next flight as a boarding pass, and your home airport, with a fresh travel tip every day.</p>
+    <div class="pair">
+      <div class="dev pad"><img src="assets/ipad-7-home-dark.jpg" alt="Home screen on iPad in dark mode" loading="lazy"></div>
+      <div class="dev phone"><img src="assets/7-home-dark.jpg" alt="Home screen on iPhone in dark mode" loading="lazy"></div>
     </div>
-  </section>
+    <div class="feats">
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 3v2M5.6 5.6l1.4 1.4M3 12h2M19 12h2M17 7l1.4-1.4"/><circle cx="12" cy="13" r="4"/></svg></div><h3>A greeting for you</h3><p>Good morning, good evening, by name, plus a new travel tip each day.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18v-6a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v6"/><path d="M2 18h20"/></svg></div><h3>Your lounge count</h3><p>How many lounges your wallet opens, across how many airports.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18v4a2 2 0 0 0 0 4v4H3v-4a2 2 0 0 0 0-4z"/></svg></div><h3>Next trip, as a ticket</h3><p>A boarding-pass card with a countdown and your free lounges at the airport.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg></div><h3>Home airport</h3><p>Your airport up front, with how many lounges are free for you there.</p></div>
+    </div>
+  </div>
+</section>
 
-  <section id="support">
-    <div class="wrap">
-      <div class="kicker">Support</div>
-      <h2>We're here to help.</h2>
-      <p class="sub">Found a lounge that's wrong, or have a question? We read every message.</p>
-      <div class="support">
-        <div class="card">
-          <h3>Email us</h3>
-          <p><a href="mailto:LoungeScoutapp@gmail.com">LoungeScoutapp@gmail.com</a></p>
-          <p style="margin-top:8px">In the app, every lounge page also has a "Report a problem" button.</p>
-        </div>
-        <div class="card">
-          <h3>Policies</h3>
-          <p><a href="privacy.html">Privacy policy</a></p>
-          <p><a href="terms.html">Terms of use</a></p>
-        </div>
+<section class="night" id="lounges">
+  <div class="wrap">
+    <p class="kicker">Lounges</p>
+    <h2>Every lounge.<br>Sorted for you.</h2>
+    <p class="intro">Pick an airport and see every lounge, terminal by terminal. <b>The ones your cards open are marked free.</b> The rest show what a day pass costs.</p>
+    <div class="pair flip">
+      <div class="dev phone"><img src="assets/2-lounges.jpg" alt="Lounges at Atlanta on iPhone, filtered by concourse" loading="lazy"></div>
+      <div class="dev pad"><img src="assets/ipad-2-lounges.jpg" alt="Lounges at Atlanta on iPad" loading="lazy"></div>
+    </div>
+    <div class="feats">
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></div><h3>Free, marked clearly</h3><p>See exactly which card, membership or ticket gets you in.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M7 12h10M10 18h4"/></svg></div><h3>Filters that matter</h3><p>Showers, food, quiet areas, work space and more.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9z"/></svg></div><h3>Outlets, noted</h3><p>Know where you can plug in before you sit down.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Layover mode</h3><p>Connecting? See what's open on your way between gates.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="details">
+  <div class="wrap">
+    <p class="kicker">Lounge details</p>
+    <h2>Know how to get in.<br>And where to go.</h2>
+    <div class="split">
+      <div class="dev phone"><img src="assets/3-lounge.jpg" alt="A lounge page showing how you get in and where to find it" loading="lazy"></div>
+      <div class="list">
+        <div><h3>How you get in</h3><p>The fine print, in plain words: visits per year, guest rules, and whether you need a same-day flight.</p></div>
+        <div><h3>Where to find it</h3><p>Terminal, concourse and nearest gate, with a terminal map and directions one tap away.</p></div>
+        <div><h3>Amenities at a glance</h3><p>Food, bar, Wi-Fi, showers, work areas and outlets.</p></div>
+        <div><h3>Hours and guests</h3><p>Opening hours and what it costs to bring someone along.</p></div>
+        <div><h3>Log your visits</h3><p>Keep a record of the lounges you've visited, with the date.</p></div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
+<section class="alt" id="trips">
+  <div class="wrap">
+    <p class="kicker">Trips</p>
+    <h2>Plan the lounge<br>before the flight.</h2>
+    <p class="intro">Add a one-way, round-trip or multi-city trip. LoungeScout shows <b>what's free at every airport along the way</b>, layovers included, so you can save a first choice and a backup.</p>
+    <div class="pair">
+      <div class="dev pad"><img src="assets/ipad-4-trip-plan.jpg" alt="A trip from LAX to Tokyo with a lounge plan on iPad" loading="lazy"></div>
+      <div class="dev phone"><img src="assets/1-home.jpg" alt="Next trip shown as a boarding pass on iPhone" loading="lazy"></div>
+    </div>
+    <div class="feats three">
+      <div class="feat"><h3>Your lounge plan</h3><p>Pick a first choice and a backup at each airport. They show up on Home before you fly.</p></div>
+      <div class="feat"><h3>Your ticket counts too</h3><p>Flying business on a partner airline? Lounges your ticket opens are included.</p></div>
+      <div class="feat"><h3>A pass for every trip</h3><p>Airline, cabin, date and a countdown, all on one card.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="wallet">
+  <div class="wrap">
+    <p class="kicker">Wallet and points</p>
+    <h2>Get more from<br>every credit card.</h2>
+    <p class="intro">Add the credit cards, memberships and elite statuses you carry. See every travel perk, and how far your points go. <b>No card numbers, ever.</b></p>
+    <div class="bento">
+      <div class="tile t-wallet">
+        <h3>Every perk, in one place.</h3>
+        <p>Hotel, airline and dining credits for each card, plus how many lounges it opens.</p>
+        <div class="dev phone shot"><img src="assets/5-wallet.jpg" alt="Wallet on iPhone showing card perks" loading="lazy"></div>
+      </div>
+      <div class="tile t-points" id="points">
+        <h3>Points, converted.</h3>
+        <p>Type your balance and see what it's worth at 38 airline and hotel partners.</p>
+        <div class="dev pad shot"><img src="assets/ipad-6-points.jpg" alt="Points transfer partners on iPad" loading="lazy"></div>
+      </div>
+      <div class="tile t-s"><div class="big">19</div><h3>Credit cards</h3><p>The top travel cards, with perks checked and dated.</p></div>
+      <div class="tile t-s"><div class="big">5</div><h3>Points programs</h3><p>See transfer ratios and how fast points move.</p></div>
+      <div class="tile t-s"><div class="big">9</div><h3>Memberships and statuses</h3><p>Lounge memberships like Priority Pass, plus airline elite status.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="photos">
+  <div class="wrap center">
+    <p class="kicker">Traveler photos</p>
+    <h2>See it before<br>you walk in.</h2>
+    <p class="intro">Share photos of the lounges you visit to help other travelers. <b>Every photo is reviewed before it appears</b>, and anyone can report one.</p>
+    <div class="stage" style="max-width:340px">
+      <div class="dev phone" style="position:static;width:100%"><img src="assets/3-lounge.jpg" alt="Lounge page where travelers can add photos" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<section class="night" id="privacy">
+  <div class="wrap center">
+    <p class="kicker">Privacy</p>
+    <h2>Private by design.</h2>
+    <p class="intro">Your cards, trips and visits stay on your device. LoungeScout doesn't need an account, and it never asks for a card number.</p>
+    <div class="priv">
+      <div class="tile"><h3>No account</h3><p>Open it and go. No sign-up, no password.</p></div>
+      <div class="tile"><h3>No ads</h3><p>Nothing to sell you, nothing tracking you.</p></div>
+      <div class="tile"><h3>On your device</h3><p>Your data stays with you. Delete it anytime in Settings.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <h2 class="center">Questions? Answers.</h2>
+    <div class="faq">
+      <details><summary>When can I download it?</summary><p>LoungeScout is coming soon to the App Store for iPhone and iPad. It will be free.</p></details>
+      <details><summary>Do I need to enter my card number?</summary><p>No. You only pick which credit cards, memberships and statuses you have from a list. LoungeScout never asks for card numbers or account logins.</p></details>
+      <details><summary>Which cards and memberships does it know?</summary><p>The major travel credit cards from American Express, Chase, Capital One, Citi and more, plus lounge memberships like Priority Pass and airline elite statuses. We add more over time.</p></details>
+      <details><summary>How accurate is the lounge information?</summary><p>We check access rules and card perks regularly and show the date we last checked. Rules change often, so confirm with the lounge or your card issuer before you travel. Spot something wrong? Every lounge page has a "Report a problem" button.</p></details>
+      <details><summary>Does it work on iPad?</summary><p>Yes. LoungeScout is designed for both iPhone and iPad, in light and dark mode.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="support">
+  <div class="wrap">
+    <p class="kicker">Support</p>
+    <h2>We're here to help.</h2>
+    <div class="support">
+      <div class="tile"><h3>Email us</h3><p><a href="mailto:LoungeScoutapp@gmail.com">LoungeScoutapp@gmail.com</a></p><p style="margin-top:8px">Found a lounge that's wrong, or have a question? We read every message.</p></div>
+      <div class="tile"><h3>Policies</h3><p><a href="privacy.html">Privacy policy</a></p><p><a href="terms.html">Terms of use</a></p></div>
+    </div>
+  </div>
+</section>
+
 </main>
 
 <footer>
   <div class="wrap">
+    <p>Lounge access rules, prices and hours change often. Always confirm with the lounge or your card issuer before you travel. LoungeScout is not affiliated with any airline, lounge, card issuer or membership program. Their names are used only to describe what they offer. Apple, iPhone, iPad and the App Store are trademarks of Apple Inc.</p>
     <div class="row">
       <span>© 2026 Arbi Karamians</span>
       <span><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a> · <a href="mailto:LoungeScoutapp@gmail.com">Contact</a></span>
     </div>
-    <p class="fine">Lounge access rules, prices and hours change often. Always confirm with the lounge or your card issuer before you travel. LoungeScout is not affiliated with any airline, lounge or card issuer. Their names are used only to describe what they offer. Apple and the App Store are trademarks of Apple Inc.</p>
   </div>
 </footer>
 
