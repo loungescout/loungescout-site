@@ -1,0 +1,166 @@
+{
+ "UA": {
+  "n": "United",
+  "al": "star"
+ },
+ "AC": {
+  "n": "Air Canada",
+  "al": "star"
+ },
+ "DL": {
+  "n": "Delta",
+  "al": "skyteam"
+ },
+ "AF": {
+  "n": "Air France",
+  "al": "skyteam"
+ },
+ "KE": {
+  "n": "Korean Air",
+  "al": "skyteam"
+ },
+ "VS": {
+  "n": "Virgin Atlantic",
+  "al": "skyteam"
+ },
+ "AA": {
+  "n": "American",
+  "al": "oneworld"
+ },
+ "AS": {
+  "n": "Alaska",
+  "al": "oneworld"
+ },
+ "QF": {
+  "n": "Qantas",
+  "al": "oneworld"
+ },
+ "EK": {
+  "n": "Emirates",
+  "al": null
+ },
+ "BA": {
+  "n": "British Airways",
+  "al": "oneworld"
+ },
+ "LH": {
+  "n": "Lufthansa",
+  "al": "star"
+ },
+ "TK": {
+  "n": "Turkish Airlines",
+  "al": "star"
+ },
+ "AI": {
+  "n": "Air India",
+  "al": "star"
+ },
+ "NH": {
+  "n": "ANA",
+  "al": "star"
+ },
+ "AV": {
+  "n": "Avianca",
+  "al": "star"
+ },
+ "TP": {
+  "n": "TAP Portugal",
+  "al": "star"
+ },
+ "QR": {
+  "n": "Qatar Airways",
+  "al": "oneworld"
+ },
+ "CX": {
+  "n": "Cathay Pacific",
+  "al": "oneworld"
+ },
+ "KL": {
+  "n": "KLM",
+  "al": "skyteam"
+ },
+ "CI": {
+  "n": "China Airlines",
+  "al": "skyteam"
+ },
+ "EI": {
+  "n": "Aer Lingus",
+  "al": null
+ },
+ "LA": {
+  "n": "LATAM",
+  "al": null
+ },
+ "B6": {
+  "n": "JetBlue",
+  "al": null
+ },
+ "OT": {
+  "n": "Other airline",
+  "al": null
+ },
+ "EY": {
+  "n": "Etihad",
+  "al": null
+ },
+ "GF": {
+  "n": "Gulf Air",
+  "al": null
+ },
+ "SV": {
+  "n": "Saudia",
+  "al": "skyteam"
+ },
+ "SQ": {
+  "n": "Singapore Airlines",
+  "al": "star"
+ },
+ "JL": {
+  "n": "Japan Airlines",
+  "al": "oneworld"
+ },
+ "LY": {
+  "n": "El Al",
+  "al": null
+ },
+ "HX": {
+  "n": "Hong Kong Airlines",
+  "al": null
+ },
+ "TS": {
+  "n": "Air Transat",
+  "al": null
+ },
+ "AM": {
+  "n": "Aeromexico",
+  "al": "skyteam"
+ },
+ "OZ": {
+  "n": "Asiana Airlines",
+  "al": "star"
+ },
+ "MU": {
+  "n": "China Eastern",
+  "al": "skyteam"
+ },
+ "LX": {
+  "n": "SWISS",
+  "al": "star"
+ },
+ "AZ": {
+  "n": "ITA Airways",
+  "al": "star"
+ },
+ "IB": {
+  "n": "Iberia",
+  "al": "oneworld"
+ },
+ "NZ": {
+  "n": "Air New Zealand",
+  "al": "star"
+ },
+ "VA": {
+  "n": "Virgin Australia",
+  "al": null
+ }
+}

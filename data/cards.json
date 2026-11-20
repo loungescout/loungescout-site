@@ -1,0 +1,170 @@
+[
+ {
+  "kind": "card",
+  "id": "amexPlat",
+  "name": "American Express Platinum",
+  "fee": 895
+ },
+ {
+  "kind": "card",
+  "id": "amexBiz",
+  "name": "American Express Business Platinum",
+  "fee": 895
+ },
+ {
+  "kind": "card",
+  "id": "centurion",
+  "name": "American Express Centurion",
+  "fee": 5000,
+  "note": "plus a $10,000 one-time joining fee"
+ },
+ {
+  "kind": "card",
+  "id": "deltaRes",
+  "name": "American Express Delta SkyMiles Reserve (personal or business)",
+  "fee": 650
+ },
+ {
+  "kind": "card",
+  "id": "deltaPlat",
+  "name": "American Express Delta SkyMiles Platinum (personal or business)",
+  "fee": 350,
+  "note": "no free lounge access"
+ },
+ {
+  "kind": "card",
+  "id": "aspire",
+  "name": "American Express Hilton Honors Aspire",
+  "fee": 550
+ },
+ {
+  "kind": "card",
+  "id": "csr",
+  "name": "Chase Sapphire Reserve",
+  "fee": 795
+ },
+ {
+  "kind": "card",
+  "id": "jpm",
+  "name": "J.P. Morgan Reserve or Sapphire Reserve for Business",
+  "fee": 795
+ },
+ {
+  "kind": "card",
+  "id": "uaInf",
+  "name": "Chase United Club Infinite or United Club Business",
+  "fee": 695
+ },
+ {
+  "kind": "card",
+  "id": "uaExp",
+  "name": "Chase United Explorer",
+  "fee": 150,
+  "note": "$0 the first year"
+ },
+ {
+  "kind": "card",
+  "id": "strata",
+  "name": "Citi Strata Elite",
+  "fee": 595
+ },
+ {
+  "kind": "card",
+  "id": "citiExec",
+  "name": "Citi / AAdvantage Executive World Legend",
+  "fee": 695
+ },
+ {
+  "kind": "card",
+  "id": "citiGlobe",
+  "name": "Citi / AAdvantage Globe",
+  "fee": 350
+ },
+ {
+  "kind": "card",
+  "id": "venture",
+  "name": "Capital One Venture X",
+  "fee": 395
+ },
+ {
+  "kind": "card",
+  "id": "venturebiz",
+  "name": "Capital One Venture X Business",
+  "fee": 395
+ },
+ {
+  "kind": "card",
+  "id": "atmos",
+  "name": "Atmos Rewards Summit Visa Infinite",
+  "fee": 395
+ },
+ {
+  "kind": "card",
+  "id": "usb",
+  "name": "U.S. Bank Altitude Reserve",
+  "fee": 400
+ },
+ {
+  "kind": "card",
+  "id": "bilt",
+  "name": "Bilt Palladium",
+  "fee": 495
+ },
+ {
+  "kind": "card",
+  "id": "luxury",
+  "name": "Luxury Card Mastercard Black",
+  "fee": 699
+ },
+ {
+  "kind": "member",
+  "id": "pp",
+  "name": "Priority Pass membership",
+  "fee": 99,
+  "from": true
+ },
+ {
+  "kind": "member",
+  "id": "alaskaM",
+  "name": "Alaska Lounge membership",
+  "fee": 595,
+  "from": true
+ },
+ {
+  "kind": "member",
+  "id": "skyM",
+  "name": "Delta Sky Club membership",
+  "fee": 695,
+  "from": true
+ },
+ {
+  "kind": "member",
+  "id": "admM",
+  "name": "Admirals Club membership"
+ },
+ {
+  "kind": "member",
+  "id": "uaM",
+  "name": "United Club membership"
+ },
+ {
+  "kind": "status",
+  "id": "starGold",
+  "name": "Star Alliance Gold"
+ },
+ {
+  "kind": "status",
+  "id": "skyElite",
+  "name": "Delta Medallion or SkyTeam Elite Plus"
+ },
+ {
+  "kind": "status",
+  "id": "owElite",
+  "name": "Oneworld Emerald or Sapphire"
+ },
+ {
+  "kind": "status",
+  "id": "aaPlat",
+  "name": "American Platinum or above"
+ }
+]

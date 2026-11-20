@@ -1,0 +1,787 @@
+{
+ "checked": "Nov 15, 2026",
+ "programs": [
+  {
+   "id": "mr",
+   "name": "Amex Membership Rewards",
+   "short": "Amex points",
+   "cards": [
+    "amexPlat",
+    "amexBiz",
+    "centurion"
+   ],
+   "partners": [
+    {
+     "name": "Aer Lingus AerClub",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Aeromexico Rewards",
+     "type": "air",
+     "from": 1000,
+     "to": 1600,
+     "time": "Instant"
+    },
+    {
+     "name": "Air Canada Aeroplan",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Air France-KLM Flying Blue",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "ANA Mileage Club",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "About 2 days"
+    },
+    {
+     "name": "Avianca LifeMiles",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "British Airways Club",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Cathay Pacific",
+     "type": "air",
+     "from": 1000,
+     "to": 800,
+     "time": "About 8 hours"
+    },
+    {
+     "name": "Delta SkyMiles",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Emirates Skywards",
+     "type": "air",
+     "from": 1000,
+     "to": 800,
+     "time": "Instant"
+    },
+    {
+     "name": "Etihad Guest",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Iberia Plus",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "About 1 day"
+    },
+    {
+     "name": "JetBlue TrueBlue",
+     "type": "air",
+     "from": 250,
+     "to": 200,
+     "time": "Instant"
+    },
+    {
+     "name": "Qantas Frequent Flyer",
+     "type": "air",
+     "from": 500,
+     "to": 500,
+     "time": "Instant"
+    },
+    {
+     "name": "Qatar Privilege Club",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Within a day"
+    },
+    {
+     "name": "Singapore KrisFlyer",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Within a day"
+    },
+    {
+     "name": "Virgin Atlantic Flying Club",
+     "type": "air",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Choice Privileges",
+     "type": "hotel",
+     "from": 1000,
+     "to": 1000,
+     "time": "Instant"
+    },
+    {
+     "name": "Hilton Honors",
+     "type": "hotel",
+     "from": 1000,
+     "to": 2000,
+     "time": "Instant"
+    },
+    {
+     "name": "Leading Hotels Leaders Club",
+     "type": "hotel",
+     "from": 1000,
+     "to": 250,
+     "time": ""
+    },
+    {
+     "name": "Marriott Bonvoy",
+     "type": "hotel",
+     "from": 1000,
+     "to": 1000,
+     "time": "Within an hour"
+    }
+   ]
+  },
+  {
+   "id": "ur",
+   "name": "Chase Ultimate Rewards",
+   "short": "Chase points",
+   "cards": [
+    "csr",
+    "jpm"
+   ],
+   "partners": [
+    {
+     "name": "Aer Lingus AerClub",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Air Canada Aeroplan",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Air France-KLM Flying Blue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "British Airways Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Iberia Plus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "JetBlue TrueBlue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Singapore KrisFlyer",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Southwest Rapid Rewards",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "United MileagePlus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Virgin Atlantic Flying Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "IHG One Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Marriott Bonvoy",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "World of Hyatt",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    },
+    {
+     "name": "Wyndham Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": "Usually next business day"
+    }
+   ]
+  },
+  {
+   "id": "c1",
+   "name": "Capital One Miles",
+   "short": "Capital One miles",
+   "cards": [
+    "venture",
+    "venturebiz"
+   ],
+   "partners": [
+    {
+     "name": "Aeromexico Rewards",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Air Canada Aeroplan",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Air France-KLM Flying Blue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Avianca LifeMiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "British Airways Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Cathay Pacific",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 2 days"
+    },
+    {
+     "name": "Copa ConnectMiles",
+     "type": "air",
+     "from": 1000,
+     "to": 975,
+     "time": ""
+    },
+    {
+     "name": "Emirates Skywards",
+     "type": "air",
+     "from": 4,
+     "to": 3,
+     "time": "Instant"
+    },
+    {
+     "name": "Etihad Guest",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "EVA Air Infinity MileageLands",
+     "type": "air",
+     "from": 4,
+     "to": 3,
+     "time": "About 1 day"
+    },
+    {
+     "name": "Finnair Plus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Japan Airlines Mileage Bank",
+     "type": "air",
+     "from": 4,
+     "to": 3,
+     "time": "Instant"
+    },
+    {
+     "name": "JetBlue TrueBlue",
+     "type": "air",
+     "from": 5,
+     "to": 3,
+     "time": "A few hours"
+    },
+    {
+     "name": "Qantas Frequent Flyer",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 1 day"
+    },
+    {
+     "name": "Qatar Privilege Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Singapore KrisFlyer",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Within a day"
+    },
+    {
+     "name": "TAP Miles&Go",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Turkish Miles&Smiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Virgin Atlantic Flying Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Accor Live Limitless",
+     "type": "hotel",
+     "from": 2,
+     "to": 1,
+     "time": "About 1 hour"
+    },
+    {
+     "name": "Choice Privileges",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "I Prefer Hotel Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 2,
+     "time": ""
+    },
+    {
+     "name": "Wyndham Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": "Within a day"
+    }
+   ]
+  },
+  {
+   "id": "ty",
+   "name": "Citi ThankYou Rewards",
+   "short": "Citi points",
+   "cards": [
+    "strata"
+   ],
+   "partners": [
+    {
+     "name": "Air France-KLM Flying Blue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "American AAdvantage",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Avianca LifeMiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Cathay Pacific",
+     "type": "air",
+     "from": 1000,
+     "to": 1100,
+     "time": "Instant"
+    },
+    {
+     "name": "Emirates Skywards",
+     "type": "air",
+     "from": 1000,
+     "to": 800,
+     "time": ""
+    },
+    {
+     "name": "Etihad Guest",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 1 hour"
+    },
+    {
+     "name": "EVA Air Infinity MileageLands",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 1 day"
+    },
+    {
+     "name": "Japan Airlines Mileage Bank",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "JetBlue TrueBlue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Qantas Frequent Flyer",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 1 day"
+    },
+    {
+     "name": "Qatar Privilege Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "About 1 day"
+    },
+    {
+     "name": "Singapore KrisFlyer",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Within a day"
+    },
+    {
+     "name": "Thai Royal Orchid Plus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "3 to 7 days"
+    },
+    {
+     "name": "Turkish Miles&Smiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Within a day"
+    },
+    {
+     "name": "Virgin Atlantic Flying Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": "Instant"
+    },
+    {
+     "name": "Accor Live Limitless",
+     "type": "hotel",
+     "from": 2,
+     "to": 1,
+     "time": "About 2 days"
+    },
+    {
+     "name": "Choice Privileges",
+     "type": "hotel",
+     "from": 2,
+     "to": 3,
+     "time": ""
+    },
+    {
+     "name": "I Prefer Hotel Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 2,
+     "time": ""
+    },
+    {
+     "name": "Leading Hotels Leaders Club",
+     "type": "hotel",
+     "from": 5,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Wyndham Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    }
+   ]
+  },
+  {
+   "id": "bilt",
+   "name": "Bilt Rewards",
+   "short": "Bilt points",
+   "cards": [
+    "bilt"
+   ],
+   "partners": [
+    {
+     "name": "Aer Lingus AerClub",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Air Canada Aeroplan",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Air France-KLM Flying Blue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Alaska Atmos Rewards",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Avianca LifeMiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "British Airways Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Cathay Pacific",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Emirates Skywards",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Etihad Guest",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Iberia Plus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Japan Airlines Mileage Bank",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "JetBlue TrueBlue",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Qatar Privilege Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Southwest Rapid Rewards",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "TAP Miles&Go",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Turkish Miles&Smiles",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "United MileagePlus",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Virgin Atlantic Flying Club",
+     "type": "air",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Amtrak Guest Rewards",
+     "type": "rail",
+     "from": 2,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Hilton Honors",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "World of Hyatt",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "IHG One Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Marriott Bonvoy",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Wyndham Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 1,
+     "time": ""
+    },
+    {
+     "name": "Accor Live Limitless",
+     "type": "hotel",
+     "from": 3,
+     "to": 2,
+     "time": ""
+    },
+    {
+     "name": "I Prefer Hotel Rewards",
+     "type": "hotel",
+     "from": 1,
+     "to": 2,
+     "time": ""
+    }
+   ]
+  }
+ ]
+}

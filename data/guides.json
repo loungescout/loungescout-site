@@ -1,0 +1,492 @@
+{
+ "ATL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.atl.com"
+  }
+ ],
+ "BOS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.massport.com/logan-airport"
+  }
+ ],
+ "DEN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flydenver.com"
+  }
+ ],
+ "DFW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dfwairport.com"
+  }
+ ],
+ "EWR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.newarkairport.com"
+  }
+ ],
+ "IAD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flydulles.com"
+  }
+ ],
+ "JFK": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.jfkairport.com"
+  }
+ ],
+ "LAS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.harryreidairport.com"
+  }
+ ],
+ "LAX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flylax.com"
+  }
+ ],
+ "LGA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.laguardiaairport.com"
+  }
+ ],
+ "MIA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.miami-airport.com"
+  }
+ ],
+ "ORD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flychicago.com/ohare"
+  }
+ ],
+ "SEA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.portseattle.org/sea-tac"
+  }
+ ],
+ "SFO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flysfo.com"
+  }
+ ],
+ "CLT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.cltairport.com"
+  }
+ ],
+ "IAH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.fly2houston.com/iah"
+  }
+ ],
+ "PHX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.skyharbor.com"
+  }
+ ],
+ "DTW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.metroairport.com"
+  }
+ ],
+ "MSP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.mspairport.com"
+  }
+ ],
+ "PHL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.phl.org"
+  }
+ ],
+ "SLC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://slcairport.com"
+  }
+ ],
+ "DCA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyreagan.com"
+  }
+ ],
+ "MCO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flymco.com"
+  }
+ ],
+ "SAN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.san.org"
+  }
+ ],
+ "FLL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.fll.net"
+  }
+ ],
+ "BWI": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bwiairport.com"
+  }
+ ],
+ "TPA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.tampaairport.com"
+  }
+ ],
+ "AUS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyaustin.com"
+  }
+ ],
+ "BNA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flynashville.com"
+  }
+ ],
+ "HNL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://airports.hawaii.gov/hnl/"
+  }
+ ],
+ "PDX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flypdx.com"
+  }
+ ],
+ "MDW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flychicago.com/midway"
+  }
+ ],
+ "STL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flystl.com"
+  }
+ ],
+ "RDU": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.rdu.com"
+  }
+ ],
+ "SJC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flysanjose.com"
+  }
+ ],
+ "SNA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.ocair.com"
+  }
+ ],
+ "MSY": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flymsy.com"
+  }
+ ],
+ "SAT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flysanantonio.com"
+  }
+ ],
+ "PIT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flypittsburgh.com"
+  }
+ ],
+ "CVG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.cvgairport.com"
+  }
+ ],
+ "OAK": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.iflyoak.com"
+  }
+ ],
+ "MCI": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flykci.com"
+  }
+ ],
+ "CLE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.clevelandairport.com"
+  }
+ ],
+ "IND": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.ind.com"
+  }
+ ],
+ "HOU": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.fly2houston.com/hou"
+  }
+ ],
+ "CMH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flycolumbus.com"
+  }
+ ],
+ "MKE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.mitchellairport.com"
+  }
+ ],
+ "DAL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dallas-lovefield.com"
+  }
+ ],
+ "ABQ": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.abqsunport.com"
+  }
+ ],
+ "JAX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyjacksonville.com"
+  }
+ ],
+ "LHR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.heathrow.com"
+  }
+ ],
+ "CDG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.parisaeroport.fr/en/roissy-charles-de-gaulle"
+  }
+ ],
+ "NRT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.narita-airport.jp/en/"
+  }
+ ],
+ "HND": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://tokyo-haneda.com/en/"
+  }
+ ],
+ "YYZ": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.torontopearson.com"
+  }
+ ],
+ "CUN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.casa.asur.com.mx/en/airports/cancun"
+  }
+ ],
+ "FRA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.frankfurt-airport.com/en.html"
+  }
+ ],
+ "AMS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.schiphol.nl/en/"
+  }
+ ],
+ "HKG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.hongkongairport.com"
+  }
+ ],
+ "SIN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.changiairport.com"
+  }
+ ],
+ "DXB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dubaiairports.ae"
+  }
+ ],
+ "DOH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://dohahamadairport.com"
+  }
+ ],
+ "ICN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.airport.kr"
+  }
+ ],
+ "MEX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aicm.com.mx"
+  }
+ ],
+ "YVR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.yvr.ca"
+  }
+ ],
+ "MUC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.munich-airport.com"
+  }
+ ],
+ "ZRH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flughafen-zuerich.ch/en"
+  }
+ ],
+ "FCO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.adr.it/web/aeroporti-di-roma-en/fiumicino"
+  }
+ ],
+ "MAD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html"
+  }
+ ],
+ "SYD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.sydneyairport.com.au"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "checked": "Nov 16, 2026",
+ "cards": {
+  "amexPlat": [
+   {"i": "hotel", "t": "Hotel credit", "d": "Up to $600 a year, $300 each half-year, on prepaid Fine Hotels + Resorts or The Hotel Collection stays through Amex Travel. Two-night minimum for Fine Hotels + Resorts from Jan 1, 2027."},
+   {"i": "plane", "t": "Airline fee credit", "d": "Up to $200 a year for bag fees and inflight purchases on one airline you pick."},
+   {"i": "shield", "t": "CLEAR+", "d": "Up to $219 a year."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 for Global Entry or $85 for TSA PreCheck, once every 4 years."},
+   {"i": "car", "t": "Uber Cash", "d": "$15 a month, plus $20 more in December. $200 a year."},
+   {"i": "car", "t": "Uber One", "d": "Up to $120 a year for an Uber One membership."},
+   {"i": "food", "t": "Resy dining credit", "d": "Up to $100 a quarter at Resy restaurants in the US. $400 a year."},
+   {"i": "status", "t": "Hotel status", "d": "Hilton Honors Gold and Marriott Bonvoy Gold Elite. Enroll first."},
+   {"i": "lounge", "t": "Lounge access", "d": "Centurion Lounges, Priority Pass, Plaza Premium, Escape and more. 10 Delta Sky Club visits a year on Delta flights."},
+   {"i": "money", "t": "Lifestyle credits", "d": "Digital entertainment $300, lululemon $300, Equinox $300, Oura $200 and Walmart+ about $155 a year."}
+  ],
+  "amexBiz": [
+   {"i": "hotel", "t": "Hotel credit", "d": "Up to $600 a year, $300 each half-year, on prepaid Fine Hotels + Resorts or The Hotel Collection stays."},
+   {"i": "plane", "t": "Airline fee credit", "d": "Up to $200 a year on one airline you pick: bags, change fees, inflight purchases and lounge day passes."},
+   {"i": "money", "t": "35% points back on flights", "d": "On flights with your chosen airline paid with points through Amex Travel. Up to 1,000,000 points back a year."},
+   {"i": "shield", "t": "CLEAR+", "d": "Up to $219 a year."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Fee credit once every 4 years. Authorized users get it too."},
+   {"i": "hotel", "t": "Hilton credit", "d": "Up to $50 a quarter at Hilton properties. $200 a year."},
+   {"i": "status", "t": "Hotel and car status", "d": "Hilton Gold, Marriott Gold, National Executive and Hertz President's Circle. Enroll first."},
+   {"i": "lounge", "t": "Lounge access", "d": "Centurion Lounges, Priority Pass with 2 guests, Escape, Plaza Premium. 10 Delta Sky Club visits a year."},
+   {"i": "money", "t": "Business credits", "d": "Wireless $120, Dell $150, Adobe $250, Indeed $360 and ChatGPT Business $300 a year."}
+  ],
+  "centurion": [
+   {"i": "food", "t": "Resy dining credit", "d": "Up to $250 a quarter. $1,000 a year."},
+   {"i": "hotel", "t": "Hotel credit", "d": "Up to $600 a year on Fine Hotels + Resorts bookings. Breakfast for two, upgrade and 4 p.m. checkout."},
+   {"i": "status", "t": "Airline status", "d": "Delta Platinum Medallion."},
+   {"i": "status", "t": "Hotel status", "d": "Hilton Diamond, Marriott Gold Elite and IHG Platinum Elite."},
+   {"i": "status", "t": "Car rental status", "d": "Avis President's Club and Hertz Platinum."},
+   {"i": "lounge", "t": "Lounge access", "d": "Centurion Lounges, Priority Pass with guests, and PS LAX membership."},
+   {"i": "ticket", "t": "Cruise credit", "d": "$100 to $500 per stateroom through Amex cruise partners."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 for Global Entry or $85 for TSA PreCheck, once every 4 years."}
+  ],
+  "deltaRes": [
+   {"i": "ticket", "t": "Companion certificate", "d": "A round-trip companion ticket each year after renewal in First, Comfort or Main. US, Mexico, Caribbean and Central America. You pay taxes of $22 to $250."},
+   {"i": "lounge", "t": "Delta Sky Club", "d": "15 visits a year on Delta flights, unlimited after $75,000 spend. 4 guest passes. Centurion Lounges when you fly Delta."},
+   {"i": "bag", "t": "Free checked bags", "d": "First bag free for you and up to 8 others on your reservation. Second bag free on domestic flights."},
+   {"i": "status", "t": "Medallion head start", "d": "$2,500 MQDs each year, plus 1 MQD per $10 spent."},
+   {"i": "hotel", "t": "Delta Stays credit", "d": "Up to $200 a year on prepaid hotels through Delta Stays. Up to $250 on the business card."},
+   {"i": "food", "t": "Resy dining credit", "d": "Up to $20 a month at US Resy restaurants. $240 a year."},
+   {"i": "car", "t": "Rideshare credit", "d": "Up to $10 a month in the US. $120 a year."},
+   {"i": "plane", "t": "Award discount and upgrades", "d": "15% off Delta award flights. Added to the upgrade list after Medallion members."},
+   {"i": "status", "t": "Hertz President's Circle", "d": "Link your Hertz and SkyMiles accounts."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 for Global Entry or $85 for TSA PreCheck."}
+  ],
+  "deltaPlat": [
+   {"i": "ticket", "t": "Companion certificate", "d": "A round-trip Main Cabin companion ticket each year after renewal. US, Mexico, Caribbean and Central America. You pay taxes of $22 to $250."},
+   {"i": "bag", "t": "Free checked bags", "d": "First bag free for you and up to 8 others on your reservation. Second bag free on domestic flights."},
+   {"i": "status", "t": "Medallion head start", "d": "$2,500 MQDs each year, plus 1 MQD per $20 spent."},
+   {"i": "hotel", "t": "Delta Stays credit", "d": "Up to $150 a year on prepaid hotels through Delta Stays."},
+   {"i": "food", "t": "Resy dining credit", "d": "Up to $10 a month at US Resy restaurants. $120 a year."},
+   {"i": "car", "t": "Rideshare credit", "d": "Up to $10 a month in the US. $120 a year."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 for Global Entry or $85 for TSA PreCheck, once every 4 years."}
+  ],
+  "aspire": [
+   {"i": "status", "t": "Hilton Diamond", "d": "Top Hilton status while you have the card."},
+   {"i": "gift", "t": "Free night", "d": "One each card year. Earn up to 2 more, one for each $30,000 spent in a calendar year."},
+   {"i": "hotel", "t": "Hilton resort credit", "d": "Up to $200 each half-year at Hilton resorts. $400 a year."},
+   {"i": "plane", "t": "Flight credit", "d": "Up to $50 a quarter on flights booked with an airline or Amex Travel. $200 a year."},
+   {"i": "shield", "t": "CLEAR+", "d": "Up to $219 a year."},
+   {"i": "hotel", "t": "Waldorf Astoria and Conrad credit", "d": "Up to $100 on a 2-night stay booked through the Aspire card site."},
+   {"i": "status", "t": "National Executive status", "d": "Enroll in your Amex account."}
+  ],
+  "csr": [
+   {"i": "plane", "t": "Travel credit", "d": "$300 a year on any travel purchase."},
+   {"i": "hotel", "t": "The Edit hotel credit", "d": "Up to $250 twice a year on 2-night prepaid stays through The Edit. Breakfast, upgrade and a $100 property credit."},
+   {"i": "food", "t": "Dining credit", "d": "Up to $150 each half-year at Sapphire Reserve Exclusive Tables. $300 a year."},
+   {"i": "ticket", "t": "StubHub credit", "d": "Up to $150 each half-year. $300 a year."},
+   {"i": "car", "t": "Lyft credit", "d": "$10 a month in the app. $120 a year."},
+   {"i": "lounge", "t": "Lounge access", "d": "Priority Pass and Chase Sapphire Lounges, with 2 guests."},
+   {"i": "status", "t": "Hotel and car status", "d": "IHG Platinum Elite and Hertz Five Star."},
+   {"i": "shield", "t": "Global Entry, NEXUS or TSA PreCheck", "d": "Up to $120 once every 4 years."},
+   {"i": "shield", "t": "Travel insurance", "d": "Primary rental car coverage, trip delay up to $500, and trip cancellation up to $10,000 per person."},
+   {"i": "money", "t": "More credits", "d": "DoorDash promos with DashPass, Apple TV and Apple Music, and Peloton."}
+  ],
+  "jpm": [
+   {"i": "plane", "t": "Travel credit", "d": "$300 a year on any travel purchase. Business card terms."},
+   {"i": "hotel", "t": "The Edit hotel credit", "d": "Up to $250 twice a year on 2-night prepaid stays through The Edit."},
+   {"i": "lounge", "t": "Lounge access", "d": "Priority Pass and Chase Sapphire Lounges."},
+   {"i": "car", "t": "Lyft credit", "d": "$10 a month through Sept 2027."},
+   {"i": "shield", "t": "Global Entry, NEXUS or TSA PreCheck", "d": "Up to $120 once every 4 years."},
+   {"i": "money", "t": "Business credits", "d": "ZipRecruiter up to $200 twice a year, Google Workspace up to $200, gift cards up to $50 twice a year. Through 2027."}
+  ],
+  "uaInf": [
+   {"i": "lounge", "t": "United Club membership", "d": "For you plus one guest. Star Alliance lounges too after $50,000 spend or with Premier Gold."},
+   {"i": "bag", "t": "Free checked bags", "d": "First and second bags free for you and one companion. Pay with the card."},
+   {"i": "plane", "t": "Premier Access", "d": "Priority check-in, security, boarding and bags."},
+   {"i": "hotel", "t": "Renowned Hotels credit", "d": "Up to $200 a year on prepaid stays."},
+   {"i": "car", "t": "Rideshare credit", "d": "Up to $12 a month, $18 in December. $150 a year."},
+   {"i": "plane", "t": "JSX credit", "d": "Up to $200 a year."},
+   {"i": "money", "t": "Instacart credit", "d": "Two $10 credits a month through 2027."},
+   {"i": "status", "t": "IHG Platinum Elite", "d": "Plus 1,500 Premier qualifying points each year."},
+   {"i": "food", "t": "Inflight savings", "d": "25% back on food, drinks and Wi-Fi."},
+   {"i": "shield", "t": "Global Entry, NEXUS or TSA PreCheck", "d": "Up to $120 once every 4 years."}
+  ],
+  "uaExp": [
+   {"i": "bag", "t": "Free checked bag", "d": "First bag free for you and one companion. Pay with the card."},
+   {"i": "plane", "t": "Priority boarding", "d": "Group 2."},
+   {"i": "lounge", "t": "United Club passes", "d": "2 one-time passes each year."},
+   {"i": "hotel", "t": "United Hotels credit", "d": "$50 on each of your first 2 prepaid stays a year."},
+   {"i": "car", "t": "Rideshare credit", "d": "$5 a month. $60 a year."},
+   {"i": "plane", "t": "JSX credit", "d": "Up to $100 a year."},
+   {"i": "money", "t": "Instacart credit", "d": "$10 a month with Instacart+, through 2027."},
+   {"i": "food", "t": "Inflight savings", "d": "25% back on food, drinks and Wi-Fi."},
+   {"i": "shield", "t": "Global Entry, NEXUS or TSA PreCheck", "d": "Up to $120 once every 4 years."}
+  ],
+  "strata": [
+   {"i": "hotel", "t": "Hotel credit", "d": "Up to $300 a year on 2-night stays booked through Citi Travel."},
+   {"i": "money", "t": "Splurge credit", "d": "Up to $200 a year at 2 merchants you pick, including American Airlines and Live Nation."},
+   {"i": "car", "t": "Blacklane credit", "d": "Up to $100 each half-year. $200 a year."},
+   {"i": "lounge", "t": "Priority Pass", "d": "Unlimited visits with 2 guests."},
+   {"i": "lounge", "t": "Admirals Club passes", "d": "4 passes a year, each good for 24 hours."}
+  ],
+  "citiExec": [
+   {"i": "lounge", "t": "Admirals Club membership", "d": "Full membership for the cardholder."},
+   {"i": "plane", "t": "AA Vacations credit", "d": "Up to $250 each half-year on packages. $500 a year."},
+   {"i": "food", "t": "Inflight and Admirals Club credit", "d": "Up to $100 a year on food and drinks."},
+   {"i": "car", "t": "Avis and Budget credit", "d": "Up to $120 a year on prepaid rentals booked direct. Plus Avis President's Club status."},
+   {"i": "car", "t": "Lyft credit", "d": "$15 a month after 3 rides that month. $180 a year."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 once every 4 years."}
+  ],
+  "citiGlobe": [
+   {"i": "lounge", "t": "Admirals Club passes", "d": "4 passes a year, each good for 24 hours."},
+   {"i": "ticket", "t": "Companion certificate", "d": "A $99 domestic economy companion fare each year, plus taxes."},
+   {"i": "bag", "t": "Free checked bag", "d": "First bag free for you and up to 8 companions on domestic American flights."},
+   {"i": "plane", "t": "Priority boarding", "d": "Group 5 on American."},
+   {"i": "food", "t": "Inflight credit", "d": "Up to $100 a year on food, drinks or Wi-Fi."},
+   {"i": "money", "t": "Splurge credit", "d": "Up to $100 a year at merchants you pick, including AAdvantage Hotels."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Fee credit once every 4 years."}
+  ],
+  "venture": [
+   {"i": "plane", "t": "Travel credit", "d": "$300 a year on bookings through Capital One Travel."},
+   {"i": "gift", "t": "Anniversary miles", "d": "10,000 miles each year, starting at your first anniversary."},
+   {"i": "lounge", "t": "Lounge access", "d": "Capital One Lounges and Landings, plus Priority Pass."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 once every 4 years."},
+   {"i": "shield", "t": "Travel insurance", "d": "Rental car coverage, trip cancellation and interruption, and cell phone protection."}
+  ],
+  "venturebiz": [
+   {"i": "plane", "t": "Travel credit", "d": "$300 a year on bookings through Capital One Business Travel."},
+   {"i": "gift", "t": "Anniversary miles", "d": "10,000 miles each year, starting at your first anniversary."},
+   {"i": "lounge", "t": "Lounge access", "d": "Capital One Lounges, plus Priority Pass with 2 guests."},
+   {"i": "hotel", "t": "Hotel collection credits", "d": "$100 on Premier Collection stays and $50 on Lifestyle Collection stays."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Up to $120 once every 4 years."},
+   {"i": "shield", "t": "Cell phone protection", "d": "Up to $800 a claim, $50 deductible."}
+  ],
+  "atmos": [
+   {"i": "ticket", "t": "Global Companion Award", "d": "25,000 points each year. A 100,000-point award after $60,000 spend in a card year."},
+   {"i": "lounge", "t": "Alaska Lounge passes", "d": "8 a year, 2 each quarter."},
+   {"i": "bag", "t": "Free checked bag", "d": "First bag free for you and up to 6 guests on Alaska or Hawaiian."},
+   {"i": "plane", "t": "Preferred boarding", "d": "For you and up to 6 guests."},
+   {"i": "status", "t": "Status points", "d": "10,000 each anniversary, plus 1 for every $2 spent."},
+   {"i": "money", "t": "Inflight Wi-Fi", "d": "8 passes a year, 2 each quarter."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "$120 once every 4 years."}
+  ],
+  "usb": [
+   {"i": "plane", "t": "Travel credit", "d": "$325 a year on bookings through the U.S. Bank Travel Center."},
+   {"i": "lounge", "t": "Priority Pass", "d": "Lounge visits included."},
+   {"i": "shield", "t": "Global Entry or TSA PreCheck", "d": "Fee credit included."},
+   {"i": "money", "t": "No longer offered", "d": "Closed to new applicants. Benefits shown are for current cardholders."}
+  ],
+  "bilt": [
+   {"i": "hotel", "t": "Hotel credit", "d": "Up to $200 each half-year on stays through Bilt Travel. $400 a year."},
+   {"i": "money", "t": "Bilt Cash", "d": "$200 each year."},
+   {"i": "lounge", "t": "Priority Pass", "d": "Membership included."}
+  ],
+  "luxury": [
+   {"i": "lounge", "t": "Priority Pass", "d": "Unlimited visits, including airport restaurants."},
+   {"i": "hotel", "t": "Luxury Card Travel", "d": "Hotel perks like resort credits, upgrades and breakfast at over 3,000 properties."},
+   {"i": "car", "t": "Lyft credit", "d": "$5 a month after 3 rides."},
+   {"i": "money", "t": "24/7 concierge", "d": "Travel planning and dining reservations by phone, text or chat."}
+  ]
+ }
+}
