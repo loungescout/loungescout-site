@@ -45,7 +45,7 @@ img{display:block;max-width:100%}
 .glow span:nth-child(5){width:36%;height:48%;left:64%;top:34%;background:var(--g5)}
 .glow span:nth-child(6){width:28%;height:38%;left:38%;top:-4%;background:var(--g6)}
 .eyebrow{font-size:clamp(19px,2.4vw,24px);font-weight:600;color:var(--ink2);margin:0 0 6px}
-h1{font-size:clamp(52px,10vw,104px);line-height:.98;letter-spacing:-.04em;font-weight:800;margin:0}
+h1{font-size:clamp(40px,7vw,76px);line-height:1.04;letter-spacing:-.035em;font-weight:800;margin:0}
 .hero .lead{font-size:clamp(19px,2.4vw,24px);color:var(--ink2);max-width:640px;margin:18px auto 0;line-height:1.35}
 .cta{display:flex;justify-content:center;flex-wrap:wrap;gap:12px 22px;align-items:center;margin-top:26px}
 .btn{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 22px;border-radius:999px;background:var(--ink);color:#fff;font-weight:600;text-decoration:none}
@@ -80,11 +80,11 @@ section.night{background:var(--night);color:#F2F0FA}
 section.night .muted,section.night p{color:#B9B5D3}
 .kicker{font-size:clamp(17px,2vw,21px);font-weight:700;color:var(--accent);margin:0 0 10px}
 section.night .kicker{color:#A89DF5}
-h2{font-size:clamp(38px,6.4vw,72px);line-height:1.02;letter-spacing:-.035em;font-weight:800;margin:0}
+h2{font-size:clamp(30px,4.6vw,52px);line-height:1.08;letter-spacing:-.03em;max-width:820px;font-weight:800;margin:0}
 .intro{font-size:clamp(18px,2.2vw,21px);color:var(--muted);max-width:680px;margin:20px 0 0;line-height:1.45}
 .intro b{color:var(--ink)}
 section.night .intro b{color:#fff}
-.center .intro{margin-left:auto;margin-right:auto}
+.center .intro,.center h2{margin-left:auto;margin-right:auto}
 
 .pair{display:grid;grid-template-columns:2.6fr 1fr;gap:28px;align-items:end;margin-top:56px}
 .pair.flip{grid-template-columns:1fr 2.6fr}
@@ -184,8 +184,8 @@ footer a{color:var(--ink2);text-decoration:none}
   <div class="glow" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
   <div class="wrap">
     <p class="eyebrow">LoungeScout</p>
-    <h1>Your lounge.<br>Found.</h1>
-    <p class="lead">See which airport lounges your credit cards, memberships and tickets open, what it costs when they don't, and plan every trip around them.</p>
+    <h1 style="max-width:820px;margin:0 auto">Know which lounges your cards get you into.</h1>
+    <p class="lead">Add your credit cards and memberships once. LoungeScout shows every lounge you can use for free at 67 airports, and what it costs when you can't.</p>
     <div class="cta">
       <a class="btn" href="https://apps.apple.com/app/lounge-scout-airport-lounges/id6836016133">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.48.83-.72 0-1.82-.81-3-.79-1.54.02-2.96.9-3.76 2.28-1.6 2.78-.41 6.9 1.15 9.16.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74s1.78.74 3 .72c1.24-.02 2.02-1.12 2.78-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.39-.92-2.41-3.69zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.02.61-2.67 1.37-.58.67-1.1 1.76-.96 2.8 1.02.08 2.06-.52 2.69-1.28z"/></svg>
@@ -215,7 +215,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section id="home">
   <div class="wrap">
     <p class="kicker">Home</p>
-    <h2>Everything you need.<br>Before you leave home.</h2>
+    <h2>Your next trip and your free lounges, on one screen</h2>
     <p class="intro">Open LoungeScout and see <b>how many lounges your credit cards get you into</b>, your next flight as a boarding pass, and your home airport, with a fresh travel tip every day.</p>
     <div class="pair">
       <div class="dev pad"><img src="assets/ipad-7-home-dark.jpg" alt="Home screen on iPad in dark mode" loading="lazy"></div>
@@ -233,7 +233,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section class="night" id="lounges">
   <div class="wrap">
     <p class="kicker">Lounges</p>
-    <h2>Every lounge.<br>Sorted for you.</h2>
+    <h2>Every lounge at the airport, with the free ones marked</h2>
     <p class="intro">Pick an airport and see every lounge, terminal by terminal. <b>The ones your cards open are marked free.</b> The rest show what a day pass costs.</p>
     <div class="pair flip">
       <div class="dev phone"><img src="assets/2-lounges.jpg" alt="Lounges at Atlanta on iPhone, filtered by concourse" loading="lazy"></div>
@@ -251,7 +251,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section id="details">
   <div class="wrap">
     <p class="kicker">Lounge details</p>
-    <h2>Know how to get in.<br>And where to go.</h2>
+    <h2>How to get in, and how to find it</h2>
     <div class="split">
       <div class="dev phone"><img src="assets/3-lounge.jpg" alt="A lounge page showing how you get in and where to find it" loading="lazy"></div>
       <div class="list">
@@ -268,7 +268,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section class="alt" id="trips">
   <div class="wrap">
     <p class="kicker">Trips</p>
-    <h2>Plan the lounge<br>before the flight.</h2>
+    <h2>Plan your lounges for every leg of a trip</h2>
     <p class="intro">Add a one-way, round-trip or multi-city trip. LoungeScout shows <b>what's free at every airport along the way</b>, layovers included, so you can save a first choice and a backup.</p>
     <div class="pair">
       <div class="dev pad"><img src="assets/ipad-4-trip-plan.jpg" alt="A trip from LAX to Tokyo with a lounge plan on iPad" loading="lazy"></div>
@@ -285,7 +285,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section id="wallet">
   <div class="wrap">
     <p class="kicker">Wallet and points</p>
-    <h2>Get more from<br>every credit card.</h2>
+    <h2>See every perk your credit cards include</h2>
     <p class="intro">Add the credit cards, memberships and elite statuses you carry. See every travel perk, and how far your points go. <b>No card numbers, ever.</b></p>
     <div class="bento">
       <div class="tile t-wallet">
@@ -308,7 +308,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section class="alt" id="photos">
   <div class="wrap center">
     <p class="kicker">Traveler photos</p>
-    <h2>See it before<br>you walk in.</h2>
+    <h2>Photos from real travelers</h2>
     <p class="intro">Share photos of the lounges you visit to help other travelers. <b>Every photo is reviewed before it appears</b>, and anyone can report one.</p>
     <div class="stage" style="max-width:340px">
       <div class="dev phone" style="position:static;width:100%"><img src="assets/3-lounge.jpg" alt="Lounge page where travelers can add photos" loading="lazy"></div>
@@ -319,7 +319,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section class="night" id="privacy">
   <div class="wrap center">
     <p class="kicker">Privacy</p>
-    <h2>Private by design.</h2>
+    <h2>Your information stays on your phone</h2>
     <p class="intro">Your cards, trips and visits stay on your device. LoungeScout doesn't need an account, and it never asks for a card number.</p>
     <div class="priv">
       <div class="tile"><h3>No account</h3><p>Open it and go. No sign-up, no password.</p></div>
@@ -331,7 +331,7 @@ footer a{color:var(--ink2);text-decoration:none}
 
 <section id="faq">
   <div class="wrap">
-    <h2 class="center">Questions? Answers.</h2>
+    <h2 class="center">Common questions</h2>
     <div class="faq">
       <details><summary>Where can I download it?</summary><p>LoungeScout is free on the <a href="https://apps.apple.com/app/lounge-scout-airport-lounges/id6836016133">App Store</a> for iPhone and iPad.</p></details>
       <details><summary>Do I need to enter my card number?</summary><p>No. You only pick which credit cards, memberships and statuses you have from a list. LoungeScout never asks for card numbers or account logins.</p></details>
@@ -345,7 +345,7 @@ footer a{color:var(--ink2);text-decoration:none}
 <section class="alt" id="support">
   <div class="wrap">
     <p class="kicker">Support</p>
-    <h2>We're here to help.</h2>
+    <h2>Get help</h2>
     <div class="support">
       <div class="tile"><h3>Email us</h3><p><a href="mailto:LoungeScoutapp@gmail.com">LoungeScoutapp@gmail.com</a></p><p style="margin-top:8px">Found a lounge that's wrong, or have a question? We read every message.</p></div>
       <div class="tile"><h3>Policies</h3><p><a href="privacy.html">Privacy policy</a></p><p><a href="terms.html">Terms of use</a></p></div>
