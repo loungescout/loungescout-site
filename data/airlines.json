@@ -238,5 +238,81 @@
  "CM": {
   "n": "Copa Airlines",
   "al": "star"
+ },
+ "4Z": {
+  "n": "Airlink",
+  "al": null
+ },
+ "SA": {
+  "n": "South African Airways",
+  "al": "star"
+ },
+ "KQ": {
+  "n": "Kenya Airways",
+  "al": "skyteam"
+ },
+ "ET": {
+  "n": "Ethiopian Airlines",
+  "al": "star"
+ },
+ "AT": {
+  "n": "Royal Air Maroc",
+  "al": "oneworld"
+ },
+ "FJ": {
+  "n": "Fiji Airways",
+  "al": "oneworld"
+ },
+ "TN": {
+  "n": "Air Tahiti Nui",
+  "al": null
+ },
+ "JX": {
+  "n": "STARLUX Airlines",
+  "al": null
+ },
+ "CA": {
+  "n": "Air China",
+  "al": "star"
+ },
+ "HU": {
+  "n": "Hainan Airlines",
+  "al": null
+ },
+ "HO": {
+  "n": "Juneyao Air",
+  "al": null
+ },
+ "CZ": {
+  "n": "China Southern Airlines",
+  "al": null
+ },
+ "NX": {
+  "n": "Air Macau",
+  "al": null
+ },
+ "UL": {
+  "n": "SriLankan Airlines",
+  "al": "oneworld"
+ },
+ "AY": {
+  "n": "Finnair",
+  "al": "oneworld"
+ },
+ "FI": {
+  "n": "Icelandair",
+  "al": null
+ },
+ "SK": {
+  "n": "SAS",
+  "al": "skyteam"
+ },
+ "SN": {
+  "n": "Brussels Airlines",
+  "al": "star"
+ },
+ "UX": {
+  "n": "Air Europa",
+  "al": "skyteam"
  }
 }

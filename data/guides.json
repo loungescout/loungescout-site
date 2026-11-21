@@ -1300,5 +1300,222 @@
    "source": "Airport website",
    "url": "https://eldorado.aero"
   }
+ ],
+ "JNB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.airports.co.za"
+  }
+ ],
+ "CPT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.airports.co.za"
+  }
+ ],
+ "NBO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.kaa.go.ke"
+  }
+ ],
+ "OOL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.goldcoastairport.com.au"
+  }
+ ],
+ "AKL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aucklandairport.co.nz"
+  }
+ ],
+ "CHC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.christchurchairport.co.nz"
+  }
+ ],
+ "GUM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.guamairport.com"
+  }
+ ],
+ "TPE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.taoyuan-airport.com"
+  }
+ ],
+ "MFM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.macau-airport.com"
+  }
+ ],
+ "BOM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://csmia.adaniairports.com"
+  }
+ ],
+ "BLR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bengaluruairport.com"
+  }
+ ],
+ "CMB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.airport.lk"
+  }
+ ],
+ "MLE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://velana.macl.aero"
+  }
+ ],
+ "DUB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dublinairport.com"
+  }
+ ],
+ "CPH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.cph.dk"
+  }
+ ],
+ "ARN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.swedavia.com/arlanda/"
+  }
+ ],
+ "OSL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://avinor.no/en/airport/oslo-airport/"
+  }
+ ],
+ "HEL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.finavia.fi/en/airports/helsinki-airport"
+  }
+ ],
+ "KEF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://kefairport.com"
+  }
+ ],
+ "BRU": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.brusselsairport.be"
+  }
+ ],
+ "BER": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://ber.berlin-airport.de"
+  }
+ ],
+ "DUS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dus.com"
+  }
+ ],
+ "HAM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.hamburg-airport.de"
+  }
+ ],
+ "MXP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.milanomalpensa-airport.com"
+  }
+ ],
+ "VCE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.veneziaairport.it"
+  }
+ ],
+ "GVA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.gva.ch"
+  }
+ ],
+ "PRG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.prg.aero"
+  }
+ ],
+ "WAW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.lotnisko-chopina.pl"
+  }
+ ],
+ "BUD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bud.hu"
+  }
+ ],
+ "NCE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.nice.aeroport.fr"
+  }
+ ],
+ "ORY": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.parisaeroport.fr"
+  }
  ]
 }
