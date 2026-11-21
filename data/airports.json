@@ -450,5 +450,365 @@
   "lat": -33.9399,
   "lon": 151.1753,
   "intl": true
+ },
+ {
+  "code": "SMF",
+  "name": "Sacramento",
+  "lat": 38.6954,
+  "lon": -121.5908
+ },
+ {
+  "code": "BDL",
+  "name": "Hartford",
+  "lat": 41.9389,
+  "lon": -72.6832
+ },
+ {
+  "code": "GSP",
+  "name": "Greenville-Spartanburg",
+  "lat": 34.8957,
+  "lon": -82.2189
+ },
+ {
+  "code": "PVD",
+  "name": "Providence",
+  "lat": 41.724,
+  "lon": -71.4282
+ },
+ {
+  "code": "SYR",
+  "name": "Syracuse",
+  "lat": 43.1112,
+  "lon": -76.1063
+ },
+ {
+  "code": "TUL",
+  "name": "Tulsa",
+  "lat": 36.1984,
+  "lon": -95.8881
+ },
+ {
+  "code": "XNA",
+  "name": "Northwest Arkansas",
+  "lat": 36.2819,
+  "lon": -94.3068
+ },
+ {
+  "code": "RNO",
+  "name": "Reno",
+  "lat": 39.4991,
+  "lon": -119.7681
+ },
+ {
+  "code": "PBI",
+  "name": "West Palm Beach",
+  "lat": 26.6832,
+  "lon": -80.0956
+ },
+ {
+  "code": "SJU",
+  "name": "San Juan",
+  "lat": 18.4394,
+  "lon": -66.0018
+ },
+ {
+  "code": "ONT",
+  "name": "Ontario",
+  "lat": 34.056,
+  "lon": -117.6012
+ },
+ {
+  "code": "BUF",
+  "name": "Buffalo",
+  "lat": 42.9405,
+  "lon": -78.7322
+ },
+ {
+  "code": "CHS",
+  "name": "Charleston",
+  "lat": 32.8986,
+  "lon": -80.0405
+ },
+ {
+  "code": "COS",
+  "name": "Colorado Springs",
+  "lat": 38.8058,
+  "lon": -104.7008
+ },
+ {
+  "code": "GRR",
+  "name": "Grand Rapids",
+  "lat": 42.8808,
+  "lon": -85.5228
+ },
+ {
+  "code": "MLB",
+  "name": "Melbourne, Florida",
+  "lat": 28.1028,
+  "lon": -80.6453
+ },
+ {
+  "code": "ANC",
+  "name": "Anchorage",
+  "lat": 61.1743,
+  "lon": -149.9963
+ },
+ {
+  "code": "MEM",
+  "name": "Memphis",
+  "lat": 35.0424,
+  "lon": -89.9767
+ },
+ {
+  "code": "OGG",
+  "name": "Maui (Kahului)",
+  "lat": 20.8986,
+  "lon": -156.4305
+ },
+ {
+  "code": "KOA",
+  "name": "Kona",
+  "lat": 19.7388,
+  "lon": -156.0456
+ },
+ {
+  "code": "LIH",
+  "name": "Kauai (Lihue)",
+  "lat": 21.976,
+  "lon": -159.3389
+ },
+ {
+  "code": "RSW",
+  "name": "Fort Myers",
+  "lat": 26.5362,
+  "lon": -81.7552
+ },
+ {
+  "code": "OMA",
+  "name": "Omaha",
+  "lat": 41.3032,
+  "lon": -95.8941
+ },
+ {
+  "code": "OKC",
+  "name": "Oklahoma City",
+  "lat": 35.3931,
+  "lon": -97.6007
+ },
+ {
+  "code": "ELP",
+  "name": "El Paso",
+  "lat": 31.8072,
+  "lon": -106.3776
+ },
+ {
+  "code": "TUS",
+  "name": "Tucson",
+  "lat": 32.1161,
+  "lon": -110.941
+ },
+ {
+  "code": "BOI",
+  "name": "Boise",
+  "lat": 43.5644,
+  "lon": -116.2228
+ },
+ {
+  "code": "ORF",
+  "name": "Norfolk",
+  "lat": 36.8946,
+  "lon": -76.2012
+ },
+ {
+  "code": "RIC",
+  "name": "Richmond",
+  "lat": 37.5052,
+  "lon": -77.3197
+ },
+ {
+  "code": "GEG",
+  "name": "Spokane",
+  "lat": 47.6199,
+  "lon": -117.5338
+ },
+ {
+  "code": "LGB",
+  "name": "Long Beach",
+  "lat": 33.8177,
+  "lon": -118.1516
+ },
+ {
+  "code": "PSP",
+  "name": "Palm Springs",
+  "lat": 33.8297,
+  "lon": -116.5067
+ },
+ {
+  "code": "SBA",
+  "name": "Santa Barbara",
+  "lat": 34.4262,
+  "lon": -119.8404
+ },
+ {
+  "code": "FAT",
+  "name": "Fresno",
+  "lat": 36.7762,
+  "lon": -119.7181
+ },
+ {
+  "code": "ROC",
+  "name": "Rochester",
+  "lat": 43.1189,
+  "lon": -77.6724
+ },
+ {
+  "code": "ALB",
+  "name": "Albany",
+  "lat": 42.7483,
+  "lon": -73.8017
+ },
+ {
+  "code": "SDF",
+  "name": "Louisville",
+  "lat": 38.1744,
+  "lon": -85.736
+ },
+ {
+  "code": "BHM",
+  "name": "Birmingham",
+  "lat": 33.5629,
+  "lon": -86.7535
+ },
+ {
+  "code": "DSM",
+  "name": "Des Moines",
+  "lat": 41.534,
+  "lon": -93.6631
+ },
+ {
+  "code": "LIT",
+  "name": "Little Rock",
+  "lat": 34.7294,
+  "lon": -92.2243
+ },
+ {
+  "code": "TYS",
+  "name": "Knoxville",
+  "lat": 35.811,
+  "lon": -83.994
+ },
+ {
+  "code": "CAE",
+  "name": "Columbia, South Carolina",
+  "lat": 33.9388,
+  "lon": -81.1195
+ },
+ {
+  "code": "PWM",
+  "name": "Portland, Maine",
+  "lat": 43.6462,
+  "lon": -70.3093
+ },
+ {
+  "code": "BZN",
+  "name": "Bozeman",
+  "lat": 45.7775,
+  "lon": -111.153
+ },
+ {
+  "code": "HSV",
+  "name": "Huntsville",
+  "lat": 34.6372,
+  "lon": -86.7751
+ },
+ {
+  "code": "PNS",
+  "name": "Pensacola",
+  "lat": 30.4734,
+  "lon": -87.1866
+ },
+ {
+  "code": "SRQ",
+  "name": "Sarasota",
+  "lat": 27.3954,
+  "lon": -82.5544
+ },
+ {
+  "code": "MYR",
+  "name": "Myrtle Beach",
+  "lat": 33.6797,
+  "lon": -78.9283
+ },
+ {
+  "code": "ICT",
+  "name": "Wichita",
+  "lat": 37.6499,
+  "lon": -97.4331
+ },
+ {
+  "code": "BTV",
+  "name": "Burlington",
+  "lat": 44.4719,
+  "lon": -73.1533
+ },
+ {
+  "code": "MHT",
+  "name": "Manchester, New Hampshire",
+  "lat": 42.9326,
+  "lon": -71.4357
+ },
+ {
+  "code": "SFB",
+  "name": "Orlando Sanford",
+  "lat": 28.7776,
+  "lon": -81.2375
+ },
+ {
+  "code": "PIE",
+  "name": "St. Petersburg-Clearwater",
+  "lat": 27.9102,
+  "lon": -82.6874
+ },
+ {
+  "code": "MSN",
+  "name": "Madison",
+  "lat": 43.1399,
+  "lon": -89.3375
+ },
+ {
+  "code": "SGF",
+  "name": "Springfield, Missouri",
+  "lat": 37.2457,
+  "lon": -93.3886
+ },
+ {
+  "code": "LEX",
+  "name": "Lexington",
+  "lat": 38.0365,
+  "lon": -84.6059
+ },
+ {
+  "code": "CHA",
+  "name": "Chattanooga",
+  "lat": 35.0353,
+  "lon": -85.2038
+ },
+ {
+  "code": "DAY",
+  "name": "Dayton",
+  "lat": 39.9024,
+  "lon": -84.2194
+ },
+ {
+  "code": "AVL",
+  "name": "Asheville",
+  "lat": 35.4362,
+  "lon": -82.5418
+ },
+ {
+  "code": "JAC",
+  "name": "Jackson Hole",
+  "lat": 43.6073,
+  "lon": -110.7377
  }
 ]

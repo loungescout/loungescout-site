@@ -30120,5 +30120,1603 @@
   ],
   "guests": "First class, oneworld Emerald and Sapphire bring 1 guest on a oneworld flight. Business class passengers enter alone",
   "notes": "Best runway views in the domestic terminals. Qantas Club members get in too."
+ },
+ {
+  "ap": "SMF",
+  "id": "smf-esca",
+  "name": "Escape Lounge (Terminal A)",
+  "ts": [
+   "Terminal A"
+  ],
+  "loc": "Terminal A, near gate A10",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4 a.m. to 8 p.m. Monday to Wednesday and weekends. Until 10 p.m. Thursday and Friday"
+ },
+ {
+  "ap": "SMF",
+  "id": "smf-escb",
+  "name": "Escape Lounge (Terminal B)",
+  "ts": [
+   "Terminal B"
+  ],
+  "loc": "Terminal B, immediately left after security",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4 a.m. to 8 p.m. Monday, Tuesday and weekends. Until 9 p.m. Wednesday to Friday"
+ },
+ {
+  "ap": "BDL",
+  "id": "bdl-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Terminal A, by gate 1",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4:30 a.m. to 8 p.m. daily"
+ },
+ {
+  "ap": "GSP",
+  "id": "gsp-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "On the right after security",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4:30 a.m. to 7:30 p.m. daily"
+ },
+ {
+  "ap": "PVD",
+  "id": "pvd-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "By gate 18",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "6 a.m. to 7 p.m. daily"
+ },
+ {
+  "ap": "SYR",
+  "id": "syr-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Between security and Concourse A, near gate 1",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$45"
+   }
+  ],
+  "from": "$45",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4:30 a.m. to 8:30 p.m. daily"
+ },
+ {
+  "ap": "TUL",
+  "id": "tul-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Immediately left after security",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$45"
+   }
+  ],
+  "from": "$45",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4:30 a.m. to 7 p.m. daily"
+ },
+ {
+  "ap": "XNA",
+  "id": "xna-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Opposite the security checkpoint, next to the walkway to gates A1 to A12",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "3:45 a.m. to 6:30 p.m. Monday to Wednesday, Friday and Saturday. Until 9:45 p.m. Thursday and Sunday"
+ },
+ {
+  "ap": "RNO",
+  "id": "rno-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Central corridor between Concourses B and C",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "4:30 a.m. to 8 p.m. Monday to Wednesday and weekends. Until 10 p.m. Thursday and Friday"
+ },
+ {
+  "ap": "PBI",
+  "id": "pbi-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Just past the entrances to Concourses A and B",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$60"
+   }
+  ],
+  "from": "$60",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "5 a.m. to 7 p.m. daily"
+ },
+ {
+  "ap": "SJU",
+  "id": "sju-esc",
+  "name": "Escape Lounge",
+  "ts": [
+   "Terminal B"
+  ],
+  "loc": "Concourse B, opposite gate B2",
+  "op": "Escape Lounges",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$55"
+   }
+  ],
+  "from": "$55",
+  "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
+  "notes": "A Centurion Studio Partner lounge.",
+  "hours": "6 a.m. to 9 p.m. daily"
+ },
+ {
+  "ap": "SJU",
+  "id": "sju-lnga",
+  "name": "The Lounge San Juan (Terminal A)",
+  "ts": [
+   "Terminal A"
+  ],
+  "loc": "Terminal A, after security, left through duty free, on the right",
+  "op": "The Lounge",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "6 a.m. to 8 p.m. daily"
+ },
+ {
+  "ap": "SJU",
+  "id": "sju-lngb",
+  "name": "The Lounge San Juan (Terminal B)",
+  "ts": [
+   "Terminal B"
+  ],
+  "loc": "Terminal B, after security, right after duty free",
+  "op": "The Lounge",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "6 a.m. to 8 p.m. daily"
+ },
+ {
+  "ap": "SJU",
+  "id": "sju-lngc",
+  "name": "The Lounge San Juan (Terminal C)",
+  "ts": [
+   "Terminal C"
+  ],
+  "loc": "Terminal C, through security checkpoint B, then the elevator to the 3rd floor",
+  "op": "The Lounge",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "6 a.m. to 8 p.m. daily"
+ },
+ {
+  "ap": "ONT",
+  "id": "ont-asp2",
+  "name": "Aspire Lounge (Terminal 2)",
+  "ts": [
+   "Terminal 2"
+  ],
+  "loc": "Terminal 2, after security",
+  "op": "Aspire",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "5 a.m. to midnight daily",
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$48.85"
+   }
+  ],
+  "from": "$49"
+ },
+ {
+  "ap": "ONT",
+  "id": "ont-asp4",
+  "name": "Aspire Lounge (Terminal 4)",
+  "ts": [
+   "Terminal 4"
+  ],
+  "loc": "Terminal 4, after security",
+  "op": "Aspire",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "5 a.m. to midnight daily",
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$48.85"
+   }
+  ],
+  "from": "$49"
+ },
+ {
+  "ap": "BUF",
+  "id": "buf-club",
+  "name": "The Club",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Main Terminal, after security",
+  "op": "The Club",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "4 a.m. to 7 p.m. daily"
+ },
+ {
+  "ap": "CHS",
+  "id": "chs-club",
+  "name": "The Club",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "3rd floor (take the elevator), toward Concourse B, on the left across from the food court",
+  "op": "The Club",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "4:10 a.m. to 8:30 p.m. daily",
+  "notes": "South Carolina law allows only departing travelers. Bring an outbound boarding pass from CHS."
+ },
+ {
+  "ap": "COS",
+  "id": "cos-lng",
+  "name": "The Lounge Colorado Springs",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "After security, near gate 6",
+  "op": "The Lounge",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "5 a.m. to 2 p.m. weekdays. 5 a.m. to 6 p.m. weekends",
+  "notes": "3-hour limit."
+ },
+ {
+  "ap": "GRR",
+  "id": "grr-club",
+  "name": "The Club",
+  "ts": [
+   "Concourse A"
+  ],
+  "loc": "Concourse A, level 2, opposite gate A6",
+  "op": "The Club",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "4:30 a.m. to 7 p.m. daily"
+ },
+ {
+  "ap": "MLB",
+  "id": "mlb-prem",
+  "name": "MLB Premium Lounge",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "After security, follow signs to Premium Lounge",
+  "op": "Melbourne Orlando airport",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "Noon to 6 p.m. daily, May to November",
+  "alert": "Closed every year from December 1 to April 30.",
+  "notes": "3-hour limit. Children under 5 are free."
+ },
+ {
+  "ap": "ANC",
+  "id": "anc-as",
+  "name": "Alaska Lounge",
+  "ts": [
+   "Concourse C"
+  ],
+  "loc": "Concourse C, near gate C1",
+  "op": "Alaska Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "alaskaM"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "atmos"
+    ],
+    "limit": "8 passes a year",
+    "cond": {
+     "alliance": "oneworld",
+     "text": "a same-day Alaska, Hawaiian or Oneworld flight"
+    }
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Oneworld and Atmos elites. Confirm your tier"
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "airlines": [
+     "AS"
+    ],
+    "desc": "Alaska first class"
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz"
+    ],
+    "alliance": "oneworld",
+    "desc": "Oneworld business class on qualifying flights",
+    "unsure": true
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "Sold at the lounge"
+   }
+  ],
+  "hours": "5 a.m. to 1 a.m. daily"
+ },
+ {
+  "ap": "MEM",
+  "id": "mem-sky",
+  "name": "Delta Sky Club",
+  "ts": [
+   "Concourse B"
+  ],
+  "loc": "Next to the B security checkpoint, east of the concourse entrance",
+  "op": "Delta Air Lines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "skyM"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz"
+    ],
+    "limit": "10 visits a year, unlimited after $75,000 spend",
+    "cond": {
+     "airlines": [
+      "DL"
+     ],
+     "text": "a same-day Delta flight"
+    }
+   },
+   {
+    "t": "card",
+    "ids": [
+     "deltaRes"
+    ],
+    "limit": "15 visits a year, unlimited after $75,000 spend, 4 guest passes"
+   },
+   {
+    "t": "card",
+    "ids": [
+     "centurion"
+    ],
+    "note": "Needs a same-day boarding pass"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "skyElite"
+    ],
+    "unsure": true,
+    "note": "Delta Medallion or SkyTeam Elite Plus"
+   }
+  ],
+  "noPass": true,
+  "guests": "Individual members pay $50 per guest",
+  "hours": "5 a.m. to 7 p.m. Sunday, Monday, Thursday and Friday. Until 5:45 p.m. Tuesday, Wednesday and Saturday"
+ },
+ {
+  "ap": "OGG",
+  "id": "ogg-hapn",
+  "name": "Hawaiian Airlines Premier Club (North)",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "After security, 2nd floor, opposite gate 17",
+  "op": "Hawaiian Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "airlines": [
+     "HA"
+    ],
+    "desc": "Hawaiian first class to North America or between islands"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Atmos Rewards elites enrolled in Huakaʻi by Hawaiian, on Hawaiian-operated flights"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "noPass": false,
+  "notes": "Also open to Premier Club members.",
+  "hours": "6 a.m. to 8:30 p.m. daily"
+ },
+ {
+  "ap": "OGG",
+  "id": "ogg-haps",
+  "name": "Hawaiian Airlines Premier Club (South)",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "After security, 2nd floor, opposite gate 15",
+  "op": "Hawaiian Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "airlines": [
+     "HA"
+    ],
+    "desc": "Hawaiian first class to North America or between islands"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Atmos Rewards elites enrolled in Huakaʻi by Hawaiian, on Hawaiian-operated flights"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "noPass": false,
+  "notes": "Also open to Premier Club members.",
+  "hours": "9:30 a.m. to 3:30 p.m. daily"
+ },
+ {
+  "ap": "KOA",
+  "id": "koa-hap",
+  "name": "Hawaiian Airlines Premier Club",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Near gate 10",
+  "op": "Hawaiian Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "airlines": [
+     "HA"
+    ],
+    "desc": "Hawaiian first class to North America or between islands"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Atmos Rewards elites enrolled in Huakaʻi by Hawaiian, on Hawaiian-operated flights"
+   }
+  ],
+  "noPass": true,
+  "notes": "Also open to Premier Club members."
+ },
+ {
+  "ap": "LIH",
+  "id": "lih-hap",
+  "name": "Hawaiian Airlines Premier Club",
+  "ts": [
+   "Main Terminal"
+  ],
+  "loc": "Near gate 5",
+  "op": "Hawaiian Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "airlines": [
+     "HA"
+    ],
+    "desc": "Hawaiian first class to North America or between islands"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Atmos Rewards elites enrolled in Huakaʻi by Hawaiian, on Hawaiian-operated flights"
+   }
+  ],
+  "noPass": true,
+  "notes": "Also open to Premier Club members."
  }
 ]

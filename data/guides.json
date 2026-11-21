@@ -488,5 +488,418 @@
    "source": "Airport website",
    "url": "https://www.sydneyairport.com.au"
   }
+ ],
+ "SMF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://sacramento.aero/smf"
+  }
+ ],
+ "BDL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://bradleyairport.com"
+  }
+ ],
+ "GSP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.gspairport.com"
+  }
+ ],
+ "PVD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyri.com"
+  }
+ ],
+ "SYR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://syrairport.org"
+  }
+ ],
+ "TUL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flytulsa.com"
+  }
+ ],
+ "XNA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyxna.com"
+  }
+ ],
+ "RNO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.renoairport.com"
+  }
+ ],
+ "PBI": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.pbia.org"
+  }
+ ],
+ "SJU": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://aeropuertosju.com"
+  }
+ ],
+ "ONT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyontario.com"
+  }
+ ],
+ "BUF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.buffaloairport.com"
+  }
+ ],
+ "CHS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://iflychs.com"
+  }
+ ],
+ "COS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flycos.coloradosprings.gov"
+  }
+ ],
+ "GRR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.grr.org"
+  }
+ ],
+ "MLB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://mlbair.com"
+  }
+ ],
+ "ANC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.dot.alaska.gov/anc"
+  }
+ ],
+ "MEM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flymemphis.com"
+  }
+ ],
+ "OGG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://airports.hawaii.gov/ogg"
+  }
+ ],
+ "KOA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://airports.hawaii.gov/koa"
+  }
+ ],
+ "LIH": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://airports.hawaii.gov/lih"
+  }
+ ],
+ "RSW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flylcpa.com"
+  }
+ ],
+ "OMA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyoma.com"
+  }
+ ],
+ "OKC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyokc.com"
+  }
+ ],
+ "ELP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.elpasointernationalairport.com"
+  }
+ ],
+ "TUS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flytucson.com"
+  }
+ ],
+ "BOI": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.iflyboise.com"
+  }
+ ],
+ "ORF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyorf.com"
+  }
+ ],
+ "RIC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flyrichmond.com"
+  }
+ ],
+ "GEG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://spokaneairports.net"
+  }
+ ],
+ "LGB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.lgb.org"
+  }
+ ],
+ "PSP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flypsp.com"
+  }
+ ],
+ "SBA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flysba.santabarbaraca.gov"
+  }
+ ],
+ "FAT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flyfresno.com"
+  }
+ ],
+ "ALB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.albanyairport.com"
+  }
+ ],
+ "SDF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flylouisville.com"
+  }
+ ],
+ "BHM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flybirmingham.com"
+  }
+ ],
+ "DSM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flydsm.com"
+  }
+ ],
+ "LIT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flylit.com"
+  }
+ ],
+ "TYS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyknoxville.com"
+  }
+ ],
+ "CAE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flycae.com"
+  }
+ ],
+ "PWM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.portlandjetport.org"
+  }
+ ],
+ "BZN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://bozemanairport.com"
+  }
+ ],
+ "HSV": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyhuntsville.com"
+  }
+ ],
+ "PNS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flypensacola.com"
+  }
+ ],
+ "SRQ": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://srq-airport.com"
+  }
+ ],
+ "MYR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flymyrtlebeach.com"
+  }
+ ],
+ "ICT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flywichita.com"
+  }
+ ],
+ "BTV": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.btv.aero"
+  }
+ ],
+ "MHT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flymanchester.com"
+  }
+ ],
+ "SFB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flysfb.com"
+  }
+ ],
+ "PIE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://fly2pie.com"
+  }
+ ],
+ "MSN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.msnairport.com"
+  }
+ ],
+ "SGF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flyspringfield.com"
+  }
+ ],
+ "LEX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bluegrassairport.com"
+  }
+ ],
+ "CHA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.chattairport.com"
+  }
+ ],
+ "DAY": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.flydayton.com"
+  }
+ ],
+ "AVL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://flyavl.com"
+  }
+ ],
+ "JAC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.jacksonholeairport.com"
+  }
  ]
 }
