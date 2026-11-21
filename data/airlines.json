@@ -314,5 +314,61 @@
  "UX": {
   "n": "Air Europa",
   "al": "skyteam"
+ },
+ "TX": {
+  "n": "Air Caraïbes",
+  "al": null
+ },
+ "BW": {
+  "n": "Caribbean Airlines",
+  "al": null
+ },
+ "KX": {
+  "n": "Cayman Airways",
+  "al": null
+ },
+ "KM": {
+  "n": "KM Malta Airlines",
+  "al": null
+ },
+ "BT": {
+  "n": "airBaltic",
+  "al": null
+ },
+ "OU": {
+  "n": "Croatia Airlines",
+  "al": "star"
+ },
+ "LO": {
+  "n": "LOT Polish Airlines",
+  "al": "star"
+ },
+ "RO": {
+  "n": "TAROM",
+  "al": "skyteam"
+ },
+ "MK": {
+  "n": "Air Mauritius",
+  "al": null
+ },
+ "HM": {
+  "n": "Air Seychelles",
+  "al": null
+ },
+ "WB": {
+  "n": "RwandAir",
+  "al": null
+ },
+ "VJ": {
+  "n": "VietJet Air",
+  "al": null
+ },
+ "QH": {
+  "n": "Bamboo Airways",
+  "al": null
+ },
+ "K6": {
+  "n": "Cambodia Angkor Air",
+  "al": null
  }
 }

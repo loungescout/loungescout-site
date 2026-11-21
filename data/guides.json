@@ -1517,5 +1517,341 @@
    "source": "Airport website",
    "url": "https://www.parisaeroport.fr"
   }
+ ],
+ "YYJ": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.victoriaairport.com"
+  }
+ ],
+ "YLW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://ylw.kelowna.ca"
+  }
+ ],
+ "YXE": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://yxe.ca"
+  }
+ ],
+ "YQR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://yqr.ca"
+  }
+ ],
+ "YQB": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aeroportdequebec.com"
+  }
+ ],
+ "YYT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://stjohnsairport.com"
+  }
+ ],
+ "SXM": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.sxmairport.com"
+  }
+ ],
+ "FAO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aeroportofaro.pt"
+  }
+ ],
+ "FNC": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aeroportomadeira.pt"
+  }
+ ],
+ "LYS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.lyonaeroports.com"
+  }
+ ],
+ "TLS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.toulouse.aeroport.fr"
+  }
+ ],
+ "BOD": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bordeaux.aeroport.fr"
+  }
+ ],
+ "BLQ": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bologna-airport.it"
+  }
+ ],
+ "CTA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aeroporto.catania.it"
+  }
+ ],
+ "NAP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.aeroportodinapoli.it"
+  }
+ ],
+ "MLA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.maltairport.com"
+  }
+ ],
+ "GLA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.glasgowairport.com"
+  }
+ ],
+ "BFS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.belfastairport.com"
+  }
+ ],
+ "ORK": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.corkairport.com"
+  }
+ ],
+ "SNN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.shannonairport.ie"
+  }
+ ],
+ "BRS": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bristolairport.co.uk"
+  }
+ ],
+ "NCL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.newcastleairport.com"
+  }
+ ],
+ "LTN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.london-luton.co.uk"
+  }
+ ],
+ "GOT": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.swedavia.com/landvetter/"
+  }
+ ],
+ "BGO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://avinor.no/en/airport/bergen-airport/"
+  }
+ ],
+ "BLL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bll.dk/en"
+  }
+ ],
+ "RIX": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.riga-airport.com"
+  }
+ ],
+ "VNO": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.vilnius-airport.lt/en"
+  }
+ ],
+ "TLL": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.tallinn-airport.ee/en/"
+  }
+ ],
+ "KRK": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.krakowairport.pl/en"
+  }
+ ],
+ "SZG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.salzburg-airport.com/en/"
+  }
+ ],
+ "ZAG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://zagreb-airport.hr/en"
+  }
+ ],
+ "SPU": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.split-airport.hr"
+  }
+ ],
+ "DBV": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.airport-dubrovnik.hr"
+  }
+ ],
+ "SKG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.skg-airport.gr/en"
+  }
+ ],
+ "HER": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.heraklion-airport.gr"
+  }
+ ],
+ "LCA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.hermesairports.com"
+  }
+ ],
+ "OTP": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.bucharestairports.ro"
+  }
+ ],
+ "SOF": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.sofia-airport.eu"
+  }
+ ],
+ "ZQN": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.queenstownairport.co.nz"
+  }
+ ],
+ "WLG": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.wellingtonairport.co.nz"
+  }
+ ],
+ "HBA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://hobartairport.com.au"
+  }
+ ],
+ "CBR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.canberraairport.com.au"
+  }
+ ],
+ "DRW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.darwinairport.com.au"
+  }
+ ],
+ "RAR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://cookislandsairports.com"
+  }
+ ],
+ "APW": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.samoaairports.com"
+  }
+ ],
+ "DUR": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://kingshakainternational.co.za"
+  }
+ ],
+ "OKA": [
+  {
+   "title": "Official airport guide",
+   "source": "Airport website",
+   "url": "https://www.naha-airport.co.jp/en/"
+  }
  ]
 }

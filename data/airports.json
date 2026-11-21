@@ -1822,5 +1822,796 @@
   "lat": 48.7262,
   "lon": 2.3652,
   "intl": true
+ },
+ {
+  "code": "YYJ",
+  "name": "Victoria",
+  "lat": 48.6469,
+  "lon": -123.4258,
+  "intl": true
+ },
+ {
+  "code": "YLW",
+  "name": "Kelowna",
+  "lat": 49.9561,
+  "lon": -119.3778,
+  "intl": true
+ },
+ {
+  "code": "YXE",
+  "name": "Saskatoon",
+  "lat": 52.1708,
+  "lon": -106.6997,
+  "intl": true
+ },
+ {
+  "code": "YQR",
+  "name": "Regina",
+  "lat": 50.4319,
+  "lon": -104.6658,
+  "intl": true
+ },
+ {
+  "code": "YQB",
+  "name": "Quebec City",
+  "lat": 46.7911,
+  "lon": -71.3933,
+  "intl": true
+ },
+ {
+  "code": "YYT",
+  "name": "St. John's",
+  "lat": 47.6186,
+  "lon": -52.7519,
+  "intl": true
+ },
+ {
+  "code": "MZT",
+  "name": "Mazatlán",
+  "lat": 23.1614,
+  "lon": -106.2661,
+  "intl": true
+ },
+ {
+  "code": "ZIH",
+  "name": "Ixtapa-Zihuatanejo",
+  "lat": 17.6016,
+  "lon": -101.4605,
+  "intl": true
+ },
+ {
+  "code": "HUX",
+  "name": "Huatulco",
+  "lat": 15.7753,
+  "lon": -96.2626,
+  "intl": true
+ },
+ {
+  "code": "OAX",
+  "name": "Oaxaca",
+  "lat": 16.9999,
+  "lon": -96.7266,
+  "intl": true
+ },
+ {
+  "code": "MID",
+  "name": "Mérida",
+  "lat": 20.937,
+  "lon": -89.6577,
+  "intl": true
+ },
+ {
+  "code": "CZM",
+  "name": "Cozumel",
+  "lat": 20.5224,
+  "lon": -86.9256,
+  "intl": true
+ },
+ {
+  "code": "TIJ",
+  "name": "Tijuana",
+  "lat": 32.5411,
+  "lon": -116.97,
+  "intl": true
+ },
+ {
+  "code": "BJX",
+  "name": "León/Guanajuato",
+  "lat": 20.9935,
+  "lon": -101.4808,
+  "intl": true
+ },
+ {
+  "code": "SXM",
+  "name": "St. Maarten",
+  "lat": 18.041,
+  "lon": -63.1089,
+  "intl": true
+ },
+ {
+  "code": "BGI",
+  "name": "Barbados",
+  "lat": 13.0746,
+  "lon": -59.4925,
+  "intl": true
+ },
+ {
+  "code": "ANU",
+  "name": "Antigua",
+  "lat": 17.1367,
+  "lon": -61.7927,
+  "intl": true
+ },
+ {
+  "code": "SKB",
+  "name": "St. Kitts",
+  "lat": 17.3112,
+  "lon": -62.7187,
+  "intl": true
+ },
+ {
+  "code": "GCM",
+  "name": "Grand Cayman",
+  "lat": 19.2928,
+  "lon": -81.3577,
+  "intl": true
+ },
+ {
+  "code": "UVF",
+  "name": "St. Lucia (Hewanorra)",
+  "lat": 13.7332,
+  "lon": -60.9526,
+  "intl": true
+ },
+ {
+  "code": "CUR",
+  "name": "Curaçao",
+  "lat": 12.1889,
+  "lon": -68.9598,
+  "intl": true
+ },
+ {
+  "code": "BDA",
+  "name": "Bermuda",
+  "lat": 32.364,
+  "lon": -64.6787,
+  "intl": true
+ },
+ {
+  "code": "POS",
+  "name": "Port of Spain",
+  "lat": 10.5954,
+  "lon": -61.3372,
+  "intl": true
+ },
+ {
+  "code": "PLS",
+  "name": "Providenciales",
+  "lat": 21.7736,
+  "lon": -72.2659,
+  "intl": true
+ },
+ {
+  "code": "FAO",
+  "name": "Faro",
+  "lat": 37.0144,
+  "lon": -7.9659,
+  "intl": true
+ },
+ {
+  "code": "FNC",
+  "name": "Funchal (Madeira)",
+  "lat": 32.6979,
+  "lon": -16.7745,
+  "intl": true
+ },
+ {
+  "code": "PDL",
+  "name": "Ponta Delgada (Azores)",
+  "lat": 37.7412,
+  "lon": -25.6979,
+  "intl": true
+ },
+ {
+  "code": "ALC",
+  "name": "Alicante",
+  "lat": 38.2822,
+  "lon": -0.5582,
+  "intl": true
+ },
+ {
+  "code": "VLC",
+  "name": "Valencia",
+  "lat": 39.4893,
+  "lon": -0.4816,
+  "intl": true
+ },
+ {
+  "code": "SVQ",
+  "name": "Seville",
+  "lat": 37.418,
+  "lon": -5.8931,
+  "intl": true
+ },
+ {
+  "code": "BIO",
+  "name": "Bilbao",
+  "lat": 43.3011,
+  "lon": -2.9106,
+  "intl": true
+ },
+ {
+  "code": "IBZ",
+  "name": "Ibiza",
+  "lat": 38.8729,
+  "lon": 1.3731,
+  "intl": true
+ },
+ {
+  "code": "TFS",
+  "name": "Tenerife (South)",
+  "lat": 28.0445,
+  "lon": -16.5725,
+  "intl": true
+ },
+ {
+  "code": "LPA",
+  "name": "Gran Canaria",
+  "lat": 27.9319,
+  "lon": -15.3866,
+  "intl": true
+ },
+ {
+  "code": "LYS",
+  "name": "Lyon",
+  "lat": 45.7256,
+  "lon": 5.0811,
+  "intl": true
+ },
+ {
+  "code": "MRS",
+  "name": "Marseille",
+  "lat": 43.4393,
+  "lon": 5.2214,
+  "intl": true
+ },
+ {
+  "code": "TLS",
+  "name": "Toulouse",
+  "lat": 43.6291,
+  "lon": 1.3638,
+  "intl": true
+ },
+ {
+  "code": "BOD",
+  "name": "Bordeaux",
+  "lat": 44.8283,
+  "lon": -0.7156,
+  "intl": true
+ },
+ {
+  "code": "BLQ",
+  "name": "Bologna",
+  "lat": 44.5354,
+  "lon": 11.2887,
+  "intl": true
+ },
+ {
+  "code": "FLR",
+  "name": "Florence",
+  "lat": 43.81,
+  "lon": 11.2051,
+  "intl": true
+ },
+ {
+  "code": "PSA",
+  "name": "Pisa",
+  "lat": 43.6839,
+  "lon": 10.3927,
+  "intl": true
+ },
+ {
+  "code": "CTA",
+  "name": "Catania",
+  "lat": 37.4668,
+  "lon": 15.0664,
+  "intl": true
+ },
+ {
+  "code": "NAP",
+  "name": "Naples",
+  "lat": 40.886,
+  "lon": 14.2908,
+  "intl": true
+ },
+ {
+  "code": "MLA",
+  "name": "Malta",
+  "lat": 35.8575,
+  "lon": 14.4775,
+  "intl": true
+ },
+ {
+  "code": "GLA",
+  "name": "Glasgow",
+  "lat": 55.8719,
+  "lon": -4.4331,
+  "intl": true
+ },
+ {
+  "code": "BFS",
+  "name": "Belfast (International)",
+  "lat": 54.6575,
+  "lon": -6.2158,
+  "intl": true
+ },
+ {
+  "code": "ORK",
+  "name": "Cork",
+  "lat": 51.8413,
+  "lon": -8.4911,
+  "intl": true
+ },
+ {
+  "code": "SNN",
+  "name": "Shannon",
+  "lat": 52.702,
+  "lon": -8.9248,
+  "intl": true
+ },
+ {
+  "code": "BRS",
+  "name": "Bristol",
+  "lat": 51.3827,
+  "lon": -2.7191,
+  "intl": true
+ },
+ {
+  "code": "NCL",
+  "name": "Newcastle",
+  "lat": 55.0375,
+  "lon": -1.6917,
+  "intl": true
+ },
+ {
+  "code": "LTN",
+  "name": "London (Luton)",
+  "lat": 51.8747,
+  "lon": -0.3683,
+  "intl": true
+ },
+ {
+  "code": "GOT",
+  "name": "Gothenburg",
+  "lat": 57.6628,
+  "lon": 12.2798,
+  "intl": true
+ },
+ {
+  "code": "BGO",
+  "name": "Bergen",
+  "lat": 60.2934,
+  "lon": 5.2181,
+  "intl": true
+ },
+ {
+  "code": "BLL",
+  "name": "Billund",
+  "lat": 55.7403,
+  "lon": 9.1518,
+  "intl": true
+ },
+ {
+  "code": "RIX",
+  "name": "Riga",
+  "lat": 56.9236,
+  "lon": 23.9711,
+  "intl": true
+ },
+ {
+  "code": "VNO",
+  "name": "Vilnius",
+  "lat": 54.6341,
+  "lon": 25.2858,
+  "intl": true
+ },
+ {
+  "code": "TLL",
+  "name": "Tallinn",
+  "lat": 59.4133,
+  "lon": 24.8328,
+  "intl": true
+ },
+ {
+  "code": "KRK",
+  "name": "Kraków",
+  "lat": 50.0777,
+  "lon": 19.7848,
+  "intl": true
+ },
+ {
+  "code": "SZG",
+  "name": "Salzburg",
+  "lat": 47.7933,
+  "lon": 13.0043,
+  "intl": true
+ },
+ {
+  "code": "ZAG",
+  "name": "Zagreb",
+  "lat": 45.7429,
+  "lon": 16.0688,
+  "intl": true
+ },
+ {
+  "code": "SPU",
+  "name": "Split",
+  "lat": 43.5389,
+  "lon": 16.298,
+  "intl": true
+ },
+ {
+  "code": "DBV",
+  "name": "Dubrovnik",
+  "lat": 42.5614,
+  "lon": 18.2682,
+  "intl": true
+ },
+ {
+  "code": "SKG",
+  "name": "Thessaloniki",
+  "lat": 40.5197,
+  "lon": 22.9709,
+  "intl": true
+ },
+ {
+  "code": "HER",
+  "name": "Heraklion (Crete)",
+  "lat": 35.3397,
+  "lon": 25.1803,
+  "intl": true
+ },
+ {
+  "code": "JTR",
+  "name": "Santorini",
+  "lat": 36.3992,
+  "lon": 25.4793,
+  "intl": true
+ },
+ {
+  "code": "LCA",
+  "name": "Larnaca",
+  "lat": 34.8751,
+  "lon": 33.6249,
+  "intl": true
+ },
+ {
+  "code": "OTP",
+  "name": "Bucharest",
+  "lat": 44.5711,
+  "lon": 26.085,
+  "intl": true
+ },
+ {
+  "code": "SOF",
+  "name": "Sofia",
+  "lat": 42.6967,
+  "lon": 23.4114,
+  "intl": true
+ },
+ {
+  "code": "ZQN",
+  "name": "Queenstown",
+  "lat": -45.0211,
+  "lon": 168.7392,
+  "intl": true
+ },
+ {
+  "code": "WLG",
+  "name": "Wellington",
+  "lat": -41.3272,
+  "lon": 174.8053,
+  "intl": true
+ },
+ {
+  "code": "HBA",
+  "name": "Hobart",
+  "lat": -42.8361,
+  "lon": 147.5103,
+  "intl": true
+ },
+ {
+  "code": "CBR",
+  "name": "Canberra",
+  "lat": -35.3069,
+  "lon": 149.195,
+  "intl": true
+ },
+ {
+  "code": "DRW",
+  "name": "Darwin",
+  "lat": -12.4147,
+  "lon": 130.877,
+  "intl": true
+ },
+ {
+  "code": "RAR",
+  "name": "Rarotonga",
+  "lat": -21.2027,
+  "lon": -159.8061,
+  "intl": true
+ },
+ {
+  "code": "APW",
+  "name": "Apia",
+  "lat": -13.83,
+  "lon": -172.0083,
+  "intl": true
+ },
+ {
+  "code": "MRU",
+  "name": "Mauritius",
+  "lat": -20.4302,
+  "lon": 57.6836,
+  "intl": true
+ },
+ {
+  "code": "SEZ",
+  "name": "Seychelles (Mahé)",
+  "lat": -4.6743,
+  "lon": 55.5218,
+  "intl": true
+ },
+ {
+  "code": "ZNZ",
+  "name": "Zanzibar",
+  "lat": -6.222,
+  "lon": 39.2249,
+  "intl": true
+ },
+ {
+  "code": "DAR",
+  "name": "Dar es Salaam",
+  "lat": -6.8781,
+  "lon": 39.2026,
+  "intl": true
+ },
+ {
+  "code": "JRO",
+  "name": "Kilimanjaro",
+  "lat": -3.4294,
+  "lon": 37.0745,
+  "intl": true
+ },
+ {
+  "code": "KGL",
+  "name": "Kigali",
+  "lat": -1.9686,
+  "lon": 30.1395,
+  "intl": true
+ },
+ {
+  "code": "EBB",
+  "name": "Entebbe",
+  "lat": 0.0424,
+  "lon": 32.4435,
+  "intl": true
+ },
+ {
+  "code": "ACC",
+  "name": "Accra",
+  "lat": 5.6052,
+  "lon": -0.1668,
+  "intl": true
+ },
+ {
+  "code": "LOS",
+  "name": "Lagos",
+  "lat": 6.5774,
+  "lon": 3.3212,
+  "intl": true
+ },
+ {
+  "code": "DSS",
+  "name": "Dakar",
+  "lat": 14.67,
+  "lon": -17.0733,
+  "intl": true
+ },
+ {
+  "code": "RAK",
+  "name": "Marrakech",
+  "lat": 31.6069,
+  "lon": -8.0363,
+  "intl": true
+ },
+ {
+  "code": "TUN",
+  "name": "Tunis",
+  "lat": 36.851,
+  "lon": 10.2272,
+  "intl": true
+ },
+ {
+  "code": "DUR",
+  "name": "Durban",
+  "lat": -29.6144,
+  "lon": 31.1197,
+  "intl": true
+ },
+ {
+  "code": "VFA",
+  "name": "Victoria Falls",
+  "lat": -18.0959,
+  "lon": 25.839,
+  "intl": true
+ },
+ {
+  "code": "WDH",
+  "name": "Windhoek",
+  "lat": -22.4799,
+  "lon": 17.4709,
+  "intl": true
+ },
+ {
+  "code": "OKA",
+  "name": "Okinawa (Naha)",
+  "lat": 26.1958,
+  "lon": 127.6459,
+  "intl": true
+ },
+ {
+  "code": "SDJ",
+  "name": "Sendai",
+  "lat": 38.1397,
+  "lon": 140.917,
+  "intl": true
+ },
+ {
+  "code": "HIJ",
+  "name": "Hiroshima",
+  "lat": 34.4361,
+  "lon": 132.9194,
+  "intl": true
+ },
+ {
+  "code": "CJU",
+  "name": "Jeju",
+  "lat": 33.5113,
+  "lon": 126.493,
+  "intl": true
+ },
+ {
+  "code": "KHH",
+  "name": "Kaohsiung",
+  "lat": 22.5771,
+  "lon": 120.35,
+  "intl": true
+ },
+ {
+  "code": "CNX",
+  "name": "Chiang Mai",
+  "lat": 18.7668,
+  "lon": 98.9626,
+  "intl": true
+ },
+ {
+  "code": "USM",
+  "name": "Koh Samui",
+  "lat": 9.5478,
+  "lon": 100.0623,
+  "intl": true
+ },
+ {
+  "code": "KBV",
+  "name": "Krabi",
+  "lat": 8.0992,
+  "lon": 98.9862,
+  "intl": true
+ },
+ {
+  "code": "PEN",
+  "name": "Penang",
+  "lat": 5.2971,
+  "lon": 100.277,
+  "intl": true
+ },
+ {
+  "code": "LGK",
+  "name": "Langkawi",
+  "lat": 6.3297,
+  "lon": 99.7287,
+  "intl": true
+ },
+ {
+  "code": "BKI",
+  "name": "Kota Kinabalu",
+  "lat": 5.9372,
+  "lon": 116.051,
+  "intl": true
+ },
+ {
+  "code": "SUB",
+  "name": "Surabaya",
+  "lat": -7.3798,
+  "lon": 112.7868,
+  "intl": true
+ },
+ {
+  "code": "CEB",
+  "name": "Cebu",
+  "lat": 10.3075,
+  "lon": 123.9794,
+  "intl": true
+ },
+ {
+  "code": "CRK",
+  "name": "Clark",
+  "lat": 15.1859,
+  "lon": 120.5603,
+  "intl": true
+ },
+ {
+  "code": "DAD",
+  "name": "Da Nang",
+  "lat": 16.0439,
+  "lon": 108.1994,
+  "intl": true
+ },
+ {
+  "code": "CXR",
+  "name": "Nha Trang (Cam Ranh)",
+  "lat": 11.9982,
+  "lon": 109.2194,
+  "intl": true
+ },
+ {
+  "code": "PQC",
+  "name": "Phu Quoc",
+  "lat": 10.1698,
+  "lon": 103.9931,
+  "intl": true
+ },
+ {
+  "code": "SAI",
+  "name": "Siem Reap",
+  "lat": 13.3706,
+  "lon": 104.2239,
+  "intl": true
+ },
+ {
+  "code": "KTI",
+  "name": "Phnom Penh (Techo)",
+  "lat": 11.3,
+  "lon": 104.9167,
+  "intl": true
+ },
+ {
+  "code": "KTM",
+  "name": "Kathmandu",
+  "lat": 27.6966,
+  "lon": 85.3591,
+  "intl": true
+ },
+ {
+  "code": "GOI",
+  "name": "Goa (Dabolim)",
+  "lat": 15.3808,
+  "lon": 73.8314,
+  "intl": true
+ },
+ {
+  "code": "HYD",
+  "name": "Hyderabad",
+  "lat": 17.2403,
+  "lon": 78.4294,
+  "intl": true
+ },
+ {
+  "code": "MAA",
+  "name": "Chennai",
+  "lat": 12.9941,
+  "lon": 80.1709,
+  "intl": true
  }
 ]
