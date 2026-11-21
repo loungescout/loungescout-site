@@ -162,5 +162,81 @@
  "VA": {
   "n": "Virgin Australia",
   "al": null
+ },
+ "WN": {
+  "n": "Southwest Airlines",
+  "al": null
+ },
+ "WS": {
+  "n": "WestJet",
+  "al": null
+ },
+ "OS": {
+  "n": "Austrian Airlines",
+  "al": "star"
+ },
+ "A3": {
+  "n": "Aegean Airlines",
+  "al": "star"
+ },
+ "WY": {
+  "n": "Oman Air",
+  "al": null
+ },
+ "RJ": {
+  "n": "Royal Jordanian",
+  "al": "oneworld"
+ },
+ "MS": {
+  "n": "EgyptAir",
+  "al": "star"
+ },
+ "KU": {
+  "n": "Kuwait Airways",
+  "al": null
+ },
+ "BX": {
+  "n": "Air Busan",
+  "al": null
+ },
+ "TG": {
+  "n": "Thai Airways",
+  "al": "star"
+ },
+ "PG": {
+  "n": "Bangkok Airways",
+  "al": null
+ },
+ "MH": {
+  "n": "Malaysia Airlines",
+  "al": "oneworld"
+ },
+ "GA": {
+  "n": "Garuda Indonesia",
+  "al": "skyteam"
+ },
+ "PR": {
+  "n": "Philippine Airlines",
+  "al": null
+ },
+ "VN": {
+  "n": "Vietnam Airlines",
+  "al": "skyteam"
+ },
+ "BR": {
+  "n": "EVA Air",
+  "al": "star"
+ },
+ "G3": {
+  "n": "GOL",
+  "al": null
+ },
+ "AR": {
+  "n": "Aerolíneas Argentinas",
+  "al": "skyteam"
+ },
+ "CM": {
+  "n": "Copa Airlines",
+  "al": "star"
  }
 }

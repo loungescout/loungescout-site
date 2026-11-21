@@ -306,12 +306,6 @@
   "lon": -118.3587
  },
  {
-  "code": "LGA",
-  "name": "New York LaGuardia",
-  "lat": 40.7769,
-  "lon": -73.874
- },
- {
   "code": "LHR",
   "name": "London Heathrow",
   "lat": 51.47,
@@ -810,5 +804,659 @@
   "name": "Jackson Hole",
   "lat": 43.6073,
   "lon": -110.7377
+ },
+ {
+  "code": "SAV",
+  "name": "Savannah",
+  "lat": 32.1276,
+  "lon": -81.2021
+ },
+ {
+  "code": "CID",
+  "name": "Cedar Rapids",
+  "lat": 41.8847,
+  "lon": -91.7108
+ },
+ {
+  "code": "FSD",
+  "name": "Sioux Falls",
+  "lat": 43.582,
+  "lon": -96.7419
+ },
+ {
+  "code": "FAR",
+  "name": "Fargo",
+  "lat": 46.9207,
+  "lon": -96.8158
+ },
+ {
+  "code": "LNK",
+  "name": "Lincoln",
+  "lat": 40.851,
+  "lon": -96.7592
+ },
+ {
+  "code": "BTR",
+  "name": "Baton Rouge",
+  "lat": 30.5332,
+  "lon": -91.1496
+ },
+ {
+  "code": "MOB",
+  "name": "Mobile",
+  "lat": 30.6912,
+  "lon": -88.2428
+ },
+ {
+  "code": "JAN",
+  "name": "Jackson",
+  "lat": 32.3112,
+  "lon": -90.0759
+ },
+ {
+  "code": "SHV",
+  "name": "Shreveport",
+  "lat": 32.4466,
+  "lon": -93.8256
+ },
+ {
+  "code": "AMA",
+  "name": "Amarillo",
+  "lat": 35.2194,
+  "lon": -101.7059
+ },
+ {
+  "code": "LBB",
+  "name": "Lubbock",
+  "lat": 33.6636,
+  "lon": -101.8228
+ },
+ {
+  "code": "MAF",
+  "name": "Midland",
+  "lat": 31.9425,
+  "lon": -102.2019
+ },
+ {
+  "code": "CRP",
+  "name": "Corpus Christi",
+  "lat": 27.7704,
+  "lon": -97.5012
+ },
+ {
+  "code": "MFE",
+  "name": "McAllen",
+  "lat": 26.1758,
+  "lon": -98.2386
+ },
+ {
+  "code": "HRL",
+  "name": "Harlingen",
+  "lat": 26.2285,
+  "lon": -97.6544
+ },
+ {
+  "code": "BIL",
+  "name": "Billings",
+  "lat": 45.8077,
+  "lon": -108.5429
+ },
+ {
+  "code": "MSO",
+  "name": "Missoula",
+  "lat": 46.9163,
+  "lon": -114.0906
+ },
+ {
+  "code": "FCA",
+  "name": "Kalispell (Glacier Park)",
+  "lat": 48.3105,
+  "lon": -114.256
+ },
+ {
+  "code": "GJT",
+  "name": "Grand Junction",
+  "lat": 39.1224,
+  "lon": -108.5267
+ },
+ {
+  "code": "ASE",
+  "name": "Aspen",
+  "lat": 39.2232,
+  "lon": -106.8688
+ },
+ {
+  "code": "EGE",
+  "name": "Vail (Eagle County)",
+  "lat": 39.6426,
+  "lon": -106.9177
+ },
+ {
+  "code": "MTJ",
+  "name": "Montrose (Telluride)",
+  "lat": 38.5098,
+  "lon": -107.8938
+ },
+ {
+  "code": "SUN",
+  "name": "Sun Valley (Hailey)",
+  "lat": 43.5044,
+  "lon": -114.2962
+ },
+ {
+  "code": "FAI",
+  "name": "Fairbanks",
+  "lat": 64.8151,
+  "lon": -147.8561
+ },
+ {
+  "code": "JNU",
+  "name": "Juneau",
+  "lat": 58.355,
+  "lon": -134.5763
+ },
+ {
+  "code": "KTN",
+  "name": "Ketchikan",
+  "lat": 55.3556,
+  "lon": -131.7137
+ },
+ {
+  "code": "SBP",
+  "name": "San Luis Obispo",
+  "lat": 35.2368,
+  "lon": -120.6424
+ },
+ {
+  "code": "MRY",
+  "name": "Monterey",
+  "lat": 36.587,
+  "lon": -121.8429
+ },
+ {
+  "code": "STS",
+  "name": "Santa Rosa (Sonoma County)",
+  "lat": 38.509,
+  "lon": -122.8128
+ },
+ {
+  "code": "EUG",
+  "name": "Eugene",
+  "lat": 44.1246,
+  "lon": -123.2119
+ },
+ {
+  "code": "MFR",
+  "name": "Medford",
+  "lat": 42.3742,
+  "lon": -122.8735
+ },
+ {
+  "code": "RDM",
+  "name": "Redmond (Bend)",
+  "lat": 44.2541,
+  "lon": -121.15
+ },
+ {
+  "code": "BLI",
+  "name": "Bellingham",
+  "lat": 48.7928,
+  "lon": -122.5375
+ },
+ {
+  "code": "PSC",
+  "name": "Pasco (Tri-Cities)",
+  "lat": 46.2647,
+  "lon": -119.119
+ },
+ {
+  "code": "VPS",
+  "name": "Destin / Fort Walton Beach",
+  "lat": 30.4832,
+  "lon": -86.5254
+ },
+ {
+  "code": "ECP",
+  "name": "Panama City Beach",
+  "lat": 30.3571,
+  "lon": -85.7956
+ },
+ {
+  "code": "TLH",
+  "name": "Tallahassee",
+  "lat": 30.3965,
+  "lon": -84.3503
+ },
+ {
+  "code": "EYW",
+  "name": "Key West",
+  "lat": 24.5561,
+  "lon": -81.7596
+ },
+ {
+  "code": "DAB",
+  "name": "Daytona Beach",
+  "lat": 29.1799,
+  "lon": -81.0581
+ },
+ {
+  "code": "GNV",
+  "name": "Gainesville",
+  "lat": 29.6901,
+  "lon": -82.2718
+ },
+ {
+  "code": "HPN",
+  "name": "White Plains (Westchester)",
+  "lat": 41.067,
+  "lon": -73.7076
+ },
+ {
+  "code": "ISP",
+  "name": "Long Island (Islip)",
+  "lat": 40.7952,
+  "lon": -73.1002
+ },
+ {
+  "code": "ABE",
+  "name": "Allentown (Lehigh Valley)",
+  "lat": 40.6521,
+  "lon": -75.4408
+ },
+ {
+  "code": "CAK",
+  "name": "Akron-Canton",
+  "lat": 40.9161,
+  "lon": -81.4422
+ },
+ {
+  "code": "SBN",
+  "name": "South Bend",
+  "lat": 41.7087,
+  "lon": -86.3173
+ },
+ {
+  "code": "STT",
+  "name": "St. Thomas",
+  "lat": 18.3373,
+  "lon": -64.9734
+ },
+ {
+  "code": "YUL",
+  "name": "Montreal",
+  "lat": 45.4706,
+  "lon": -73.7408,
+  "intl": true
+ },
+ {
+  "code": "YYC",
+  "name": "Calgary",
+  "lat": 51.1315,
+  "lon": -114.0106,
+  "intl": true
+ },
+ {
+  "code": "YOW",
+  "name": "Ottawa",
+  "lat": 45.3225,
+  "lon": -75.6692,
+  "intl": true
+ },
+ {
+  "code": "YEG",
+  "name": "Edmonton",
+  "lat": 53.3097,
+  "lon": -113.58,
+  "intl": true
+ },
+ {
+  "code": "YHZ",
+  "name": "Halifax",
+  "lat": 44.8808,
+  "lon": -63.5086,
+  "intl": true
+ },
+ {
+  "code": "YWG",
+  "name": "Winnipeg",
+  "lat": 49.91,
+  "lon": -97.2399,
+  "intl": true
+ },
+ {
+  "code": "LGW",
+  "name": "London (Gatwick)",
+  "lat": 51.1481,
+  "lon": -0.1903,
+  "intl": true
+ },
+ {
+  "code": "MAN",
+  "name": "Manchester",
+  "lat": 53.3537,
+  "lon": -2.275,
+  "intl": true
+ },
+ {
+  "code": "EDI",
+  "name": "Edinburgh",
+  "lat": 55.95,
+  "lon": -3.3725,
+  "intl": true
+ },
+ {
+  "code": "STN",
+  "name": "London (Stansted)",
+  "lat": 51.885,
+  "lon": 0.235,
+  "intl": true
+ },
+ {
+  "code": "BHX",
+  "name": "Birmingham (UK)",
+  "lat": 52.4539,
+  "lon": -1.748,
+  "intl": true
+ },
+ {
+  "code": "LIS",
+  "name": "Lisbon",
+  "lat": 38.7742,
+  "lon": -9.1342,
+  "intl": true
+ },
+ {
+  "code": "OPO",
+  "name": "Porto",
+  "lat": 41.2481,
+  "lon": -8.6814,
+  "intl": true
+ },
+ {
+  "code": "BCN",
+  "name": "Barcelona",
+  "lat": 41.2971,
+  "lon": 2.0785,
+  "intl": true
+ },
+ {
+  "code": "AGP",
+  "name": "Málaga",
+  "lat": 36.6749,
+  "lon": -4.4991,
+  "intl": true
+ },
+ {
+  "code": "PMI",
+  "name": "Palma de Mallorca",
+  "lat": 39.5517,
+  "lon": 2.7388,
+  "intl": true
+ },
+ {
+  "code": "VIE",
+  "name": "Vienna",
+  "lat": 48.1103,
+  "lon": 16.5697,
+  "intl": true
+ },
+ {
+  "code": "ATH",
+  "name": "Athens",
+  "lat": 37.9364,
+  "lon": 23.9445,
+  "intl": true
+ },
+ {
+  "code": "AUH",
+  "name": "Abu Dhabi",
+  "lat": 24.433,
+  "lon": 54.6511,
+  "intl": true
+ },
+ {
+  "code": "RUH",
+  "name": "Riyadh",
+  "lat": 24.9576,
+  "lon": 46.6988,
+  "intl": true
+ },
+ {
+  "code": "JED",
+  "name": "Jeddah",
+  "lat": 21.6796,
+  "lon": 39.1565,
+  "intl": true
+ },
+ {
+  "code": "BAH",
+  "name": "Bahrain",
+  "lat": 26.2708,
+  "lon": 50.6336,
+  "intl": true
+ },
+ {
+  "code": "MCT",
+  "name": "Muscat",
+  "lat": 23.5933,
+  "lon": 58.2844,
+  "intl": true
+ },
+ {
+  "code": "KWI",
+  "name": "Kuwait",
+  "lat": 29.2266,
+  "lon": 47.9689,
+  "intl": true
+ },
+ {
+  "code": "AMM",
+  "name": "Amman",
+  "lat": 31.7226,
+  "lon": 35.9932,
+  "intl": true
+ },
+ {
+  "code": "TLV",
+  "name": "Tel Aviv",
+  "lat": 32.0114,
+  "lon": 34.8867,
+  "intl": true
+ },
+ {
+  "code": "CAI",
+  "name": "Cairo",
+  "lat": 30.1219,
+  "lon": 31.4056,
+  "intl": true
+ },
+ {
+  "code": "KIX",
+  "name": "Osaka (Kansai)",
+  "lat": 34.432,
+  "lon": 135.2304,
+  "intl": true
+ },
+ {
+  "code": "NGO",
+  "name": "Nagoya (Chubu Centrair)",
+  "lat": 34.8584,
+  "lon": 136.8054,
+  "intl": true
+ },
+ {
+  "code": "FUK",
+  "name": "Fukuoka",
+  "lat": 33.5859,
+  "lon": 130.4511,
+  "intl": true
+ },
+ {
+  "code": "CTS",
+  "name": "Sapporo (New Chitose)",
+  "lat": 42.7752,
+  "lon": 141.6923,
+  "intl": true
+ },
+ {
+  "code": "GMP",
+  "name": "Seoul (Gimpo)",
+  "lat": 37.5583,
+  "lon": 126.7906,
+  "intl": true
+ },
+ {
+  "code": "PUS",
+  "name": "Busan",
+  "lat": 35.1795,
+  "lon": 128.9382,
+  "intl": true
+ },
+ {
+  "code": "BKK",
+  "name": "Bangkok (Suvarnabhumi)",
+  "lat": 13.69,
+  "lon": 100.7501,
+  "intl": true
+ },
+ {
+  "code": "DMK",
+  "name": "Bangkok (Don Mueang)",
+  "lat": 13.9126,
+  "lon": 100.607,
+  "intl": true
+ },
+ {
+  "code": "HKT",
+  "name": "Phuket",
+  "lat": 8.1132,
+  "lon": 98.3169,
+  "intl": true
+ },
+ {
+  "code": "KUL",
+  "name": "Kuala Lumpur",
+  "lat": 2.7456,
+  "lon": 101.7099,
+  "intl": true
+ },
+ {
+  "code": "CGK",
+  "name": "Jakarta",
+  "lat": -6.1256,
+  "lon": 106.6559,
+  "intl": true
+ },
+ {
+  "code": "DPS",
+  "name": "Bali (Denpasar)",
+  "lat": -8.7482,
+  "lon": 115.1675,
+  "intl": true
+ },
+ {
+  "code": "MNL",
+  "name": "Manila",
+  "lat": 14.5086,
+  "lon": 121.0194,
+  "intl": true
+ },
+ {
+  "code": "SGN",
+  "name": "Ho Chi Minh City",
+  "lat": 10.8188,
+  "lon": 106.652,
+  "intl": true
+ },
+ {
+  "code": "HAN",
+  "name": "Hanoi",
+  "lat": 21.2212,
+  "lon": 105.8072,
+  "intl": true
+ },
+ {
+  "code": "DEL",
+  "name": "Delhi",
+  "lat": 28.5562,
+  "lon": 77.1,
+  "intl": true
+ },
+ {
+  "code": "MEL",
+  "name": "Melbourne",
+  "lat": -37.669,
+  "lon": 144.841,
+  "intl": true
+ },
+ {
+  "code": "BNE",
+  "name": "Brisbane",
+  "lat": -27.3842,
+  "lon": 153.1175,
+  "intl": true
+ },
+ {
+  "code": "PER",
+  "name": "Perth",
+  "lat": -31.9403,
+  "lon": 115.9669,
+  "intl": true
+ },
+ {
+  "code": "ADL",
+  "name": "Adelaide",
+  "lat": -34.945,
+  "lon": 138.5306,
+  "intl": true
+ },
+ {
+  "code": "CNS",
+  "name": "Cairns",
+  "lat": -16.8858,
+  "lon": 145.7553,
+  "intl": true
+ },
+ {
+  "code": "GRU",
+  "name": "São Paulo (Guarulhos)",
+  "lat": -23.4356,
+  "lon": -46.4731,
+  "intl": true
+ },
+ {
+  "code": "GIG",
+  "name": "Rio de Janeiro (Galeão)",
+  "lat": -22.809,
+  "lon": -43.2506,
+  "intl": true
+ },
+ {
+  "code": "EZE",
+  "name": "Buenos Aires (Ezeiza)",
+  "lat": -34.8222,
+  "lon": -58.5358,
+  "intl": true
+ },
+ {
+  "code": "SCL",
+  "name": "Santiago",
+  "lat": -33.393,
+  "lon": -70.7858,
+  "intl": true
+ },
+ {
+  "code": "LIM",
+  "name": "Lima",
+  "lat": -12.0219,
+  "lon": -77.1143,
+  "intl": true
+ },
+ {
+  "code": "BOG",
+  "name": "Bogotá",
+  "lat": 4.7016,
+  "lon": -74.1469,
+  "intl": true
  }
 ]
