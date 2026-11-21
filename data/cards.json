@@ -148,6 +148,11 @@
   "name": "United Club membership"
  },
  {
+  "kind": "member",
+  "id": "lk",
+  "name": "LoungeKey (included with some credit cards)"
+ },
+ {
   "kind": "status",
   "id": "starGold",
   "name": "Star Alliance Gold"

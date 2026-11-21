@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Add these cards to LoungeScout</title>
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<style>
+html{background:#F5F3FD}body{font:17px/1.5 -apple-system,system-ui,sans-serif;max-width:520px;margin:0 auto;padding:32px 20px;color:#161428}
+h1{font-size:28px;line-height:1.2;margin:12px 0 8px}p{color:#5a5670;margin:0 0 16px}
+.logo{width:56px;height:56px;border-radius:14px}
+ul{list-style:none;padding:0;margin:0 0 20px}li{background:#fff;border:1px solid #E4E0F5;border-radius:14px;padding:12px 14px;margin-bottom:8px;font-weight:600}
+.btn{display:block;text-align:center;background:#5B4FD0;color:#fff;text-decoration:none;font-weight:700;border-radius:999px;padding:15px;margin-bottom:10px}
+.btn.soft{background:#E6E2FB;color:#5B4FD0}
+small{color:#5a5670}
+@media (prefers-color-scheme:dark){html{background:#0d0c14}body{color:#f2f0fa}p,small{color:#a9a5bd}li{background:#1a1826;border-color:#2c2940}.btn.soft{background:#2c2940;color:#c9c2ff}}
+</style></head>
+<body>
+<img class="logo" src="/assets/icon.png" alt="" onerror="this.remove()">
+<h1>Someone shared their card setup</h1>
+<p>Open it in LoungeScout to add the cards you also carry. Nothing is added until you confirm.</p>
+<ul id="list"></ul>
+<a class="btn" id="open" href="#">Open in LoungeScout</a>
+<a class="btn soft" href="https://apps.apple.com/app/lounge-scout-airport-lounges/id6836016133">Get LoungeScout (free)</a>
+<small>Don't have the app yet? Install it, then come back and tap Open in LoungeScout.</small>
+<script>
+(function(){
+  var c=(new URLSearchParams(location.search).get("c")||"").replace(/[^A-Za-z0-9,]/g,"");
+  var open=document.getElementById("open");
+  open.href="loungescout://add?c="+encodeURIComponent(c);
+  if(!c){open.style.display="none";return}
+  fetch("/data/cards.json").then(function(r){return r.json()}).then(function(cards){
+    var by={};cards.forEach(function(x){by[x.id]=x.name});
+    var ul=document.getElementById("list");
+    c.split(",").forEach(function(id){if(by[id]){var li=document.createElement("li");li.textContent=by[id];ul.appendChild(li)}});
+  }).catch(function(){});
+})();
+</script>
+</body></html>

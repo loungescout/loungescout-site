@@ -80,6 +80,14 @@
     ],
     "unsure": true,
     "note": "Priority Pass. Our source conflicts on this"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "id": "af",
@@ -1110,6 +1118,14 @@
      "pp"
     ],
     "note": "3-hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -1153,6 +1169,14 @@
     ],
     "unsure": true,
     "note": "Priority Pass, up to 3 hours, subject to capacity"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7:15 a.m. to 9:45 p.m. daily",
@@ -1674,6 +1698,14 @@
      "pp"
     ],
     "note": "3-hour limit"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "Mon, Wed, Fri, Sun 11:30 a.m. to 11:30 p.m. Tue, Thu, Sat until 1 a.m.",
@@ -1721,6 +1753,14 @@
     ],
     "unsure": true,
     "note": "Priority Pass only from 9:30 p.m. to midnight"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "10:30 a.m. to 1:50 p.m. and 9:30 p.m. to 12:50 a.m.",
@@ -1775,6 +1815,14 @@
      "pp"
     ],
     "note": "Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -1869,6 +1917,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "24 hours",
@@ -2566,6 +2622,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -2729,6 +2793,14 @@
     ],
     "desc": "Premium class on Air France, KLM, Korean Air or Qatar",
     "unsure": true
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7 a.m. to 11:30 p.m. daily",
@@ -3682,6 +3754,14 @@
      "pp"
     ],
     "note": "3-hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -3819,6 +3899,14 @@
     ],
     "desc": "Turkish or Emirates business or first class",
     "unsure": true
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -4466,6 +4554,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -4496,6 +4592,14 @@
     "ids": [
      "pp"
     ]
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "11 a.m. to 10 p.m. daily",
@@ -5397,6 +5501,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -5714,6 +5826,14 @@
      "pp"
     ],
     "note": "2-hour limit"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -6618,6 +6738,14 @@
      "pp"
     ],
     "note": "3-hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "5 a.m. to 10 p.m. daily",
@@ -6733,6 +6861,14 @@
      "pp"
     ],
     "note": "3-hour limit"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "24 hours",
@@ -6768,6 +6904,14 @@
      "TP"
     ],
     "desc": "Avianca or TAP business class"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -7150,6 +7294,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -7209,6 +7361,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -7572,6 +7732,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -7632,6 +7800,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -9043,6 +9219,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -9124,6 +9308,14 @@
      "pp"
     ],
     "note": "3 hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -9242,6 +9434,14 @@
      "pp"
     ],
     "note": "3 hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -9426,6 +9626,14 @@
      "pp"
     ],
     "note": "Capacity limits apply. Not open to Priority Pass members from 3 p.m. to 8 p.m."
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7:30 a.m. to 9 p.m. daily",
@@ -9590,6 +9798,14 @@
      "pp"
     ],
     "note": "Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7:15 a.m. to 9:30 p.m. daily",
@@ -10118,6 +10334,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -10942,6 +11166,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -11215,6 +11447,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -12072,6 +12312,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -12304,6 +12552,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -12412,6 +12668,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -13801,6 +14065,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -13860,6 +14132,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -13955,6 +14235,14 @@
      "pp"
     ],
     "note": "2-hour limit"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -14174,6 +14462,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -14667,6 +14963,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -15349,6 +15653,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "notes": "Also open to Hawaiian Pualani Gold and Platinum and Premier Club members. Priority Pass accepted again since November 2025.",
@@ -15660,6 +15972,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -15904,6 +16224,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -16082,6 +16410,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -16302,6 +16638,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -16579,6 +16923,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -16639,6 +16991,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -16859,6 +17219,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17111,6 +17479,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17270,6 +17646,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17473,6 +17857,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17545,6 +17937,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17679,6 +18079,14 @@
     "limit": "8 visits a year, shared with guests",
     "unsure": true,
     "note": "Needs an activated Priority Pass. 8 visits a year, shared with guests. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -17965,6 +18373,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18114,6 +18530,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18163,6 +18587,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18433,6 +18865,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18483,6 +18923,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18532,6 +18980,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -18949,6 +19405,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -19006,6 +19470,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -19176,6 +19648,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -19225,6 +19705,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -20077,6 +20565,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "notes": "Use the Priority Pass app. A physical Amex card isn't accepted here.",
@@ -20119,6 +20615,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7 a.m. to 9 p.m. daily"
@@ -20289,6 +20793,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -20337,6 +20849,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "notes": "Use the Priority Pass app. A physical Amex card isn't accepted here.",
@@ -20379,6 +20899,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "7 a.m. to 9 p.m. daily"
@@ -20420,6 +20948,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "notes": "Priority Pass, up to 3 hours.",
@@ -20442,6 +20978,14 @@
      "pp"
     ],
     "note": "Priority Pass only from 1 a.m. to 5 a.m."
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -20707,6 +21251,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -20868,6 +21420,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21021,6 +21581,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21077,6 +21645,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21146,6 +21722,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight",
@@ -21204,6 +21788,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21344,6 +21936,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21445,6 +22045,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "notes": "Partly walled off during 2026 refurbishment.",
@@ -21551,6 +22159,14 @@
     "airlines": [
      "BA"
     ]
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -21713,6 +22329,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22080,6 +22704,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22186,6 +22818,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "hours": "Check before you go"
@@ -22272,6 +22912,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22436,6 +23084,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22622,6 +23278,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22688,6 +23352,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22779,6 +23451,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -22989,6 +23669,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23138,6 +23826,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23186,6 +23882,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23234,6 +23938,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23510,6 +24222,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23558,6 +24278,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23706,6 +24434,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23754,6 +24490,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23802,6 +24546,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23885,6 +24637,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -23933,6 +24693,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24003,6 +24771,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24053,6 +24829,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24126,6 +24910,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight",
@@ -24204,6 +24996,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24472,6 +25272,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24521,6 +25329,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -24835,6 +25651,14 @@
     ],
     "unsure": true,
     "note": "Only on an Asiana or Star Alliance flight"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone",
@@ -24879,6 +25703,14 @@
     ],
     "unsure": true,
     "note": "Only on an Asiana or Star Alliance flight"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone",
@@ -25068,6 +25900,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25118,6 +25958,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25168,6 +26016,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25219,6 +26075,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25270,6 +26134,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25523,6 +26395,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25573,6 +26453,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25624,6 +26512,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25723,6 +26619,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25772,6 +26676,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25820,6 +26732,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -25869,6 +26789,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26117,6 +27045,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26173,6 +27109,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26250,6 +27194,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26307,6 +27259,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26363,6 +27323,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26595,6 +27563,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight"
@@ -26671,6 +27647,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -26721,6 +27705,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27163,6 +28155,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27212,6 +28212,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27401,6 +28409,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27450,6 +28466,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27595,6 +28619,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27666,6 +28698,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27716,6 +28756,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27766,6 +28814,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27860,6 +28916,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -27910,6 +28974,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28028,6 +29100,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28087,6 +29167,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28137,6 +29225,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28186,6 +29282,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28244,6 +29348,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28295,6 +29407,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28388,6 +29508,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28686,6 +29814,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight",
@@ -28737,6 +29873,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28786,6 +29930,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -28899,6 +30051,14 @@
     ],
     "unsure": true,
     "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "guests": "Each guest needs their own pass",
