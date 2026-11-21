@@ -819,16 +819,39 @@
  },
  {
   "ap": "LAX",
-  "rules": [],
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "airlines": [
+     "UA"
+    ],
+    "desc": "United Polaris business class on an international flight"
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "alliance": "star",
+    "desc": "Star Alliance international business or first class"
+   }
+  ],
   "id": "pol",
   "name": "United Polaris Lounge",
   "ts": [
    "T7"
   ],
-  "loc": "Terminal 7, between gates 73 and 75A",
+  "loc": "Terminal 7, level 3, near gate 73",
   "op": "United Airlines",
-  "state": "unknown",
-  "note": "Our source did not list access rules for this lounge."
+  "state": "open",
+  "note": "Our source did not list access rules for this lounge.",
+  "hours": "6:30 a.m. to 10:30 p.m. daily",
+  "noPass": true
  },
  {
   "ap": "LAX",
@@ -908,7 +931,7 @@
   "op": "Korean Air",
   "state": "open",
   "noPass": true,
-  "hours": "9 a.m. to 1 p.m. and 7:30 to 11:50 p.m. daily",
+  "hours": "Opens 3.5 to 4 hours before each Korean Air departure and closes at departure, with a midday break. Varies by season.",
   "notes": "Korean Air SKYPASS lounge award: 4,000 miles with a Korean Air flight number.",
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight"
  },
@@ -944,7 +967,7 @@
   "op": "Korean Air",
   "state": "open",
   "noPass": true,
-  "hours": "7:40 a.m. to 1 p.m. and 7:30 to 11:50 p.m. daily",
+  "hours": "Opens 3.5 to 4 hours before each Korean Air departure and closes at departure, with a midday break. Varies by season.",
   "notes": "Korean Air SKYPASS lounge award: 4,000 miles with a Korean Air flight number.",
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight"
  },
@@ -1043,16 +1066,66 @@
  },
  {
   "ap": "LAX",
-  "rules": [],
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "airlines": [
+     "VS"
+    ],
+    "desc": "Virgin Atlantic Upper Class"
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "airlines": [
+     "DL",
+     "CI"
+    ],
+    "desc": "Delta One international, or China Airlines business or first",
+    "unsure": true
+   },
+   {
+    "t": "status",
+    "ids": [
+     "skyElite"
+    ],
+    "note": "Flying Club Gold or SkyTeam Elite Plus",
+    "cond": {
+     "airlines": [
+      "VS",
+      "DL"
+     ],
+     "text": "a same-day Virgin Atlantic or Delta flight"
+    }
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz"
+    ],
+    "unsure": true,
+    "note": "Limited hours may apply"
+   }
+  ],
   "id": "vs",
   "name": "Virgin Atlantic Clubhouse",
   "ts": [
    "TB"
   ],
-  "loc": "Terminal B",
+  "loc": "Terminal B (Tom Bradley), level 6, after security",
   "op": "Virgin Atlantic",
-  "state": "unknown",
-  "note": "Priority Pass members can pay $35 to enter, per our source. Other rules are not in our data yet."
+  "state": "open",
+  "note": "Priority Pass members can pay $35 to enter, per our source. Other rules are not in our data yet.",
+  "hours": "Opens about 4 hours before Virgin Atlantic departures",
+  "notes": "Priority Pass and LoungeKey members can enter for a $35 top-up fee, up to 3 hours before departure. No day passes."
  },
  {
   "ap": "JFK",
@@ -1718,11 +1791,48 @@
   "ts": [
    "T1"
   ],
-  "loc": "Terminal 1",
+  "loc": "Terminal 1, departures level, behind check-in counters E and F next to the TSA checkpoint (before security)",
   "op": "VIP One",
-  "state": "unknown",
-  "rules": [],
-  "note": "Our source did not list access rules for this lounge."
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "note": "Our source did not list access rules for this lounge.",
+  "notes": "International departures from Terminal 1 only. 3-hour limit. Includes a fast-track security lane."
  },
  {
   "ap": "JFK",
@@ -1774,10 +1884,69 @@
   "ts": [
    "T1"
   ],
-  "loc": "Terminal 1",
+  "loc": "Terminal 1, between gates 2 and 3",
   "op": "Turkish Airlines",
-  "state": "unknown",
-  "rules": [],
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "airlines": [
+     "TK"
+    ],
+    "desc": "Turkish Airlines business class"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "starGold"
+    ],
+    "unsure": true,
+    "note": "Star Alliance Gold on an international Star Alliance flight. Confirm before you go",
+    "cond": {
+     "alliance": "star",
+     "text": "a same-day international Star Alliance flight"
+    }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
   "note": "Our source did not list access rules. It closes when operations move to the new Terminal One."
  },
  {
@@ -2118,10 +2287,31 @@
   "ts": [
    "T8"
   ],
-  "loc": "Terminal 8",
-  "op": "Soho",
-  "state": "unknown",
-  "rules": [],
+  "loc": "Terminal 8, mezzanine above gate 14",
+  "op": "British Airways and American",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "alliance": "oneworld",
+    "desc": "Oneworld first class"
+   },
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Oneworld Emerald only, not Sapphire",
+    "cond": {
+     "alliance": "oneworld",
+     "text": "a same-day Oneworld flight"
+    }
+   }
+  ],
   "note": "Our source did not list access rules. No credit card access."
  },
  {
@@ -4162,7 +4352,7 @@
   "ts": [
    "Concourse D"
   ],
-  "loc": "Concourse D, near gate D18",
+  "loc": "Concourse D, center point, on the roof of the expanded food court",
   "op": "Delta Air Lines",
   "state": "open",
   "rules": [
@@ -7178,7 +7368,8 @@
   "op": "Alaska Airlines",
   "state": "soon",
   "rules": [],
-  "note": "A second Concourse C lounge is planned for 2027."
+  "note": "A second Concourse C lounge is planned for 2027.",
+  "stateNote": "Expected late 2027. Upper level (Aurora Lounge) for long-haul international travelers"
  },
  {
   "ap": "SEA",
@@ -7539,11 +7730,12 @@
   "ts": [
    "Concourse B"
   ],
-  "loc": "Concourse B",
+  "loc": "Concourse B, near gate B3, in the former Centurion Lounge space",
   "op": "United Airlines",
   "state": "soon",
   "rules": [],
-  "note": "The new Concourse B club is not open yet, and the Concourse A club has closed. No opening date announced."
+  "note": "The new Concourse B club is not open yet, and the Concourse A club has closed. No opening date announced.",
+  "stateNote": "Expected late 2027. Could slip. The gate A9 club stays open until then"
  },
  {
   "ap": "SEA",
@@ -9167,11 +9359,24 @@
   "ts": [
    "TC"
   ],
-  "loc": "Terminal C, near gate C23",
+  "loc": "Terminal C, across from gate C25",
   "op": "JetBlue",
-  "state": "unknown",
-  "rules": [],
-  "note": "Our sources disagree on whether this lounge has opened. Confirm before you go."
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz"
+    ],
+    "airlines": [
+     "B6"
+    ],
+    "desc": "JetBlue Mint or Mint Flex, domestic or transatlantic. Not Mint Basic"
+   }
+  ],
+  "note": "Our sources disagree on whether this lounge has opened. Confirm before you go.",
+  "notes": "Needs a same-day JetBlue flight. Also free for TrueBlue Mosaic 4 members and JetBlue Premier Card holders. Some other travelers can buy entry.",
+  "hours": "5 a.m. to 10 p.m. daily"
  },
  {
   "ap": "BOS",
@@ -9252,7 +9457,8 @@
   "op": "American Express",
   "state": "soon",
   "rules": [],
-  "note": "Expected to open in 2027."
+  "note": "Expected to open in 2027.",
+  "stateNote": "Expected to open in 2029"
  },
  {
   "ap": "BOS",
@@ -9326,7 +9532,7 @@
    }
   ],
   "from": "$50",
-  "hours": "8 a.m. to 1:30 p.m. daily",
+  "hours": "8 a.m. to 11:30 p.m. daily",
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight"
  },
  {
@@ -10994,6 +11200,21 @@
     ],
     "unsure": true,
     "note": "Flying Blue Gold or Platinum, or SkyTeam Elite Plus"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ],
+    "note": "3 hour limit. Cardholder must be 21 or older"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -15125,8 +15346,8 @@
   ],
   "from": "$79",
   "guests": "Members bring 2 guests or immediate family",
-  "notes": "This is a temporary location.",
-  "hours": "4:30 a.m. to 7:30 p.m. daily"
+  "notes": "",
+  "hours": "4:15 a.m. to 7:45 p.m. daily"
  },
  {
   "ap": "TPA",
@@ -16429,7 +16650,7 @@
   "notes": "Priority Pass entry within 2.5 hours of departure, subject to space.",
   "guests": "Each guest needs their own pass. Children under 2 are free. Up to 6 people per booking",
   "from": "$50",
-  "hours": "4 a.m. to 10 p.m. daily"
+  "hours": "4 a.m. to 10 p.m. daily. Closes 8 p.m. Saturday"
  },
  {
   "ap": "MDW",
@@ -16482,7 +16703,7 @@
   ],
   "from": "$19.95",
   "guests": "Each guest pays for their own pass",
-  "hours": "7 a.m. to 8 p.m. daily"
+  "hours": "6 a.m. to 9 p.m. daily"
  },
  {
   "ap": "MDW",
@@ -17673,7 +17894,7 @@
   "ts": [
    "Concourse B"
   ],
-  "loc": "Main Terminal, between gates B8 and B10",
+  "loc": "Concourse B, near gate B12",
   "op": "Escape Lounges",
   "state": "open",
   "rules": [
@@ -17697,17 +17918,54 @@
      ],
      "text": "a same-day Delta flight"
     }
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
    {
     "l": "Day pass",
-    "p": "Varies"
+    "p": "$45 to $60",
+    "n": "$45 booked at least 24 hours ahead, $60 walk-up"
    }
   ],
   "guests": "American Express Platinum cardholders bring up to 2 guests. Children under 3 are free",
   "notes": "A Centurion Studio Partner lounge.",
-  "hours": "Check the Escape Lounges website"
+  "hours": "5 a.m. to 9 p.m. daily",
+  "from": "$45"
  },
  {
   "ap": "CVG",
@@ -19498,7 +19756,7 @@
   ],
   "loc": "Near gate 10",
   "op": "Etihad",
-  "state": "open",
+  "state": "closed",
   "rules": [
    {
     "t": "cabin",
@@ -19513,7 +19771,8 @@
    }
   ],
   "notes": "Also open to Etihad Guest Gold and Platinum.",
-  "hours": "6 a.m. to 10 p.m. daily"
+  "hours": "6 a.m. to 10 p.m. daily",
+  "stateNote": "Closed for renovation. Reopens in summer 2027"
  },
  {
   "ap": "LHR",
@@ -19677,7 +19936,7 @@
   ],
   "loc": "Near gate A18",
   "op": "Aspire",
-  "state": "open",
+  "state": "closed",
   "rules": [
    {
     "t": "member",
@@ -19722,7 +19981,8 @@
    }
   ],
   "from": "£40",
-  "hours": "5 a.m. to 9 p.m. daily"
+  "hours": "5 a.m. to 9 p.m. daily",
+  "stateNote": "Closed Nov 2, 2026. Reopens as a No1 Lounge in early spring 2027"
  },
  {
   "ap": "LHR",
@@ -21026,7 +21286,7 @@
   "ts": [
    "Terminal 3"
   ],
-  "loc": "4th floor, international departure gates",
+  "loc": "4th floor, near gate 114",
   "op": "American Express",
   "state": "open",
   "rules": [
@@ -22750,10 +23010,22 @@
     ],
     "unsure": true,
     "note": "SkyTeam Elite Plus or Flying Blue Gold or Platinum"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ],
+    "unsure": true,
+    "note": "Reported open to Priority Pass members flying a SkyTeam airline. Confirm before you go",
+    "cond": {
+     "alliance": "skyteam",
+     "text": "a same-day SkyTeam flight"
+    }
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight",
-  "notes": "Opened April 2026. No Priority Pass.",
+  "notes": "Opened April 2026. Priority Pass may work if you fly a SkyTeam airline. Confirm before you go.",
   "hours": "Opens 3 hours before the first SkyTeam flight"
  },
  {
@@ -23318,7 +23590,7 @@
  {
   "ap": "HKG",
   "id": "hkg-kyra23",
-  "name": "Kyra Lounge",
+  "name": "Kyra Lounge (East Hall)",
   "ts": [
    "Terminal 1"
   ],
@@ -23516,14 +23788,50 @@
  {
   "ap": "HKG",
   "id": "hkg-kyra40",
-  "name": "Kyra | Taste of Priceless",
+  "name": "Kyra Lounge (West Hall)",
   "ts": [
    "Terminal 1"
   ],
   "loc": "Near gate 40, level 7",
   "op": "Kyra",
   "state": "open",
-  "rules": [],
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
   "paid": [
    {
     "l": "Day pass",
@@ -24134,7 +24442,8 @@
     "alliance": "star"
    }
   ],
-  "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone"
+  "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone",
+  "hours": "Open 24 hours"
  },
  {
   "ap": "SIN",
@@ -24160,7 +24469,7 @@
     "alliance": "star"
    }
   ],
-  "notes": "Soft-opened in May 2026 after renovation. Some areas may still be closed.",
+  "notes": "Partly under renovation until about 2027. Some sections may be closed.",
   "hours": "Open 24 hours"
  },
  {
@@ -25622,7 +25931,7 @@
   ],
   "loc": "4th floor, near gate 11",
   "op": "Asiana Airlines",
-  "state": "open",
+  "state": "closed",
   "rules": [
    {
     "t": "cabin",
@@ -25663,7 +25972,8 @@
   ],
   "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone",
   "notes": "Hours were cut and closure is planned before the end of 2026.",
-  "hours": "6 a.m. to 6 p.m. daily"
+  "hours": "6 a.m. to 6 p.m. daily",
+  "stateNote": "Closed. Asiana moved to Terminal 2 in January 2026"
  },
  {
   "ap": "ICN",
@@ -25751,7 +26061,7 @@
    }
   ],
   "guests": "Star Alliance Gold members and first class passengers bring 1 guest on the same flight. Business class passengers enter alone",
-  "notes": "Was the Asiana West lounge until January 2026.",
+  "notes": "Still run as the Asiana Business Lounge West. Star Alliance takes it over in the second half of December 2026 without closing it.",
   "hours": "6 a.m. to 12:30 a.m. daily"
  },
  {
@@ -25918,7 +26228,7 @@
    }
   ],
   "guests": "Each guest needs their own pass",
-  "hours": "7 a.m. to 10 p.m. daily",
+  "hours": "6 a.m. to 10 p.m. daily",
   "from": "$45"
  },
  {
@@ -26413,7 +26723,7 @@
    }
   ],
   "guests": "Each guest needs their own pass",
-  "hours": "7 a.m. to 10 p.m. daily",
+  "hours": "6 a.m. to 10 p.m. daily",
   "from": "$45"
  },
  {
@@ -29605,7 +29915,7 @@
   "ts": [
    "Terminal 1"
   ],
-  "loc": "Mezzanine, next to the First lounge",
+  "loc": "Temporary lounge near gate 24, in Qantas's former lounge space, while the main lounge is refurbished",
   "op": "Qantas",
   "state": "open",
   "rules": [
@@ -29631,7 +29941,8 @@
    }
   ],
   "guests": "First class, oneworld Emerald and Sapphire bring 1 guest on a oneworld flight. Business class passengers enter alone",
-  "hours": "5 a.m. to 10 p.m. daily"
+  "hours": "5 a.m. to 10 p.m. daily",
+  "notes": "Temporary lounge until the refurbished lounge opens in early 2027. Some passengers may be sent to partner lounges such as Air New Zealand."
  },
  {
   "ap": "SYD",
@@ -29655,7 +29966,7 @@
   ],
   "noPass": true,
   "guests": "1 guest on the same flight from July 8, 2026",
-  "notes": "Needs a same-day international boarding pass. Entry within 5 hours of departure.",
+  "notes": "Departing passengers only. Arrive within 3 hours of departure.",
   "hours": "6 a.m. to 10 p.m. daily"
  },
  {
@@ -29772,56 +30083,18 @@
      "biz",
      "first"
     ],
-    "desc": "SkyTeam business or first",
-    "airlines": [
-     "DL"
-    ],
-    "alliance": "skyteam"
+    "alliance": "skyteam",
+    "desc": "SkyTeam business or first class"
    },
    {
     "t": "status",
     "ids": [
      "skyElite"
     ],
-    "unsure": true,
-    "note": "SkyTeam Elite Plus"
-   },
-   {
-    "t": "member",
-    "ids": [
-     "pp"
-    ],
-    "unsure": true,
-    "note": "Listed for Priority Pass. Confirm at the door"
-   },
-   {
-    "t": "card",
-    "ids": [
-     "bilt",
-     "csr",
-     "strata"
-    ]
-   },
-   {
-    "t": "card",
-    "ids": [
-     "amexPlat",
-     "amexBiz",
-     "venture",
-     "venturebiz",
-     "aspire",
-     "luxury"
-    ],
-    "unsure": true,
-    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
-   },
-   {
-    "t": "member",
-    "ids": [
-     "lk"
-    ],
-    "unsure": true,
-    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+    "cond": {
+     "alliance": "skyteam",
+     "text": "a same-day SkyTeam flight"
+    }
    }
   ],
   "guests": "SkyTeam Elite Plus members bring 1 guest on the same SkyTeam flight",
@@ -29970,6 +30243,41 @@
      "amexBiz"
     ],
     "note": "American Express Platinum gets in directly"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
    }
   ],
   "paid": [
@@ -69191,5 +69499,353 @@
   "from": "about $35",
   "hours": "24 hours",
   "notes": "Domestic departures."
+ },
+ {
+  "ap": "LHR",
+  "id": "lhr-af",
+  "name": "Air France Lounge",
+  "ts": [
+   "Terminal 4"
+  ],
+  "loc": "Terminal 4, in the former Malaysia Airlines Golden Lounge space",
+  "op": "Air France",
+  "state": "open",
+  "rules": [
+   {
+    "t": "status",
+    "ids": [
+     "skyElite"
+    ],
+    "cond": {
+     "alliance": "skyteam",
+     "text": "a same-day SkyTeam flight"
+    }
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "alliance": "skyteam",
+    "desc": "SkyTeam business or first class"
+   }
+  ],
+  "hours": "5 a.m. to 10 p.m. daily",
+  "notes": "Opened July 7, 2026. Separate sections for La Premiere and Flying Blue Ultimate."
+ },
+ {
+  "ap": "FRA",
+  "id": "fra-af",
+  "name": "Air France Lounge",
+  "ts": [
+   "Terminal 3"
+  ],
+  "loc": "Terminal 3, Schengen area",
+  "op": "Air France",
+  "state": "open",
+  "rules": [
+   {
+    "t": "status",
+    "ids": [
+     "skyElite"
+    ],
+    "cond": {
+     "alliance": "skyteam",
+     "text": "a same-day SkyTeam flight"
+    }
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "alliance": "skyteam",
+    "desc": "SkyTeam business or first class"
+   }
+  ],
+  "hours": "5 a.m. to 9:30 p.m. daily",
+  "notes": "Opened Sept 1, 2026. The only lounge in the Terminal 3 Schengen area. No Priority Pass."
+ },
+ {
+  "ap": "AMS",
+  "id": "ams-cent",
+  "name": "The Centurion Lounge",
+  "ts": [
+   "Non-Schengen"
+  ],
+  "loc": "Between Concourses E and F, non-Schengen area",
+  "op": "American Express",
+  "state": "open",
+  "rules": [
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "centurion"
+    ]
+   }
+  ],
+  "noPass": true,
+  "hours": "6 a.m. to 9:30 p.m. daily",
+  "notes": "Opened Sept 17, 2026. Guest rules not confirmed."
+ },
+ {
+  "ap": "MAD",
+  "id": "mad-sorolla",
+  "name": "Iberia Emerald Lounge Sorolla",
+  "ts": [
+   "Terminal 4"
+  ],
+  "loc": "Terminal 4, right after security, Schengen",
+  "op": "Iberia",
+  "state": "open",
+  "rules": [
+   {
+    "t": "status",
+    "ids": [
+     "owElite"
+    ],
+    "unsure": true,
+    "note": "Iberia Platino or higher (oneworld Emerald level) only. Sapphire does not qualify"
+   }
+  ],
+  "notes": "Opened Sept 2026. Only for short- and medium-haul flights from gates H, J, K or M."
+ },
+ {
+  "ap": "DXB",
+  "id": "dxb-ekft",
+  "name": "Emirates First Class Lounge (Temporary, Concourse B)",
+  "ts": [
+   "Terminal 3"
+  ],
+  "loc": "Concourse B",
+  "op": "Emirates",
+  "state": "open",
+  "rules": [
+   {
+    "t": "cabin",
+    "cabins": [
+     "first"
+    ],
+    "desc": "Emirates first class",
+    "airlines": [
+     "EK"
+    ]
+   }
+  ],
+  "notes": "Opened Nov 18, 2026 as a temporary first class lounge for about a year, then becomes a business class lounge. Daybeds, sushi station and shower suites."
+ },
+ {
+  "ap": "IAH",
+  "id": "iah-ucbn",
+  "name": "United Club (Terminal B North)",
+  "ts": [
+   "Terminal B"
+  ],
+  "loc": "Terminal B North Concourse",
+  "op": "United Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "uaM"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "uaInf"
+    ],
+    "cond": {
+     "alliance": "star",
+     "text": "a same-day United or Star Alliance flight"
+    }
+   },
+   {
+    "t": "card",
+    "ids": [
+     "uaExp"
+    ],
+    "limit": "2 one-time passes a year",
+    "cond": {
+     "alliance": "star",
+     "text": "a same-day United or Star Alliance flight"
+    }
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "alliance": "star",
+    "desc": "United or Star Alliance business or first class",
+    "unsure": true
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$59"
+   }
+  ],
+  "from": "$59",
+  "notes": "Opened Oct 2026 in the new Terminal B North Concourse. United's largest club."
+ },
+ {
+  "ap": "SEA",
+  "id": "sea-uca9",
+  "name": "United Club (Gate A9)",
+  "ts": [
+   "Concourse A"
+  ],
+  "loc": "Concourse A, near gate A9",
+  "op": "United Airlines",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "uaM"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "uaInf"
+    ],
+    "cond": {
+     "alliance": "star",
+     "text": "a same-day United or Star Alliance flight"
+    }
+   },
+   {
+    "t": "card",
+    "ids": [
+     "uaExp"
+    ],
+    "limit": "2 one-time passes a year",
+    "cond": {
+     "alliance": "star",
+     "text": "a same-day United or Star Alliance flight"
+    }
+   },
+   {
+    "t": "cabin",
+    "cabins": [
+     "biz",
+     "first"
+    ],
+    "alliance": "star",
+    "desc": "United or Star Alliance business or first class",
+    "unsure": true
+   }
+  ],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "$59"
+   }
+  ],
+  "from": "$59",
+  "notes": "United moved its gates to Concourse B in late 2025 but kept this club open until the new B club opens. Confirm before you go."
+ },
+ {
+  "ap": "ICN",
+  "id": "icn-t2sh24",
+  "name": "Sky Hub Lounge (Terminal 2, 24 hours)",
+  "ts": [
+   "Terminal 2"
+  ],
+  "loc": "Terminal 2, airside",
+  "op": "Sky Hub",
+  "state": "open",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "bilt",
+     "csr",
+     "strata"
+    ]
+   },
+   {
+    "t": "card",
+    "ids": [
+     "amexPlat",
+     "amexBiz",
+     "venture",
+     "venturebiz",
+     "aspire",
+     "luxury"
+    ],
+    "unsure": true,
+    "note": "Needs an activated Priority Pass. Confirm it covers this lounge"
+   },
+   {
+    "t": "member",
+    "ids": [
+     "lk"
+    ],
+    "unsure": true,
+    "note": "LoungeKey usually covers this lounge. Check the LoungeKey app before you go."
+   }
+  ],
+  "hours": "Open 24 hours",
+  "notes": "Second Sky Hub lounge in Terminal 2, opened 2025. Priority Pass lists it without a gate."
+ },
+ {
+  "ap": "HKG",
+  "id": "hkg-ppla",
+  "name": "Plaza Premium Arrivals Lounge",
+  "ts": [
+   "Terminal 2 (landside)"
+  ],
+  "loc": "Terminal 2, level 3 arrivals area, below the Airport Express platform, before security",
+  "op": "Plaza Premium Group",
+  "state": "soon",
+  "stateNote": "Expected to open late November 2026. Date not confirmed",
+  "rules": [
+   {
+    "t": "member",
+    "ids": [
+     "pp"
+    ],
+    "unsure": true,
+    "note": "Plaza Premium says Priority Pass and select cards will be accepted. Confirm after opening"
+   }
+  ],
+  "notes": "Arrivals lounge for passengers landing in Hong Kong."
+ },
+ {
+  "ap": "SYD",
+  "id": "syd-t2ppl",
+  "name": "Plaza Premium Lounge (Terminal 2 Domestic)",
+  "ts": [
+   "Terminal 2"
+  ],
+  "loc": "Terminal 2 Domestic, after security",
+  "op": "Plaza Premium Group",
+  "state": "soon",
+  "stateNote": "Opens early December 2026",
+  "rules": [],
+  "paid": [
+   {
+    "l": "Day pass",
+    "p": "Not announced",
+    "n": "Book ahead or walk in"
+   }
+  ],
+  "notes": "Pay-per-use lounge for any domestic passenger. Card and Priority Pass access not announced."
  }
 ]
