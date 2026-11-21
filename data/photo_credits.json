@@ -369,5 +369,446 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "source": "https://commons.wikimedia.org/wiki/File:Airport_ground_(Rome)_in_2022.01.jpg"
+ },
+ "ABQ": {
+  "file": "Albuquerque International Sunport - terminal curbside - May 2026.jpg",
+  "author": "Christian David",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Albuquerque_International_Sunport_-_terminal_curbside_-_May_2026.jpg"
+ },
+ "GSP": {
+  "file": "GSP International Airport.jpg",
+  "author": "Darth-Wiki-Man",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:GSP_International_Airport.jpg"
+ },
+ "XNA": {
+  "file": "XNA Airport Terminal.jpg",
+  "author": "Brandonrush",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:XNA_Airport_Terminal.jpg"
+ },
+ "SJU": {
+  "file": "Walkway to Terminal D at SJU.jpg",
+  "author": "Igtampe",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Walkway_to_Terminal_D_at_SJU.jpg"
+ },
+ "ONT": {
+  "file": "LA-Ontario International Airport terminal 2.jpg",
+  "author": "Sdkb",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:LA-Ontario_International_Airport_terminal_2.jpg"
+ },
+ "BUF": {
+  "file": "Buffalo Niagara Airport terminal NY 2025-09-03 08-27-36 1.jpg",
+  "author": "G. Edward Johnson",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Buffalo_Niagara_Airport_terminal_NY_2025-09-03_08-27-36_1.jpg"
+ },
+ "CHS": {
+  "file": "Baggage Claim Charleston Airport AutoRentals.jpg",
+  "author": "AutoRentals",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Baggage_Claim_Charleston_Airport_AutoRentals.jpg"
+ },
+ "COS": {
+  "file": "Colorado Springs Airport Terminal Building.jpg",
+  "author": "NWL757",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Colorado_Springs_Airport_Terminal_Building.jpg"
+ },
+ "MLB": {
+  "file": "Melbourne International Airport (Florida) Front 1.jpg",
+  "author": "Leonard J. DeFrancisci",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Melbourne_International_Airport_(Florida)_Front_1.jpg"
+ },
+ "MEM": {
+  "file": "Memphis Airport - Main Terminal (30695337945).jpg",
+  "author": "formulanone from Huntsville, United States",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Memphis_Airport_-_Main_Terminal_(30695337945).jpg"
+ },
+ "OGG": {
+  "file": "Kahului Airport Terminal Entrance 2021.jpg",
+  "author": "Larry D. Moore",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kahului_Airport_Terminal_Entrance_2021.jpg"
+ },
+ "KOA": {
+  "file": "Ellison Onizuka Kona International Airport at Keahole (46277006881).jpg",
+  "author": "dronepicr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ellison_Onizuka_Kona_International_Airport_at_Keahole_(46277006881).jpg"
+ },
+ "LIH": {
+  "file": "2021-10-07 07 47 26 Exit outside at the front of the terminal at Lihue Airport in Lihue, Kauai, Hawaii.jpg",
+  "author": "Famartin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2021-10-07_07_47_26_Exit_outside_at_the_front_of_the_terminal_at_Lihue_Airport_in_Lihue,_Kauai,_Hawaii.jpg"
+ },
+ "TUS": {
+  "file": "Departure gate B6area LFrederick 1208.jpg",
+  "author": "Deniselmilne",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Departure_gate_B6area_LFrederick_1208.jpg"
+ },
+ "BOI": {
+  "file": "Boise airport terminal 2009.jpg",
+  "author": "Larry D. Moore",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Boise_airport_terminal_2009.jpg"
+ },
+ "ORF": {
+  "file": "ORF Departures.jpg",
+  "author": "Joey Genco",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:ORF_Departures.jpg"
+ },
+ "GEG": {
+  "file": "SpokaneIntAirport32.JPG",
+  "author": "Earn to fly",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:SpokaneIntAirport32.JPG"
+ },
+ "LGB": {
+  "file": "Long Beach Airport (11844662183).jpg",
+  "author": "DearEdward from New York, NY, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Beach_Airport_(11844662183).jpg"
+ },
+ "FAT": {
+  "file": "Fresno Airport terminal interior, Oct 2013.jpg",
+  "author": "Sunnya343",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fresno_Airport_terminal_interior,_Oct_2013.jpg"
+ },
+ "ALB": {
+  "file": "Albany International Airport.jpg",
+  "author": "Flyer84",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Albany_International_Airport.jpg"
+ },
+ "BHM": {
+  "file": "BHM terminal at night IMG 9885.JPG",
+  "author": "Civilengtiger (talk)",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:BHM_terminal_at_night_IMG_9885.JPG"
+ },
+ "TYS": {
+  "file": "McGhee Tyson Airport gate 3-5.jpg",
+  "author": "Oyoyoy",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:McGhee_Tyson_Airport_gate_3-5.jpg"
+ },
+ "MYR": {
+  "file": "Myrtlebeachairport.JPG",
+  "author": "Sk5893",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Myrtlebeachairport.JPG"
+ },
+ "ICT": {
+  "file": "Wichita Dwight D. Eisenhower National Airport.jpg",
+  "author": "Art davis",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Wichita_Dwight_D._Eisenhower_National_Airport.jpg"
+ },
+ "BTV": {
+  "file": "Btvgarampandterm.JPG",
+  "author": "Fancy-cats-are-happy-cats (talk)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Btvgarampandterm.JPG"
+ },
+ "MHT": {
+  "file": "Departure terminal of manchester-boston regional airport.jpg",
+  "author": "MaxVT",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Departure_terminal_of_manchester-boston_regional_airport.jpg"
+ },
+ "MSN": {
+  "file": "Dane County Regional Airport Terminal - panoramio.jpg",
+  "author": "Corey Coyle",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dane_County_Regional_Airport_Terminal_-_panoramio.jpg"
+ },
+ "LEX": {
+  "file": "Blue Grass Airport Terminals.jpg",
+  "author": "Rick Audet from San Francisco, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Airport_Terminals.jpg"
+ },
+ "CHA": {
+  "file": "Chattanooga Airport entrance.jpg",
+  "author": "GRALISTAIR",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chattanooga_Airport_entrance.jpg"
+ },
+ "AVL": {
+  "file": "Asheville Regional Airport terminal (2026).jpg",
+  "author": "Sammi Brie",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Asheville_Regional_Airport_terminal_(2026).jpg"
+ },
+ "SLC": {
+  "file": "SLC airport, 2010.jpg",
+  "author": "Doc Searls from Santa Barbara, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:SLC_airport,_2010.jpg"
+ },
+ "SNA": {
+  "file": "John Wayne Airport 2026 by Don Ramey Logan Alt 2.jpg",
+  "author": "Don Ramey Logan",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Wayne_Airport_2026_by_Don_Ramey_Logan_Alt_2.jpg"
+ },
+ "BUR": {
+  "file": "Hollywood Burbank Airport Terminal A (February 2026).jpg",
+  "author": "Busition",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Burbank_Airport_Terminal_A_(February_2026).jpg"
+ },
+ "SMF": {
+  "file": "Sacramento International Airport Terminal A.JPG",
+  "author": "BDS2006 (talk)",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sacramento_International_Airport_Terminal_A.JPG"
+ },
+ "PVD": {
+  "file": "Rhode Island T. F. Green International Airport signage.jpg",
+  "author": "Kenneth C. Zirkel",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rhode_Island_T._F._Green_International_Airport_signage.jpg"
+ },
+ "TUL": {
+  "file": "Tulsa Airport TUL American Airlines AA Ticketing 2025-10-28 15-44-13.jpg",
+  "author": "G. Edward Johnson",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tulsa_Airport_TUL_American_Airlines_AA_Ticketing_2025-10-28_15-44-13.jpg"
+ },
+ "RNO": {
+  "file": "2015-10-27 16 01 45 Entrance to the main terminal at Reno–Tahoe International Airport, Nevada.jpg",
+  "author": "Famartin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2015-10-27_16_01_45_Entrance_to_the_main_terminal_at_Reno%E2%80%93Tahoe_International_Airport,_Nevada.jpg"
+ },
+ "PBI": {
+  "file": "Palm Beach International Airport photo Don Ramey Logan.jpg",
+  "author": "Don Ramey Logan",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Palm_Beach_International_Airport_photo_Don_Ramey_Logan.jpg"
+ },
+ "ANC": {
+  "file": "Anchorage International Airport and Cook Inlet.jpg",
+  "author": "Frank K. from Anchorage, Alaska, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Anchorage_International_Airport_and_Cook_Inlet.jpg"
+ },
+ "RSW": {
+  "file": "RSW Terminal 1.jpg",
+  "author": "Sanibel sun (talk)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:RSW_Terminal_1.jpg"
+ },
+ "ELP": {
+  "file": "El Paso Airport terminal sign.jpg",
+  "author": "WhisperToMe",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Paso_Airport_terminal_sign.jpg"
+ },
+ "PSP": {
+  "file": "Airport Terminal 21.jpg",
+  "author": "Gillfoto",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Airport_Terminal_21.jpg"
+ },
+ "SBA": {
+  "file": "Santa Barbara Municipal Airport photo Don Ramey Logan.jpg",
+  "author": "Don Ramey Logan",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Barbara_Municipal_Airport_photo_Don_Ramey_Logan.jpg"
+ },
+ "ROC": {
+  "file": "Fredrick Douglass Greater Rochester International Airport (ROC) Parked United Planes.jpg",
+  "author": "Nick.photos.13",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fredrick_Douglass_Greater_Rochester_International_Airport_(ROC)_Parked_United_Planes.jpg"
+ },
+ "BZN": {
+  "file": "CRJ200 at Bozeman Airport.jpg",
+  "author": "Jun Seita",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CRJ200_at_Bozeman_Airport.jpg"
+ },
+ "SRQ": {
+  "file": "Sarasota-Bradenton International Airport (6762142747).jpg",
+  "author": "redlegsfan21 from Vandalia, OH, United States",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sarasota-Bradenton_International_Airport_(6762142747).jpg"
+ },
+ "SFB": {
+  "file": "Orlando Airport - panoramio (1).jpg",
+  "author": "qwesy qwesy",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Orlando_Airport_-_panoramio_(1).jpg"
+ },
+ "DAY": {
+  "file": "James M. Cox Dayton International Airport (7174690393).jpg",
+  "author": "redlegsfan21 from Vandalia, OH, United States",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:James_M._Cox_Dayton_International_Airport_(7174690393).jpg"
+ },
+ "JAC": {
+  "file": "Jackson Hole Airport ramp.JPG",
+  "author": "Acroterion",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jackson_Hole_Airport_ramp.JPG"
+ },
+ "JAX": {
+  "file": "JACConcourseC-01.JPG",
+  "author": "LoneStarMike",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:JACConcourseC-01.JPG"
+ },
+ "BDL": {
+  "file": "LAX Tom Bradley International Airport (6830805504).jpg",
+  "author": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:LAX_Tom_Bradley_International_Airport_(6830805504).jpg"
+ },
+ "SYR": {
+  "file": "Block S of Syracuse Orange, New York State outline, and Excelsior motto, at Syracuse Hancock International Airport.jpg",
+  "author": "Kiran891",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Block_S_of_Syracuse_Orange,_New_York_State_outline,_and_Excelsior_motto,_at_Syracuse_Hancock_International_Airport.jpg"
+ },
+ "GRR": {
+  "file": "Whimbrel (foreground left), Gerald R. Ford Int'l airport, June 14, 2012 (7372152934).jpg",
+  "author": "Caleb Putnam",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Whimbrel_(foreground_left),_Gerald_R._Ford_Int%27l_airport,_June_14,_2012_(7372152934).jpg"
+ },
+ "OMA": {
+  "file": "Eppley Airfield Omaha 2025a.jpg",
+  "author": "Antony-22",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eppley_Airfield_Omaha_2025a.jpg"
+ },
+ "OKC": {
+  "file": "OKC (2018) - 03.jpg",
+  "author": "Another Believer",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:OKC_(2018)_-_03.jpg"
+ },
+ "RIC": {
+  "file": "UA A320 @ RIC (4457244428).jpg",
+  "author": "DearEdward from New York, NY, USA",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:UA_A320_@_RIC_(4457244428).jpg"
+ },
+ "SDF": {
+  "file": "Louisville airport interior.jpg",
+  "author": "Mx. Granger",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Louisville_airport_interior.jpg"
+ },
+ "DSM": {
+  "file": "Des Moines International Airport.jpg",
+  "author": "Manop",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Des_Moines_International_Airport.jpg"
+ },
+ "LIT": {
+  "file": "Check-in area at Bill and Hillary Clinton National Airport (LIT).jpg",
+  "author": "Quintin Soloviev",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Check-in_area_at_Bill_and_Hillary_Clinton_National_Airport_(LIT).jpg"
+ },
+ "HSV": {
+  "file": "Pic at Waiting Area, HSV Airport.jpg",
+  "author": "American Diabetio",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pic_at_Waiting_Area,_HSV_Airport.jpg"
+ },
+ "PNS": {
+  "file": "N633AE (4430759009).jpg",
+  "author": "Bill Larkins",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:N633AE_(4430759009).jpg"
+ },
+ "PIE": {
+  "file": "LAN-PIE Plane.jpg",
+  "author": "RDULAN at English Wikipedia",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "source": "https://commons.wikimedia.org/wiki/File:LAN-PIE_Plane.jpg"
+ },
+ "PWM": {
+  "file": "Front of airport Portland International Jetport PWM AutoRentals.jpg",
+  "author": "AutoRentals",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Front_of_airport_Portland_International_Jetport_PWM_AutoRentals.jpg"
  }
 }
