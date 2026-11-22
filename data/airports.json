@@ -310,140 +310,160 @@
   "name": "London Heathrow",
   "lat": 51.47,
   "lon": -0.4543,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "CDG",
   "name": "Paris Charles de Gaulle",
   "lat": 49.0097,
   "lon": 2.5479,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "NRT",
   "name": "Tokyo Narita",
   "lat": 35.772,
   "lon": 140.3929,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "HND",
   "name": "Tokyo Haneda",
   "lat": 35.5494,
   "lon": 139.7798,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "YYZ",
   "name": "Toronto Pearson",
   "lat": 43.6777,
   "lon": -79.6248,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "CUN",
   "name": "Cancún",
   "lat": 21.0365,
   "lon": -86.8771,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "FRA",
   "name": "Frankfurt",
   "lat": 50.0379,
   "lon": 8.5622,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "AMS",
   "name": "Amsterdam Schiphol",
   "lat": 52.3105,
   "lon": 4.7683,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "HKG",
   "name": "Hong Kong",
   "lat": 22.308,
   "lon": 113.9185,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "SIN",
   "name": "Singapore Changi",
   "lat": 1.3644,
   "lon": 103.9915,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DXB",
   "name": "Dubai",
   "lat": 25.2532,
   "lon": 55.3657,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "DOH",
   "name": "Doha Hamad",
   "lat": 25.2731,
   "lon": 51.6081,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "ICN",
   "name": "Seoul Incheon",
   "lat": 37.4602,
   "lon": 126.4407,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MEX",
   "name": "Mexico City",
   "lat": 19.4361,
   "lon": -99.0719,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YVR",
   "name": "Vancouver",
   "lat": 49.1967,
   "lon": -123.1815,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MUC",
   "name": "Munich",
   "lat": 48.3538,
   "lon": 11.7861,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ZRH",
   "name": "Zurich",
   "lat": 47.4582,
   "lon": 8.5555,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "FCO",
   "name": "Rome Fiumicino",
   "lat": 41.8003,
   "lon": 12.2389,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "MAD",
   "name": "Madrid Barajas",
   "lat": 40.4983,
   "lon": -3.5676,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SYD",
   "name": "Sydney",
   "lat": -33.9399,
   "lon": 151.1753,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "SMF",
@@ -1086,1532 +1106,1751 @@
   "name": "Montreal",
   "lat": 45.4706,
   "lon": -73.7408,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YYC",
   "name": "Calgary",
   "lat": 51.1315,
   "lon": -114.0106,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YOW",
   "name": "Ottawa",
   "lat": 45.3225,
   "lon": -75.6692,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YEG",
   "name": "Edmonton",
   "lat": 53.3097,
   "lon": -113.58,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YHZ",
   "name": "Halifax",
   "lat": 44.8808,
   "lon": -63.5086,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YWG",
   "name": "Winnipeg",
   "lat": 49.91,
   "lon": -97.2399,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "LGW",
   "name": "London (Gatwick)",
   "lat": 51.1481,
   "lon": -0.1903,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "MAN",
   "name": "Manchester",
   "lat": 53.3537,
   "lon": -2.275,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "EDI",
   "name": "Edinburgh",
   "lat": 55.95,
   "lon": -3.3725,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "STN",
   "name": "London (Stansted)",
   "lat": 51.885,
   "lon": 0.235,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BHX",
   "name": "Birmingham (UK)",
   "lat": 52.4539,
   "lon": -1.748,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "LIS",
   "name": "Lisbon",
   "lat": 38.7742,
   "lon": -9.1342,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "OPO",
   "name": "Porto",
   "lat": 41.2481,
   "lon": -8.6814,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BCN",
   "name": "Barcelona",
   "lat": 41.2971,
   "lon": 2.0785,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "AGP",
   "name": "Málaga",
   "lat": 36.6749,
   "lon": -4.4991,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "PMI",
   "name": "Palma de Mallorca",
   "lat": 39.5517,
   "lon": 2.7388,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "VIE",
   "name": "Vienna",
   "lat": 48.1103,
   "lon": 16.5697,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ATH",
   "name": "Athens",
   "lat": 37.9364,
   "lon": 23.9445,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "AUH",
   "name": "Abu Dhabi",
   "lat": 24.433,
   "lon": 54.6511,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "RUH",
   "name": "Riyadh",
   "lat": 24.9576,
   "lon": 46.6988,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "JED",
   "name": "Jeddah",
   "lat": 21.6796,
   "lon": 39.1565,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "BAH",
   "name": "Bahrain",
   "lat": 26.2708,
   "lon": 50.6336,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "MCT",
   "name": "Muscat",
   "lat": 23.5933,
   "lon": 58.2844,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "KWI",
   "name": "Kuwait",
   "lat": 29.2266,
   "lon": 47.9689,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "AMM",
   "name": "Amman",
   "lat": 31.7226,
   "lon": 35.9932,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "TLV",
   "name": "Tel Aviv",
   "lat": 32.0114,
   "lon": 34.8867,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "CAI",
   "name": "Cairo",
   "lat": 30.1219,
   "lon": 31.4056,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "KIX",
   "name": "Osaka (Kansai)",
   "lat": 34.432,
   "lon": 135.2304,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "NGO",
   "name": "Nagoya (Chubu Centrair)",
   "lat": 34.8584,
   "lon": 136.8054,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "FUK",
   "name": "Fukuoka",
   "lat": 33.5859,
   "lon": 130.4511,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CTS",
   "name": "Sapporo (New Chitose)",
   "lat": 42.7752,
   "lon": 141.6923,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "GMP",
   "name": "Seoul (Gimpo)",
   "lat": 37.5583,
   "lon": 126.7906,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "PUS",
   "name": "Busan",
   "lat": 35.1795,
   "lon": 128.9382,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "BKK",
   "name": "Bangkok (Suvarnabhumi)",
   "lat": 13.69,
   "lon": 100.7501,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DMK",
   "name": "Bangkok (Don Mueang)",
   "lat": 13.9126,
   "lon": 100.607,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "HKT",
   "name": "Phuket",
   "lat": 8.1132,
   "lon": 98.3169,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "KUL",
   "name": "Kuala Lumpur",
   "lat": 2.7456,
   "lon": 101.7099,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CGK",
   "name": "Jakarta",
   "lat": -6.1256,
   "lon": 106.6559,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DPS",
   "name": "Bali (Denpasar)",
   "lat": -8.7482,
   "lon": 115.1675,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MNL",
   "name": "Manila",
   "lat": 14.5086,
   "lon": 121.0194,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "SGN",
   "name": "Ho Chi Minh City",
   "lat": 10.8188,
   "lon": 106.652,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "HAN",
   "name": "Hanoi",
   "lat": 21.2212,
   "lon": 105.8072,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DEL",
   "name": "Delhi",
   "lat": 28.5562,
   "lon": 77.1,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MEL",
   "name": "Melbourne",
   "lat": -37.669,
   "lon": 144.841,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "BNE",
   "name": "Brisbane",
   "lat": -27.3842,
   "lon": 153.1175,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "PER",
   "name": "Perth",
   "lat": -31.9403,
   "lon": 115.9669,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "ADL",
   "name": "Adelaide",
   "lat": -34.945,
   "lon": 138.5306,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "CNS",
   "name": "Cairns",
   "lat": -16.8858,
   "lon": 145.7553,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "GRU",
   "name": "São Paulo (Guarulhos)",
   "lat": -23.4356,
   "lon": -46.4731,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "GIG",
   "name": "Rio de Janeiro (Galeão)",
   "lat": -22.809,
   "lon": -43.2506,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "EZE",
   "name": "Buenos Aires (Ezeiza)",
   "lat": -34.8222,
   "lon": -58.5358,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SCL",
   "name": "Santiago",
   "lat": -33.393,
   "lon": -70.7858,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "LIM",
   "name": "Lima",
   "lat": -12.0219,
   "lon": -77.1143,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "BOG",
   "name": "Bogotá",
   "lat": 4.7016,
   "lon": -74.1469,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "GDL",
   "name": "Guadalajara",
   "lat": 20.5218,
   "lon": -103.3112,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MTY",
   "name": "Monterrey",
   "lat": 25.7785,
   "lon": -100.1069,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SJD",
   "name": "Los Cabos",
   "lat": 23.1518,
   "lon": -109.7215,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "PVR",
   "name": "Puerto Vallarta",
   "lat": 20.6801,
   "lon": -105.2544,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MDE",
   "name": "Medellín",
   "lat": 6.1645,
   "lon": -75.4231,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "PTY",
   "name": "Panama City",
   "lat": 9.0714,
   "lon": -79.3835,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SJO",
   "name": "San José (Costa Rica)",
   "lat": 9.9939,
   "lon": -84.2088,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "LIR",
   "name": "Liberia (Costa Rica)",
   "lat": 10.5933,
   "lon": -85.5444,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "UIO",
   "name": "Quito",
   "lat": -0.1292,
   "lon": -78.3575,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "NAS",
   "name": "Nassau",
   "lat": 25.039,
   "lon": -77.4662,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MBJ",
   "name": "Montego Bay",
   "lat": 18.5037,
   "lon": -77.9134,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "PUJ",
   "name": "Punta Cana",
   "lat": 18.5674,
   "lon": -68.3634,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SDQ",
   "name": "Santo Domingo",
   "lat": 18.4297,
   "lon": -69.6689,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "AUA",
   "name": "Aruba",
   "lat": 12.5014,
   "lon": -70.0152,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "JNB",
   "name": "Johannesburg",
   "lat": -26.1337,
   "lon": 28.242,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "CPT",
   "name": "Cape Town",
   "lat": -33.9649,
   "lon": 18.6017,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "NBO",
   "name": "Nairobi",
   "lat": -1.3192,
   "lon": 36.9278,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "ADD",
   "name": "Addis Ababa",
   "lat": 8.9779,
   "lon": 38.7993,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "CMN",
   "name": "Casablanca",
   "lat": 33.3675,
   "lon": -7.5898,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "OOL",
   "name": "Gold Coast",
   "lat": -28.1644,
   "lon": 153.5047,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "AKL",
   "name": "Auckland",
   "lat": -37.0082,
   "lon": 174.785,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "CHC",
   "name": "Christchurch",
   "lat": -43.4894,
   "lon": 172.532,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "NAN",
   "name": "Nadi (Fiji)",
   "lat": -17.7554,
   "lon": 177.4431,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "PPT",
   "name": "Papeete (Tahiti)",
   "lat": -17.5537,
   "lon": -149.6071,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "GUM",
   "name": "Guam",
   "lat": 13.4834,
   "lon": 144.796,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "TPE",
   "name": "Taipei (Taoyuan)",
   "lat": 25.0777,
   "lon": 121.2328,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "PEK",
   "name": "Beijing (Capital)",
   "lat": 40.0799,
   "lon": 116.6031,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "PVG",
   "name": "Shanghai (Pudong)",
   "lat": 31.1443,
   "lon": 121.8083,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CAN",
   "name": "Guangzhou",
   "lat": 23.3924,
   "lon": 113.2988,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MFM",
   "name": "Macau",
   "lat": 22.1496,
   "lon": 113.5915,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "BOM",
   "name": "Mumbai",
   "lat": 19.0896,
   "lon": 72.8656,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "BLR",
   "name": "Bengaluru",
   "lat": 13.1986,
   "lon": 77.7066,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CMB",
   "name": "Colombo",
   "lat": 7.1808,
   "lon": 79.8841,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MLE",
   "name": "Malé",
   "lat": 4.1918,
   "lon": 73.5291,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DUB",
   "name": "Dublin",
   "lat": 53.4213,
   "lon": -6.2701,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "CPH",
   "name": "Copenhagen",
   "lat": 55.618,
   "lon": 12.6508,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ARN",
   "name": "Stockholm (Arlanda)",
   "lat": 59.6519,
   "lon": 17.9186,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "OSL",
   "name": "Oslo",
   "lat": 60.1939,
   "lon": 11.1004,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "HEL",
   "name": "Helsinki",
   "lat": 60.3172,
   "lon": 24.9633,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "KEF",
   "name": "Reykjavik (Keflavik)",
   "lat": 63.985,
   "lon": -22.6056,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BRU",
   "name": "Brussels",
   "lat": 50.901,
   "lon": 4.4844,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BER",
   "name": "Berlin",
   "lat": 52.3667,
   "lon": 13.5033,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "DUS",
   "name": "Düsseldorf",
   "lat": 51.2895,
   "lon": 6.7668,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "HAM",
   "name": "Hamburg",
   "lat": 53.6304,
   "lon": 9.9882,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "MXP",
   "name": "Milan (Malpensa)",
   "lat": 45.6306,
   "lon": 8.7281,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "VCE",
   "name": "Venice",
   "lat": 45.5053,
   "lon": 12.3519,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "GVA",
   "name": "Geneva",
   "lat": 46.2381,
   "lon": 6.109,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "PRG",
   "name": "Prague",
   "lat": 50.1008,
   "lon": 14.26,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "WAW",
   "name": "Warsaw",
   "lat": 52.1657,
   "lon": 20.9671,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BUD",
   "name": "Budapest",
   "lat": 47.4369,
   "lon": 19.2556,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "NCE",
   "name": "Nice",
   "lat": 43.6584,
   "lon": 7.2159,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ORY",
   "name": "Paris (Orly)",
   "lat": 48.7262,
   "lon": 2.3652,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "YYJ",
   "name": "Victoria",
   "lat": 48.6469,
   "lon": -123.4258,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YLW",
   "name": "Kelowna",
   "lat": 49.9561,
   "lon": -119.3778,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YXE",
   "name": "Saskatoon",
   "lat": 52.1708,
   "lon": -106.6997,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YQR",
   "name": "Regina",
   "lat": 50.4319,
   "lon": -104.6658,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YQB",
   "name": "Quebec City",
   "lat": 46.7911,
   "lon": -71.3933,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "YYT",
   "name": "St. John's",
   "lat": 47.6186,
   "lon": -52.7519,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MZT",
   "name": "Mazatlán",
   "lat": 23.1614,
   "lon": -106.2661,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "ZIH",
   "name": "Ixtapa-Zihuatanejo",
   "lat": 17.6016,
   "lon": -101.4605,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "HUX",
   "name": "Huatulco",
   "lat": 15.7753,
   "lon": -96.2626,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "OAX",
   "name": "Oaxaca",
   "lat": 16.9999,
   "lon": -96.7266,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "MID",
   "name": "Mérida",
   "lat": 20.937,
   "lon": -89.6577,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "CZM",
   "name": "Cozumel",
   "lat": 20.5224,
   "lon": -86.9256,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "TIJ",
   "name": "Tijuana",
   "lat": 32.5411,
   "lon": -116.97,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "BJX",
   "name": "León/Guanajuato",
   "lat": 20.9935,
   "lon": -101.4808,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SXM",
   "name": "St. Maarten",
   "lat": 18.041,
   "lon": -63.1089,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "BGI",
   "name": "Barbados",
   "lat": 13.0746,
   "lon": -59.4925,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "ANU",
   "name": "Antigua",
   "lat": 17.1367,
   "lon": -61.7927,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "SKB",
   "name": "St. Kitts",
   "lat": 17.3112,
   "lon": -62.7187,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "GCM",
   "name": "Grand Cayman",
   "lat": 19.2928,
   "lon": -81.3577,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "UVF",
   "name": "St. Lucia (Hewanorra)",
   "lat": 13.7332,
   "lon": -60.9526,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "CUR",
   "name": "Curaçao",
   "lat": 12.1889,
   "lon": -68.9598,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "BDA",
   "name": "Bermuda",
   "lat": 32.364,
   "lon": -64.6787,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "POS",
   "name": "Port of Spain",
   "lat": 10.5954,
   "lon": -61.3372,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "PLS",
   "name": "Providenciales",
   "lat": 21.7736,
   "lon": -72.2659,
-  "intl": true
+  "intl": true,
+  "area": "Americas"
  },
  {
   "code": "FAO",
   "name": "Faro",
   "lat": 37.0144,
   "lon": -7.9659,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "FNC",
   "name": "Funchal (Madeira)",
   "lat": 32.6979,
   "lon": -16.7745,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "PDL",
   "name": "Ponta Delgada (Azores)",
   "lat": 37.7412,
   "lon": -25.6979,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ALC",
   "name": "Alicante",
   "lat": 38.2822,
   "lon": -0.5582,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "VLC",
   "name": "Valencia",
   "lat": 39.4893,
   "lon": -0.4816,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SVQ",
   "name": "Seville",
   "lat": 37.418,
   "lon": -5.8931,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BIO",
   "name": "Bilbao",
   "lat": 43.3011,
   "lon": -2.9106,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "IBZ",
   "name": "Ibiza",
   "lat": 38.8729,
   "lon": 1.3731,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "TFS",
   "name": "Tenerife (South)",
   "lat": 28.0445,
   "lon": -16.5725,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "LPA",
   "name": "Gran Canaria",
   "lat": 27.9319,
   "lon": -15.3866,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "LYS",
   "name": "Lyon",
   "lat": 45.7256,
   "lon": 5.0811,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "MRS",
   "name": "Marseille",
   "lat": 43.4393,
   "lon": 5.2214,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "TLS",
   "name": "Toulouse",
   "lat": 43.6291,
   "lon": 1.3638,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BOD",
   "name": "Bordeaux",
   "lat": 44.8283,
   "lon": -0.7156,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BLQ",
   "name": "Bologna",
   "lat": 44.5354,
   "lon": 11.2887,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "FLR",
   "name": "Florence",
   "lat": 43.81,
   "lon": 11.2051,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "PSA",
   "name": "Pisa",
   "lat": 43.6839,
   "lon": 10.3927,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "CTA",
   "name": "Catania",
   "lat": 37.4668,
   "lon": 15.0664,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "NAP",
   "name": "Naples",
   "lat": 40.886,
   "lon": 14.2908,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "MLA",
   "name": "Malta",
   "lat": 35.8575,
   "lon": 14.4775,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "GLA",
   "name": "Glasgow",
   "lat": 55.8719,
   "lon": -4.4331,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BFS",
   "name": "Belfast (International)",
   "lat": 54.6575,
   "lon": -6.2158,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ORK",
   "name": "Cork",
   "lat": 51.8413,
   "lon": -8.4911,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SNN",
   "name": "Shannon",
   "lat": 52.702,
   "lon": -8.9248,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BRS",
   "name": "Bristol",
   "lat": 51.3827,
   "lon": -2.7191,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "NCL",
   "name": "Newcastle",
   "lat": 55.0375,
   "lon": -1.6917,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "LTN",
   "name": "London (Luton)",
   "lat": 51.8747,
   "lon": -0.3683,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "GOT",
   "name": "Gothenburg",
   "lat": 57.6628,
   "lon": 12.2798,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BGO",
   "name": "Bergen",
   "lat": 60.2934,
   "lon": 5.2181,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "BLL",
   "name": "Billund",
   "lat": 55.7403,
   "lon": 9.1518,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "RIX",
   "name": "Riga",
   "lat": 56.9236,
   "lon": 23.9711,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "VNO",
   "name": "Vilnius",
   "lat": 54.6341,
   "lon": 25.2858,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "TLL",
   "name": "Tallinn",
   "lat": 59.4133,
   "lon": 24.8328,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "KRK",
   "name": "Kraków",
   "lat": 50.0777,
   "lon": 19.7848,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SZG",
   "name": "Salzburg",
   "lat": 47.7933,
   "lon": 13.0043,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ZAG",
   "name": "Zagreb",
   "lat": 45.7429,
   "lon": 16.0688,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SPU",
   "name": "Split",
   "lat": 43.5389,
   "lon": 16.298,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "DBV",
   "name": "Dubrovnik",
   "lat": 42.5614,
   "lon": 18.2682,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SKG",
   "name": "Thessaloniki",
   "lat": 40.5197,
   "lon": 22.9709,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "HER",
   "name": "Heraklion (Crete)",
   "lat": 35.3397,
   "lon": 25.1803,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "JTR",
   "name": "Santorini",
   "lat": 36.3992,
   "lon": 25.4793,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "LCA",
   "name": "Larnaca",
   "lat": 34.8751,
   "lon": 33.6249,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "OTP",
   "name": "Bucharest",
   "lat": 44.5711,
   "lon": 26.085,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "SOF",
   "name": "Sofia",
   "lat": 42.6967,
   "lon": 23.4114,
-  "intl": true
+  "intl": true,
+  "area": "Europe"
  },
  {
   "code": "ZQN",
   "name": "Queenstown",
   "lat": -45.0211,
   "lon": 168.7392,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "WLG",
   "name": "Wellington",
   "lat": -41.3272,
   "lon": 174.8053,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "HBA",
   "name": "Hobart",
   "lat": -42.8361,
   "lon": 147.5103,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "CBR",
   "name": "Canberra",
   "lat": -35.3069,
   "lon": 149.195,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "DRW",
   "name": "Darwin",
   "lat": -12.4147,
   "lon": 130.877,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "RAR",
   "name": "Rarotonga",
   "lat": -21.2027,
   "lon": -159.8061,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "APW",
   "name": "Apia",
   "lat": -13.83,
   "lon": -172.0083,
-  "intl": true
+  "intl": true,
+  "area": "Oceania"
  },
  {
   "code": "MRU",
   "name": "Mauritius",
   "lat": -20.4302,
   "lon": 57.6836,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "SEZ",
   "name": "Seychelles (Mahé)",
   "lat": -4.6743,
   "lon": 55.5218,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "ZNZ",
   "name": "Zanzibar",
   "lat": -6.222,
   "lon": 39.2249,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "DAR",
   "name": "Dar es Salaam",
   "lat": -6.8781,
   "lon": 39.2026,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "JRO",
   "name": "Kilimanjaro",
   "lat": -3.4294,
   "lon": 37.0745,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "KGL",
   "name": "Kigali",
   "lat": -1.9686,
   "lon": 30.1395,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "EBB",
   "name": "Entebbe",
   "lat": 0.0424,
   "lon": 32.4435,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "ACC",
   "name": "Accra",
   "lat": 5.6052,
   "lon": -0.1668,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "LOS",
   "name": "Lagos",
   "lat": 6.5774,
   "lon": 3.3212,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "DSS",
   "name": "Dakar",
   "lat": 14.67,
   "lon": -17.0733,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "RAK",
   "name": "Marrakech",
   "lat": 31.6069,
   "lon": -8.0363,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "TUN",
   "name": "Tunis",
   "lat": 36.851,
   "lon": 10.2272,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "DUR",
   "name": "Durban",
   "lat": -29.6144,
   "lon": 31.1197,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "VFA",
   "name": "Victoria Falls",
   "lat": -18.0959,
   "lon": 25.839,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "WDH",
   "name": "Windhoek",
   "lat": -22.4799,
   "lon": 17.4709,
-  "intl": true
+  "intl": true,
+  "area": "Middle East & Africa"
  },
  {
   "code": "OKA",
   "name": "Okinawa (Naha)",
   "lat": 26.1958,
   "lon": 127.6459,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "SDJ",
   "name": "Sendai",
   "lat": 38.1397,
   "lon": 140.917,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "HIJ",
   "name": "Hiroshima",
   "lat": 34.4361,
   "lon": 132.9194,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CJU",
   "name": "Jeju",
   "lat": 33.5113,
   "lon": 126.493,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "KHH",
   "name": "Kaohsiung",
   "lat": 22.5771,
   "lon": 120.35,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CNX",
   "name": "Chiang Mai",
   "lat": 18.7668,
   "lon": 98.9626,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "USM",
   "name": "Koh Samui",
   "lat": 9.5478,
   "lon": 100.0623,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "KBV",
   "name": "Krabi",
   "lat": 8.0992,
   "lon": 98.9862,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "PEN",
   "name": "Penang",
   "lat": 5.2971,
   "lon": 100.277,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "LGK",
   "name": "Langkawi",
   "lat": 6.3297,
   "lon": 99.7287,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "BKI",
   "name": "Kota Kinabalu",
   "lat": 5.9372,
   "lon": 116.051,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "SUB",
   "name": "Surabaya",
   "lat": -7.3798,
   "lon": 112.7868,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CEB",
   "name": "Cebu",
   "lat": 10.3075,
   "lon": 123.9794,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CRK",
   "name": "Clark",
   "lat": 15.1859,
   "lon": 120.5603,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "DAD",
   "name": "Da Nang",
   "lat": 16.0439,
   "lon": 108.1994,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "CXR",
   "name": "Nha Trang (Cam Ranh)",
   "lat": 11.9982,
   "lon": 109.2194,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "PQC",
   "name": "Phu Quoc",
   "lat": 10.1698,
   "lon": 103.9931,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "SAI",
   "name": "Siem Reap",
   "lat": 13.3706,
   "lon": 104.2239,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "KTI",
   "name": "Phnom Penh (Techo)",
   "lat": 11.3,
   "lon": 104.9167,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "KTM",
   "name": "Kathmandu",
   "lat": 27.6966,
   "lon": 85.3591,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "GOI",
   "name": "Goa (Dabolim)",
   "lat": 15.3808,
   "lon": 73.8314,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "HYD",
   "name": "Hyderabad",
   "lat": 17.2403,
   "lon": 78.4294,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  },
  {
   "code": "MAA",
   "name": "Chennai",
   "lat": 12.9941,
   "lon": 80.1709,
-  "intl": true
+  "intl": true,
+  "area": "Asia"
  }
 ]
