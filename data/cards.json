@@ -171,5 +171,87 @@
   "kind": "status",
   "id": "aaPlat",
   "name": "American Platinum or above"
+ },
+ {
+  "kind": "card",
+  "id": "caAmexPlat",
+  "name": "American Express Platinum (Canada)",
+  "cc": "ca",
+  "price": "C$799 a year",
+  "note": "Priority Pass and Plaza Premium drop to 6 visits a year in 2027"
+ },
+ {
+  "kind": "card",
+  "id": "caAmexBiz",
+  "name": "American Express Business Platinum (Canada)",
+  "cc": "ca",
+  "price": "C$799 a year",
+  "note": "Priority Pass and Plaza Premium drop to 6 visits a year in 2027"
+ },
+ {
+  "kind": "card",
+  "id": "caAeroReserve",
+  "name": "American Express Aeroplan Reserve",
+  "cc": "ca",
+  "price": "C$599 a year"
+ },
+ {
+  "kind": "card",
+  "id": "tdAeroVIP",
+  "name": "TD Aeroplan Visa Infinite Privilege",
+  "cc": "ca",
+  "price": "C$599 a year"
+ },
+ {
+  "kind": "card",
+  "id": "cibcAeroVIP",
+  "name": "CIBC Aeroplan Visa Infinite Privilege",
+  "cc": "ca",
+  "price": "C$599 a year"
+ },
+ {
+  "kind": "card",
+  "id": "ukAmexPlat",
+  "name": "American Express Platinum (UK)",
+  "cc": "gb",
+  "price": "£650 a year"
+ },
+ {
+  "kind": "card",
+  "id": "ukAmexBiz",
+  "name": "American Express Business Platinum (UK)",
+  "cc": "gb",
+  "price": "£650 a year"
+ },
+ {
+  "kind": "card",
+  "id": "ukAmexGold",
+  "name": "American Express Preferred Rewards Gold (UK)",
+  "cc": "gb",
+  "price": "£195 a year",
+  "note": "4 Priority Pass visits a year"
+ },
+ {
+  "kind": "card",
+  "id": "hsbcWE",
+  "name": "HSBC Premier World Elite Mastercard",
+  "cc": "gb",
+  "price": "£290 a year",
+  "note": "needs an HSBC Premier account"
+ },
+ {
+  "kind": "card",
+  "id": "lloydsWE",
+  "name": "Lloyds or Halifax World Elite Mastercard",
+  "cc": "gb",
+  "price": "£180 a year"
+ },
+ {
+  "kind": "card",
+  "id": "santanderWE",
+  "name": "Santander World Elite Mastercard",
+  "cc": "gb",
+  "price": "£180 a year",
+  "note": "needs a Santander Select or Private account"
  }
 ]
