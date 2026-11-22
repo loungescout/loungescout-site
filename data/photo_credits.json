@@ -2511,5 +2511,47 @@
   "license": "CC BY 2.5",
   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
   "source": "https://commons.wikimedia.org/wiki/File:Queenstown_Airport_view_from_Deer_Park.jpg"
+ },
+ "APW": {
+  "file": "Faleolo.jpg",
+  "author": "MBPilot",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Faleolo.jpg"
+ },
+ "BDL": {
+  "file": "Delta Connection MD-88 at Bradley International Airport Gate 12.jpg",
+  "author": "Sesamehoneytart",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Delta_Connection_MD-88_at_Bradley_International_Airport_Gate_12.jpg"
+ },
+ "CMB": {
+  "file": "Colombo Airport view.JPG",
+  "author": "Saqib Qayyum",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Colombo_Airport_view.JPG"
+ },
+ "FSD": {
+  "file": "Sioux Falls Airport SD entrance2.jpg",
+  "author": "Royalbroil",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sioux_Falls_Airport_SD_entrance2.jpg"
+ },
+ "SJO": {
+  "file": "Juan Santamaria Airport SJO 12 2009 4900.jpg",
+  "author": "Mariordo Mario Roberto Duran Ortiz/Mario Duran Valerio",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Juan_Santamaria_Airport_SJO_12_2009_4900.jpg"
+ },
+ "PSC": {
+  "file": "PSC Tri-Cities Airport tower at night 2015-10-20.jpg",
+  "author": "Junkyardsparkle",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:PSC_Tri-Cities_Airport_tower_at_night_2015-10-20.jpg"
  }
 }
