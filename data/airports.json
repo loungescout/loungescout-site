@@ -3,307 +3,358 @@
   "code": "ATL",
   "name": "Atlanta",
   "lat": 33.6407,
-  "lon": -84.4277
+  "lon": -84.4277,
+  "cc": "us"
  },
  {
   "code": "DFW",
   "name": "Dallas Fort Worth",
   "lat": 32.8998,
-  "lon": -97.0403
+  "lon": -97.0403,
+  "cc": "us"
  },
  {
   "code": "ORD",
   "name": "Chicago O'Hare",
   "lat": 41.9742,
-  "lon": -87.9073
+  "lon": -87.9073,
+  "cc": "us"
  },
  {
   "code": "DEN",
   "name": "Denver",
   "lat": 39.8561,
-  "lon": -104.6737
+  "lon": -104.6737,
+  "cc": "us"
  },
  {
   "code": "LAX",
   "name": "Los Angeles",
   "lat": 33.9416,
-  "lon": -118.4085
+  "lon": -118.4085,
+  "cc": "us"
  },
  {
   "code": "JFK",
   "name": "New York JFK",
   "lat": 40.6413,
-  "lon": -73.7781
+  "lon": -73.7781,
+  "cc": "us"
  },
  {
   "code": "MCO",
   "name": "Orlando",
   "lat": 28.4312,
-  "lon": -81.3081
+  "lon": -81.3081,
+  "cc": "us"
  },
  {
   "code": "LAS",
   "name": "Las Vegas",
   "lat": 36.084,
-  "lon": -115.1537
+  "lon": -115.1537,
+  "cc": "us"
  },
  {
   "code": "MIA",
   "name": "Miami",
   "lat": 25.7959,
-  "lon": -80.287
+  "lon": -80.287,
+  "cc": "us"
  },
  {
   "code": "SFO",
   "name": "San Francisco",
   "lat": 37.6213,
-  "lon": -122.379
+  "lon": -122.379,
+  "cc": "us"
  },
  {
   "code": "CLT",
   "name": "Charlotte",
   "lat": 35.2144,
-  "lon": -80.9473
+  "lon": -80.9473,
+  "cc": "us"
  },
  {
   "code": "SEA",
   "name": "Seattle",
   "lat": 47.4502,
-  "lon": -122.3088
+  "lon": -122.3088,
+  "cc": "us"
  },
  {
   "code": "PHX",
   "name": "Phoenix",
   "lat": 33.4342,
-  "lon": -112.0116
+  "lon": -112.0116,
+  "cc": "us"
  },
  {
   "code": "EWR",
   "name": "Newark",
   "lat": 40.6895,
-  "lon": -74.1745
+  "lon": -74.1745,
+  "cc": "us"
  },
  {
   "code": "IAH",
   "name": "Houston Intercontinental",
   "lat": 29.9902,
-  "lon": -95.3368
+  "lon": -95.3368,
+  "cc": "us"
  },
  {
   "code": "BOS",
   "name": "Boston",
   "lat": 42.3656,
-  "lon": -71.0096
+  "lon": -71.0096,
+  "cc": "us"
  },
  {
   "code": "MSP",
   "name": "Minneapolis-St. Paul",
   "lat": 44.8848,
-  "lon": -93.2223
+  "lon": -93.2223,
+  "cc": "us"
  },
  {
   "code": "DTW",
   "name": "Detroit",
   "lat": 42.2162,
-  "lon": -83.3554
+  "lon": -83.3554,
+  "cc": "us"
  },
  {
   "code": "LGA",
   "name": "New York LaGuardia",
   "lat": 40.7769,
-  "lon": -73.874
+  "lon": -73.874,
+  "cc": "us"
  },
  {
   "code": "FLL",
   "name": "Fort Lauderdale",
   "lat": 26.0726,
-  "lon": -80.1527
+  "lon": -80.1527,
+  "cc": "us"
  },
  {
   "code": "PHL",
   "name": "Philadelphia",
   "lat": 39.8744,
-  "lon": -75.2424
+  "lon": -75.2424,
+  "cc": "us"
  },
  {
   "code": "IAD",
   "name": "Washington Dulles",
   "lat": 38.9531,
-  "lon": -77.4565
+  "lon": -77.4565,
+  "cc": "us"
  },
  {
   "code": "SLC",
   "name": "Salt Lake City",
   "lat": 40.7899,
-  "lon": -111.9791
+  "lon": -111.9791,
+  "cc": "us"
  },
  {
   "code": "SAN",
   "name": "San Diego",
   "lat": 32.7338,
-  "lon": -117.1933
+  "lon": -117.1933,
+  "cc": "us"
  },
  {
   "code": "BNA",
   "name": "Nashville",
   "lat": 36.1263,
-  "lon": -86.6774
+  "lon": -86.6774,
+  "cc": "us"
  },
  {
   "code": "BWI",
   "name": "Baltimore/Washington",
   "lat": 39.1774,
-  "lon": -76.6684
+  "lon": -76.6684,
+  "cc": "us"
  },
  {
   "code": "DCA",
   "name": "Washington Reagan",
   "lat": 38.8512,
-  "lon": -77.0402
+  "lon": -77.0402,
+  "cc": "us"
  },
  {
   "code": "TPA",
   "name": "Tampa",
   "lat": 27.9755,
-  "lon": -82.5332
+  "lon": -82.5332,
+  "cc": "us"
  },
  {
   "code": "AUS",
   "name": "Austin",
   "lat": 30.1975,
-  "lon": -97.6664
+  "lon": -97.6664,
+  "cc": "us"
  },
  {
   "code": "MDW",
   "name": "Chicago Midway",
   "lat": 41.7868,
-  "lon": -87.7522
+  "lon": -87.7522,
+  "cc": "us"
  },
  {
   "code": "HNL",
   "name": "Honolulu",
   "lat": 21.3187,
-  "lon": -157.9225
+  "lon": -157.9225,
+  "cc": "us"
  },
  {
   "code": "STL",
   "name": "St. Louis",
   "lat": 38.7487,
-  "lon": -90.37
+  "lon": -90.37,
+  "cc": "us"
  },
  {
   "code": "PDX",
   "name": "Portland",
   "lat": 45.5898,
-  "lon": -122.5951
+  "lon": -122.5951,
+  "cc": "us"
  },
  {
   "code": "MSY",
   "name": "New Orleans",
   "lat": 29.9934,
-  "lon": -90.258
+  "lon": -90.258,
+  "cc": "us"
  },
  {
   "code": "CVG",
   "name": "Cincinnati",
   "lat": 39.0488,
-  "lon": -84.6678
+  "lon": -84.6678,
+  "cc": "us"
  },
  {
   "code": "RDU",
   "name": "Raleigh-Durham",
   "lat": 35.8776,
-  "lon": -78.7875
+  "lon": -78.7875,
+  "cc": "us"
  },
  {
   "code": "PIT",
   "name": "Pittsburgh",
   "lat": 40.4915,
-  "lon": -80.2329
+  "lon": -80.2329,
+  "cc": "us"
  },
  {
   "code": "SJC",
   "name": "San Jose",
   "lat": 37.3639,
-  "lon": -121.9289
+  "lon": -121.9289,
+  "cc": "us"
  },
  {
   "code": "SAT",
   "name": "San Antonio",
   "lat": 29.5337,
-  "lon": -98.4698
+  "lon": -98.4698,
+  "cc": "us"
  },
  {
   "code": "OAK",
   "name": "Oakland",
   "lat": 37.7213,
-  "lon": -122.2208
+  "lon": -122.2208,
+  "cc": "us"
  },
  {
   "code": "SNA",
   "name": "Orange County",
   "lat": 33.6757,
-  "lon": -117.8682
+  "lon": -117.8682,
+  "cc": "us"
  },
  {
   "code": "MCI",
   "name": "Kansas City",
   "lat": 39.2976,
-  "lon": -94.7139
+  "lon": -94.7139,
+  "cc": "us"
  },
  {
   "code": "CLE",
   "name": "Cleveland",
   "lat": 41.4117,
-  "lon": -81.8498
+  "lon": -81.8498,
+  "cc": "us"
  },
  {
   "code": "HOU",
   "name": "Houston Hobby",
   "lat": 29.6454,
-  "lon": -95.2789
+  "lon": -95.2789,
+  "cc": "us"
  },
  {
   "code": "DAL",
   "name": "Dallas Love",
   "lat": 32.8471,
-  "lon": -96.8518
+  "lon": -96.8518,
+  "cc": "us"
  },
  {
   "code": "IND",
   "name": "Indianapolis",
   "lat": 39.7173,
-  "lon": -86.2944
+  "lon": -86.2944,
+  "cc": "us"
  },
  {
   "code": "CMH",
   "name": "Columbus",
   "lat": 39.998,
-  "lon": -82.8919
+  "lon": -82.8919,
+  "cc": "us"
  },
  {
   "code": "ABQ",
   "name": "Albuquerque",
   "lat": 35.0402,
-  "lon": -106.609
+  "lon": -106.609,
+  "cc": "us"
  },
  {
   "code": "MKE",
   "name": "Milwaukee",
   "lat": 42.9472,
-  "lon": -87.8966
+  "lon": -87.8966,
+  "cc": "us"
  },
  {
   "code": "JAX",
   "name": "Jacksonville",
   "lat": 30.4941,
-  "lon": -81.6879
+  "lon": -81.6879,
+  "cc": "us"
  },
  {
   "code": "BUR",
   "name": "Burbank",
   "lat": 34.2007,
-  "lon": -118.3587
+  "lon": -118.3587,
+  "cc": "us"
  },
  {
   "code": "LHR",
@@ -311,7 +362,8 @@
   "lat": 51.47,
   "lon": -0.4543,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "CDG",
@@ -319,7 +371,8 @@
   "lat": 49.0097,
   "lon": 2.5479,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "NRT",
@@ -327,7 +380,8 @@
   "lat": 35.772,
   "lon": 140.3929,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "HND",
@@ -335,7 +389,8 @@
   "lat": 35.5494,
   "lon": 139.7798,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "YYZ",
@@ -343,7 +398,8 @@
   "lat": 43.6777,
   "lon": -79.6248,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "CUN",
@@ -351,7 +407,8 @@
   "lat": 21.0365,
   "lon": -86.8771,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "FRA",
@@ -359,7 +416,8 @@
   "lat": 50.0379,
   "lon": 8.5622,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "de"
  },
  {
   "code": "AMS",
@@ -367,7 +425,8 @@
   "lat": 52.3105,
   "lon": 4.7683,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "nl"
  },
  {
   "code": "HKG",
@@ -375,7 +434,8 @@
   "lat": 22.308,
   "lon": 113.9185,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "hk"
  },
  {
   "code": "SIN",
@@ -383,7 +443,8 @@
   "lat": 1.3644,
   "lon": 103.9915,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "sg"
  },
  {
   "code": "DXB",
@@ -391,7 +452,8 @@
   "lat": 25.2532,
   "lon": 55.3657,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ae"
  },
  {
   "code": "DOH",
@@ -399,7 +461,8 @@
   "lat": 25.2731,
   "lon": 51.6081,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "qa"
  },
  {
   "code": "ICN",
@@ -407,7 +470,8 @@
   "lat": 37.4602,
   "lon": 126.4407,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kr"
  },
  {
   "code": "MEX",
@@ -415,7 +479,8 @@
   "lat": 19.4361,
   "lon": -99.0719,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "YVR",
@@ -423,7 +488,8 @@
   "lat": 49.1967,
   "lon": -123.1815,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "MUC",
@@ -431,7 +497,8 @@
   "lat": 48.3538,
   "lon": 11.7861,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "de"
  },
  {
   "code": "ZRH",
@@ -439,7 +506,8 @@
   "lat": 47.4582,
   "lon": 8.5555,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ch"
  },
  {
   "code": "FCO",
@@ -447,7 +515,8 @@
   "lat": 41.8003,
   "lon": 12.2389,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "MAD",
@@ -455,7 +524,8 @@
   "lat": 40.4983,
   "lon": -3.5676,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "SYD",
@@ -463,643 +533,750 @@
   "lat": -33.9399,
   "lon": 151.1753,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "SMF",
   "name": "Sacramento",
   "lat": 38.6954,
-  "lon": -121.5908
+  "lon": -121.5908,
+  "cc": "us"
  },
  {
   "code": "BDL",
   "name": "Hartford",
   "lat": 41.9389,
-  "lon": -72.6832
+  "lon": -72.6832,
+  "cc": "us"
  },
  {
   "code": "GSP",
   "name": "Greenville-Spartanburg",
   "lat": 34.8957,
-  "lon": -82.2189
+  "lon": -82.2189,
+  "cc": "us"
  },
  {
   "code": "PVD",
   "name": "Providence",
   "lat": 41.724,
-  "lon": -71.4282
+  "lon": -71.4282,
+  "cc": "us"
  },
  {
   "code": "SYR",
   "name": "Syracuse",
   "lat": 43.1112,
-  "lon": -76.1063
+  "lon": -76.1063,
+  "cc": "us"
  },
  {
   "code": "TUL",
   "name": "Tulsa",
   "lat": 36.1984,
-  "lon": -95.8881
+  "lon": -95.8881,
+  "cc": "us"
  },
  {
   "code": "XNA",
   "name": "Northwest Arkansas",
   "lat": 36.2819,
-  "lon": -94.3068
+  "lon": -94.3068,
+  "cc": "us"
  },
  {
   "code": "RNO",
   "name": "Reno",
   "lat": 39.4991,
-  "lon": -119.7681
+  "lon": -119.7681,
+  "cc": "us"
  },
  {
   "code": "PBI",
   "name": "West Palm Beach",
   "lat": 26.6832,
-  "lon": -80.0956
+  "lon": -80.0956,
+  "cc": "us"
  },
  {
   "code": "SJU",
   "name": "San Juan",
   "lat": 18.4394,
-  "lon": -66.0018
+  "lon": -66.0018,
+  "cc": "us"
  },
  {
   "code": "ONT",
   "name": "Ontario",
   "lat": 34.056,
-  "lon": -117.6012
+  "lon": -117.6012,
+  "cc": "us"
  },
  {
   "code": "BUF",
   "name": "Buffalo",
   "lat": 42.9405,
-  "lon": -78.7322
+  "lon": -78.7322,
+  "cc": "us"
  },
  {
   "code": "CHS",
   "name": "Charleston",
   "lat": 32.8986,
-  "lon": -80.0405
+  "lon": -80.0405,
+  "cc": "us"
  },
  {
   "code": "COS",
   "name": "Colorado Springs",
   "lat": 38.8058,
-  "lon": -104.7008
+  "lon": -104.7008,
+  "cc": "us"
  },
  {
   "code": "GRR",
   "name": "Grand Rapids",
   "lat": 42.8808,
-  "lon": -85.5228
+  "lon": -85.5228,
+  "cc": "us"
  },
  {
   "code": "MLB",
   "name": "Melbourne, Florida",
   "lat": 28.1028,
-  "lon": -80.6453
+  "lon": -80.6453,
+  "cc": "us"
  },
  {
   "code": "ANC",
   "name": "Anchorage",
   "lat": 61.1743,
-  "lon": -149.9963
+  "lon": -149.9963,
+  "cc": "us"
  },
  {
   "code": "MEM",
   "name": "Memphis",
   "lat": 35.0424,
-  "lon": -89.9767
+  "lon": -89.9767,
+  "cc": "us"
  },
  {
   "code": "OGG",
   "name": "Maui (Kahului)",
   "lat": 20.8986,
-  "lon": -156.4305
+  "lon": -156.4305,
+  "cc": "us"
  },
  {
   "code": "KOA",
   "name": "Kona",
   "lat": 19.7388,
-  "lon": -156.0456
+  "lon": -156.0456,
+  "cc": "us"
  },
  {
   "code": "LIH",
   "name": "Kauai (Lihue)",
   "lat": 21.976,
-  "lon": -159.3389
+  "lon": -159.3389,
+  "cc": "us"
  },
  {
   "code": "RSW",
   "name": "Fort Myers",
   "lat": 26.5362,
-  "lon": -81.7552
+  "lon": -81.7552,
+  "cc": "us"
  },
  {
   "code": "OMA",
   "name": "Omaha",
   "lat": 41.3032,
-  "lon": -95.8941
+  "lon": -95.8941,
+  "cc": "us"
  },
  {
   "code": "OKC",
   "name": "Oklahoma City",
   "lat": 35.3931,
-  "lon": -97.6007
+  "lon": -97.6007,
+  "cc": "us"
  },
  {
   "code": "ELP",
   "name": "El Paso",
   "lat": 31.8072,
-  "lon": -106.3776
+  "lon": -106.3776,
+  "cc": "us"
  },
  {
   "code": "TUS",
   "name": "Tucson",
   "lat": 32.1161,
-  "lon": -110.941
+  "lon": -110.941,
+  "cc": "us"
  },
  {
   "code": "BOI",
   "name": "Boise",
   "lat": 43.5644,
-  "lon": -116.2228
+  "lon": -116.2228,
+  "cc": "us"
  },
  {
   "code": "ORF",
   "name": "Norfolk",
   "lat": 36.8946,
-  "lon": -76.2012
+  "lon": -76.2012,
+  "cc": "us"
  },
  {
   "code": "RIC",
   "name": "Richmond",
   "lat": 37.5052,
-  "lon": -77.3197
+  "lon": -77.3197,
+  "cc": "us"
  },
  {
   "code": "GEG",
   "name": "Spokane",
   "lat": 47.6199,
-  "lon": -117.5338
+  "lon": -117.5338,
+  "cc": "us"
  },
  {
   "code": "LGB",
   "name": "Long Beach",
   "lat": 33.8177,
-  "lon": -118.1516
+  "lon": -118.1516,
+  "cc": "us"
  },
  {
   "code": "PSP",
   "name": "Palm Springs",
   "lat": 33.8297,
-  "lon": -116.5067
+  "lon": -116.5067,
+  "cc": "us"
  },
  {
   "code": "SBA",
   "name": "Santa Barbara",
   "lat": 34.4262,
-  "lon": -119.8404
+  "lon": -119.8404,
+  "cc": "us"
  },
  {
   "code": "FAT",
   "name": "Fresno",
   "lat": 36.7762,
-  "lon": -119.7181
+  "lon": -119.7181,
+  "cc": "us"
  },
  {
   "code": "ROC",
   "name": "Rochester",
   "lat": 43.1189,
-  "lon": -77.6724
+  "lon": -77.6724,
+  "cc": "us"
  },
  {
   "code": "ALB",
   "name": "Albany",
   "lat": 42.7483,
-  "lon": -73.8017
+  "lon": -73.8017,
+  "cc": "us"
  },
  {
   "code": "SDF",
   "name": "Louisville",
   "lat": 38.1744,
-  "lon": -85.736
+  "lon": -85.736,
+  "cc": "us"
  },
  {
   "code": "BHM",
   "name": "Birmingham",
   "lat": 33.5629,
-  "lon": -86.7535
+  "lon": -86.7535,
+  "cc": "us"
  },
  {
   "code": "DSM",
   "name": "Des Moines",
   "lat": 41.534,
-  "lon": -93.6631
+  "lon": -93.6631,
+  "cc": "us"
  },
  {
   "code": "LIT",
   "name": "Little Rock",
   "lat": 34.7294,
-  "lon": -92.2243
+  "lon": -92.2243,
+  "cc": "us"
  },
  {
   "code": "TYS",
   "name": "Knoxville",
   "lat": 35.811,
-  "lon": -83.994
+  "lon": -83.994,
+  "cc": "us"
  },
  {
   "code": "CAE",
   "name": "Columbia, South Carolina",
   "lat": 33.9388,
-  "lon": -81.1195
+  "lon": -81.1195,
+  "cc": "us"
  },
  {
   "code": "PWM",
   "name": "Portland, Maine",
   "lat": 43.6462,
-  "lon": -70.3093
+  "lon": -70.3093,
+  "cc": "us"
  },
  {
   "code": "BZN",
   "name": "Bozeman",
   "lat": 45.7775,
-  "lon": -111.153
+  "lon": -111.153,
+  "cc": "us"
  },
  {
   "code": "HSV",
   "name": "Huntsville",
   "lat": 34.6372,
-  "lon": -86.7751
+  "lon": -86.7751,
+  "cc": "us"
  },
  {
   "code": "PNS",
   "name": "Pensacola",
   "lat": 30.4734,
-  "lon": -87.1866
+  "lon": -87.1866,
+  "cc": "us"
  },
  {
   "code": "SRQ",
   "name": "Sarasota",
   "lat": 27.3954,
-  "lon": -82.5544
+  "lon": -82.5544,
+  "cc": "us"
  },
  {
   "code": "MYR",
   "name": "Myrtle Beach",
   "lat": 33.6797,
-  "lon": -78.9283
+  "lon": -78.9283,
+  "cc": "us"
  },
  {
   "code": "ICT",
   "name": "Wichita",
   "lat": 37.6499,
-  "lon": -97.4331
+  "lon": -97.4331,
+  "cc": "us"
  },
  {
   "code": "BTV",
   "name": "Burlington",
   "lat": 44.4719,
-  "lon": -73.1533
+  "lon": -73.1533,
+  "cc": "us"
  },
  {
   "code": "MHT",
   "name": "Manchester, New Hampshire",
   "lat": 42.9326,
-  "lon": -71.4357
+  "lon": -71.4357,
+  "cc": "us"
  },
  {
   "code": "SFB",
   "name": "Orlando Sanford",
   "lat": 28.7776,
-  "lon": -81.2375
+  "lon": -81.2375,
+  "cc": "us"
  },
  {
   "code": "PIE",
   "name": "St. Petersburg-Clearwater",
   "lat": 27.9102,
-  "lon": -82.6874
+  "lon": -82.6874,
+  "cc": "us"
  },
  {
   "code": "MSN",
   "name": "Madison",
   "lat": 43.1399,
-  "lon": -89.3375
+  "lon": -89.3375,
+  "cc": "us"
  },
  {
   "code": "SGF",
   "name": "Springfield, Missouri",
   "lat": 37.2457,
-  "lon": -93.3886
+  "lon": -93.3886,
+  "cc": "us"
  },
  {
   "code": "LEX",
   "name": "Lexington",
   "lat": 38.0365,
-  "lon": -84.6059
+  "lon": -84.6059,
+  "cc": "us"
  },
  {
   "code": "CHA",
   "name": "Chattanooga",
   "lat": 35.0353,
-  "lon": -85.2038
+  "lon": -85.2038,
+  "cc": "us"
  },
  {
   "code": "DAY",
   "name": "Dayton",
   "lat": 39.9024,
-  "lon": -84.2194
+  "lon": -84.2194,
+  "cc": "us"
  },
  {
   "code": "AVL",
   "name": "Asheville",
   "lat": 35.4362,
-  "lon": -82.5418
+  "lon": -82.5418,
+  "cc": "us"
  },
  {
   "code": "JAC",
   "name": "Jackson Hole",
   "lat": 43.6073,
-  "lon": -110.7377
+  "lon": -110.7377,
+  "cc": "us"
  },
  {
   "code": "SAV",
   "name": "Savannah",
   "lat": 32.1276,
-  "lon": -81.2021
+  "lon": -81.2021,
+  "cc": "us"
  },
  {
   "code": "CID",
   "name": "Cedar Rapids",
   "lat": 41.8847,
-  "lon": -91.7108
+  "lon": -91.7108,
+  "cc": "us"
  },
  {
   "code": "FSD",
   "name": "Sioux Falls",
   "lat": 43.582,
-  "lon": -96.7419
+  "lon": -96.7419,
+  "cc": "us"
  },
  {
   "code": "FAR",
   "name": "Fargo",
   "lat": 46.9207,
-  "lon": -96.8158
+  "lon": -96.8158,
+  "cc": "us"
  },
  {
   "code": "LNK",
   "name": "Lincoln",
   "lat": 40.851,
-  "lon": -96.7592
+  "lon": -96.7592,
+  "cc": "us"
  },
  {
   "code": "BTR",
   "name": "Baton Rouge",
   "lat": 30.5332,
-  "lon": -91.1496
+  "lon": -91.1496,
+  "cc": "us"
  },
  {
   "code": "MOB",
   "name": "Mobile",
   "lat": 30.6912,
-  "lon": -88.2428
+  "lon": -88.2428,
+  "cc": "us"
  },
  {
   "code": "JAN",
   "name": "Jackson",
   "lat": 32.3112,
-  "lon": -90.0759
+  "lon": -90.0759,
+  "cc": "us"
  },
  {
   "code": "SHV",
   "name": "Shreveport",
   "lat": 32.4466,
-  "lon": -93.8256
+  "lon": -93.8256,
+  "cc": "us"
  },
  {
   "code": "AMA",
   "name": "Amarillo",
   "lat": 35.2194,
-  "lon": -101.7059
+  "lon": -101.7059,
+  "cc": "us"
  },
  {
   "code": "LBB",
   "name": "Lubbock",
   "lat": 33.6636,
-  "lon": -101.8228
+  "lon": -101.8228,
+  "cc": "us"
  },
  {
   "code": "MAF",
   "name": "Midland",
   "lat": 31.9425,
-  "lon": -102.2019
+  "lon": -102.2019,
+  "cc": "us"
  },
  {
   "code": "CRP",
   "name": "Corpus Christi",
   "lat": 27.7704,
-  "lon": -97.5012
+  "lon": -97.5012,
+  "cc": "us"
  },
  {
   "code": "MFE",
   "name": "McAllen",
   "lat": 26.1758,
-  "lon": -98.2386
+  "lon": -98.2386,
+  "cc": "us"
  },
  {
   "code": "HRL",
   "name": "Harlingen",
   "lat": 26.2285,
-  "lon": -97.6544
+  "lon": -97.6544,
+  "cc": "us"
  },
  {
   "code": "BIL",
   "name": "Billings",
   "lat": 45.8077,
-  "lon": -108.5429
+  "lon": -108.5429,
+  "cc": "us"
  },
  {
   "code": "MSO",
   "name": "Missoula",
   "lat": 46.9163,
-  "lon": -114.0906
+  "lon": -114.0906,
+  "cc": "us"
  },
  {
   "code": "FCA",
   "name": "Kalispell (Glacier Park)",
   "lat": 48.3105,
-  "lon": -114.256
+  "lon": -114.256,
+  "cc": "us"
  },
  {
   "code": "GJT",
   "name": "Grand Junction",
   "lat": 39.1224,
-  "lon": -108.5267
+  "lon": -108.5267,
+  "cc": "us"
  },
  {
   "code": "ASE",
   "name": "Aspen",
   "lat": 39.2232,
-  "lon": -106.8688
+  "lon": -106.8688,
+  "cc": "us"
  },
  {
   "code": "EGE",
   "name": "Vail (Eagle County)",
   "lat": 39.6426,
-  "lon": -106.9177
+  "lon": -106.9177,
+  "cc": "us"
  },
  {
   "code": "MTJ",
   "name": "Montrose (Telluride)",
   "lat": 38.5098,
-  "lon": -107.8938
+  "lon": -107.8938,
+  "cc": "us"
  },
  {
   "code": "SUN",
   "name": "Sun Valley (Hailey)",
   "lat": 43.5044,
-  "lon": -114.2962
+  "lon": -114.2962,
+  "cc": "us"
  },
  {
   "code": "FAI",
   "name": "Fairbanks",
   "lat": 64.8151,
-  "lon": -147.8561
+  "lon": -147.8561,
+  "cc": "us"
  },
  {
   "code": "JNU",
   "name": "Juneau",
   "lat": 58.355,
-  "lon": -134.5763
+  "lon": -134.5763,
+  "cc": "us"
  },
  {
   "code": "KTN",
   "name": "Ketchikan",
   "lat": 55.3556,
-  "lon": -131.7137
+  "lon": -131.7137,
+  "cc": "us"
  },
  {
   "code": "SBP",
   "name": "San Luis Obispo",
   "lat": 35.2368,
-  "lon": -120.6424
+  "lon": -120.6424,
+  "cc": "us"
  },
  {
   "code": "MRY",
   "name": "Monterey",
   "lat": 36.587,
-  "lon": -121.8429
+  "lon": -121.8429,
+  "cc": "us"
  },
  {
   "code": "STS",
   "name": "Santa Rosa (Sonoma County)",
   "lat": 38.509,
-  "lon": -122.8128
+  "lon": -122.8128,
+  "cc": "us"
  },
  {
   "code": "EUG",
   "name": "Eugene",
   "lat": 44.1246,
-  "lon": -123.2119
+  "lon": -123.2119,
+  "cc": "us"
  },
  {
   "code": "MFR",
   "name": "Medford",
   "lat": 42.3742,
-  "lon": -122.8735
+  "lon": -122.8735,
+  "cc": "us"
  },
  {
   "code": "RDM",
   "name": "Redmond (Bend)",
   "lat": 44.2541,
-  "lon": -121.15
+  "lon": -121.15,
+  "cc": "us"
  },
  {
   "code": "BLI",
   "name": "Bellingham",
   "lat": 48.7928,
-  "lon": -122.5375
+  "lon": -122.5375,
+  "cc": "us"
  },
  {
   "code": "PSC",
   "name": "Pasco (Tri-Cities)",
   "lat": 46.2647,
-  "lon": -119.119
+  "lon": -119.119,
+  "cc": "us"
  },
  {
   "code": "VPS",
   "name": "Destin / Fort Walton Beach",
   "lat": 30.4832,
-  "lon": -86.5254
+  "lon": -86.5254,
+  "cc": "us"
  },
  {
   "code": "ECP",
   "name": "Panama City Beach",
   "lat": 30.3571,
-  "lon": -85.7956
+  "lon": -85.7956,
+  "cc": "us"
  },
  {
   "code": "TLH",
   "name": "Tallahassee",
   "lat": 30.3965,
-  "lon": -84.3503
+  "lon": -84.3503,
+  "cc": "us"
  },
  {
   "code": "EYW",
   "name": "Key West",
   "lat": 24.5561,
-  "lon": -81.7596
+  "lon": -81.7596,
+  "cc": "us"
  },
  {
   "code": "DAB",
   "name": "Daytona Beach",
   "lat": 29.1799,
-  "lon": -81.0581
+  "lon": -81.0581,
+  "cc": "us"
  },
  {
   "code": "GNV",
   "name": "Gainesville",
   "lat": 29.6901,
-  "lon": -82.2718
+  "lon": -82.2718,
+  "cc": "us"
  },
  {
   "code": "HPN",
   "name": "White Plains (Westchester)",
   "lat": 41.067,
-  "lon": -73.7076
+  "lon": -73.7076,
+  "cc": "us"
  },
  {
   "code": "ISP",
   "name": "Long Island (Islip)",
   "lat": 40.7952,
-  "lon": -73.1002
+  "lon": -73.1002,
+  "cc": "us"
  },
  {
   "code": "ABE",
   "name": "Allentown (Lehigh Valley)",
   "lat": 40.6521,
-  "lon": -75.4408
+  "lon": -75.4408,
+  "cc": "us"
  },
  {
   "code": "CAK",
   "name": "Akron-Canton",
   "lat": 40.9161,
-  "lon": -81.4422
+  "lon": -81.4422,
+  "cc": "us"
  },
  {
   "code": "SBN",
   "name": "South Bend",
   "lat": 41.7087,
-  "lon": -86.3173
+  "lon": -86.3173,
+  "cc": "us"
  },
  {
   "code": "STT",
   "name": "St. Thomas",
   "lat": 18.3373,
-  "lon": -64.9734
+  "lon": -64.9734,
+  "cc": "us"
  },
  {
   "code": "YUL",
@@ -1107,7 +1284,8 @@
   "lat": 45.4706,
   "lon": -73.7408,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YYC",
@@ -1115,7 +1293,8 @@
   "lat": 51.1315,
   "lon": -114.0106,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YOW",
@@ -1123,7 +1302,8 @@
   "lat": 45.3225,
   "lon": -75.6692,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YEG",
@@ -1131,7 +1311,8 @@
   "lat": 53.3097,
   "lon": -113.58,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YHZ",
@@ -1139,7 +1320,8 @@
   "lat": 44.8808,
   "lon": -63.5086,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YWG",
@@ -1147,7 +1329,8 @@
   "lat": 49.91,
   "lon": -97.2399,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "LGW",
@@ -1155,7 +1338,8 @@
   "lat": 51.1481,
   "lon": -0.1903,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "MAN",
@@ -1163,7 +1347,8 @@
   "lat": 53.3537,
   "lon": -2.275,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "EDI",
@@ -1171,7 +1356,8 @@
   "lat": 55.95,
   "lon": -3.3725,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "STN",
@@ -1179,7 +1365,8 @@
   "lat": 51.885,
   "lon": 0.235,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "BHX",
@@ -1187,7 +1374,8 @@
   "lat": 52.4539,
   "lon": -1.748,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "LIS",
@@ -1195,7 +1383,8 @@
   "lat": 38.7742,
   "lon": -9.1342,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pt"
  },
  {
   "code": "OPO",
@@ -1203,7 +1392,8 @@
   "lat": 41.2481,
   "lon": -8.6814,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pt"
  },
  {
   "code": "BCN",
@@ -1211,7 +1401,8 @@
   "lat": 41.2971,
   "lon": 2.0785,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "AGP",
@@ -1219,7 +1410,8 @@
   "lat": 36.6749,
   "lon": -4.4991,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "PMI",
@@ -1227,7 +1419,8 @@
   "lat": 39.5517,
   "lon": 2.7388,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "VIE",
@@ -1235,7 +1428,8 @@
   "lat": 48.1103,
   "lon": 16.5697,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "at"
  },
  {
   "code": "ATH",
@@ -1243,7 +1437,8 @@
   "lat": 37.9364,
   "lon": 23.9445,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gr"
  },
  {
   "code": "AUH",
@@ -1251,7 +1446,8 @@
   "lat": 24.433,
   "lon": 54.6511,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ae"
  },
  {
   "code": "RUH",
@@ -1259,7 +1455,8 @@
   "lat": 24.9576,
   "lon": 46.6988,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "sa"
  },
  {
   "code": "JED",
@@ -1267,7 +1464,8 @@
   "lat": 21.6796,
   "lon": 39.1565,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "sa"
  },
  {
   "code": "BAH",
@@ -1275,7 +1473,8 @@
   "lat": 26.2708,
   "lon": 50.6336,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "bh"
  },
  {
   "code": "MCT",
@@ -1283,7 +1482,8 @@
   "lat": 23.5933,
   "lon": 58.2844,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "om"
  },
  {
   "code": "KWI",
@@ -1291,7 +1491,8 @@
   "lat": 29.2266,
   "lon": 47.9689,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "kw"
  },
  {
   "code": "AMM",
@@ -1299,7 +1500,8 @@
   "lat": 31.7226,
   "lon": 35.9932,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "jo"
  },
  {
   "code": "TLV",
@@ -1307,7 +1509,8 @@
   "lat": 32.0114,
   "lon": 34.8867,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "il"
  },
  {
   "code": "CAI",
@@ -1315,7 +1518,8 @@
   "lat": 30.1219,
   "lon": 31.4056,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "eg"
  },
  {
   "code": "KIX",
@@ -1323,7 +1527,8 @@
   "lat": 34.432,
   "lon": 135.2304,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "NGO",
@@ -1331,7 +1536,8 @@
   "lat": 34.8584,
   "lon": 136.8054,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "FUK",
@@ -1339,7 +1545,8 @@
   "lat": 33.5859,
   "lon": 130.4511,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "CTS",
@@ -1347,7 +1554,8 @@
   "lat": 42.7752,
   "lon": 141.6923,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "GMP",
@@ -1355,7 +1563,8 @@
   "lat": 37.5583,
   "lon": 126.7906,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kr"
  },
  {
   "code": "PUS",
@@ -1363,7 +1572,8 @@
   "lat": 35.1795,
   "lon": 128.9382,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kr"
  },
  {
   "code": "BKK",
@@ -1371,7 +1581,8 @@
   "lat": 13.69,
   "lon": 100.7501,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "DMK",
@@ -1379,7 +1590,8 @@
   "lat": 13.9126,
   "lon": 100.607,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "HKT",
@@ -1387,7 +1599,8 @@
   "lat": 8.1132,
   "lon": 98.3169,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "KUL",
@@ -1395,7 +1608,8 @@
   "lat": 2.7456,
   "lon": 101.7099,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "my"
  },
  {
   "code": "CGK",
@@ -1403,7 +1617,8 @@
   "lat": -6.1256,
   "lon": 106.6559,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "id"
  },
  {
   "code": "DPS",
@@ -1411,7 +1626,8 @@
   "lat": -8.7482,
   "lon": 115.1675,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "id"
  },
  {
   "code": "MNL",
@@ -1419,7 +1635,8 @@
   "lat": 14.5086,
   "lon": 121.0194,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "ph"
  },
  {
   "code": "SGN",
@@ -1427,7 +1644,8 @@
   "lat": 10.8188,
   "lon": 106.652,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "vn"
  },
  {
   "code": "HAN",
@@ -1435,7 +1653,8 @@
   "lat": 21.2212,
   "lon": 105.8072,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "vn"
  },
  {
   "code": "DEL",
@@ -1443,7 +1662,8 @@
   "lat": 28.5562,
   "lon": 77.1,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  },
  {
   "code": "MEL",
@@ -1451,7 +1671,8 @@
   "lat": -37.669,
   "lon": 144.841,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "BNE",
@@ -1459,7 +1680,8 @@
   "lat": -27.3842,
   "lon": 153.1175,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "PER",
@@ -1467,7 +1689,8 @@
   "lat": -31.9403,
   "lon": 115.9669,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "ADL",
@@ -1475,7 +1698,8 @@
   "lat": -34.945,
   "lon": 138.5306,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "CNS",
@@ -1483,7 +1707,8 @@
   "lat": -16.8858,
   "lon": 145.7553,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "GRU",
@@ -1491,7 +1716,8 @@
   "lat": -23.4356,
   "lon": -46.4731,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "br"
  },
  {
   "code": "GIG",
@@ -1499,7 +1725,8 @@
   "lat": -22.809,
   "lon": -43.2506,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "br"
  },
  {
   "code": "EZE",
@@ -1507,7 +1734,8 @@
   "lat": -34.8222,
   "lon": -58.5358,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ar"
  },
  {
   "code": "SCL",
@@ -1515,7 +1743,8 @@
   "lat": -33.393,
   "lon": -70.7858,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "cl"
  },
  {
   "code": "LIM",
@@ -1523,7 +1752,8 @@
   "lat": -12.0219,
   "lon": -77.1143,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "pe"
  },
  {
   "code": "BOG",
@@ -1531,7 +1761,8 @@
   "lat": 4.7016,
   "lon": -74.1469,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "co"
  },
  {
   "code": "GDL",
@@ -1539,7 +1770,8 @@
   "lat": 20.5218,
   "lon": -103.3112,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "MTY",
@@ -1547,7 +1779,8 @@
   "lat": 25.7785,
   "lon": -100.1069,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "SJD",
@@ -1555,7 +1788,8 @@
   "lat": 23.1518,
   "lon": -109.7215,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "PVR",
@@ -1563,7 +1797,8 @@
   "lat": 20.6801,
   "lon": -105.2544,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "MDE",
@@ -1571,7 +1806,8 @@
   "lat": 6.1645,
   "lon": -75.4231,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "co"
  },
  {
   "code": "PTY",
@@ -1579,7 +1815,8 @@
   "lat": 9.0714,
   "lon": -79.3835,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "pa"
  },
  {
   "code": "SJO",
@@ -1587,7 +1824,8 @@
   "lat": 9.9939,
   "lon": -84.2088,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "cr"
  },
  {
   "code": "LIR",
@@ -1595,7 +1833,8 @@
   "lat": 10.5933,
   "lon": -85.5444,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "cr"
  },
  {
   "code": "UIO",
@@ -1603,7 +1842,8 @@
   "lat": -0.1292,
   "lon": -78.3575,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ec"
  },
  {
   "code": "NAS",
@@ -1611,7 +1851,8 @@
   "lat": 25.039,
   "lon": -77.4662,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "bs"
  },
  {
   "code": "MBJ",
@@ -1619,7 +1860,8 @@
   "lat": 18.5037,
   "lon": -77.9134,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "jm"
  },
  {
   "code": "PUJ",
@@ -1627,7 +1869,8 @@
   "lat": 18.5674,
   "lon": -68.3634,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "do"
  },
  {
   "code": "SDQ",
@@ -1635,7 +1878,8 @@
   "lat": 18.4297,
   "lon": -69.6689,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "do"
  },
  {
   "code": "AUA",
@@ -1643,7 +1887,8 @@
   "lat": 12.5014,
   "lon": -70.0152,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "aw"
  },
  {
   "code": "JNB",
@@ -1651,7 +1896,8 @@
   "lat": -26.1337,
   "lon": 28.242,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "za"
  },
  {
   "code": "CPT",
@@ -1659,7 +1905,8 @@
   "lat": -33.9649,
   "lon": 18.6017,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "za"
  },
  {
   "code": "NBO",
@@ -1667,7 +1914,8 @@
   "lat": -1.3192,
   "lon": 36.9278,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ke"
  },
  {
   "code": "ADD",
@@ -1675,7 +1923,8 @@
   "lat": 8.9779,
   "lon": 38.7993,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "et"
  },
  {
   "code": "CMN",
@@ -1683,7 +1932,8 @@
   "lat": 33.3675,
   "lon": -7.5898,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ma"
  },
  {
   "code": "OOL",
@@ -1691,7 +1941,8 @@
   "lat": -28.1644,
   "lon": 153.5047,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "AKL",
@@ -1699,7 +1950,8 @@
   "lat": -37.0082,
   "lon": 174.785,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "nz"
  },
  {
   "code": "CHC",
@@ -1707,7 +1959,8 @@
   "lat": -43.4894,
   "lon": 172.532,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "nz"
  },
  {
   "code": "NAN",
@@ -1715,7 +1968,8 @@
   "lat": -17.7554,
   "lon": 177.4431,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "fj"
  },
  {
   "code": "PPT",
@@ -1723,7 +1977,8 @@
   "lat": -17.5537,
   "lon": -149.6071,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "pf"
  },
  {
   "code": "GUM",
@@ -1731,7 +1986,8 @@
   "lat": 13.4834,
   "lon": 144.796,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "gu"
  },
  {
   "code": "TPE",
@@ -1739,7 +1995,8 @@
   "lat": 25.0777,
   "lon": 121.2328,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "tw"
  },
  {
   "code": "PEK",
@@ -1747,7 +2004,8 @@
   "lat": 40.0799,
   "lon": 116.6031,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "cn"
  },
  {
   "code": "PVG",
@@ -1755,7 +2013,8 @@
   "lat": 31.1443,
   "lon": 121.8083,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "cn"
  },
  {
   "code": "CAN",
@@ -1763,7 +2022,8 @@
   "lat": 23.3924,
   "lon": 113.2988,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "cn"
  },
  {
   "code": "MFM",
@@ -1771,7 +2031,8 @@
   "lat": 22.1496,
   "lon": 113.5915,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "mo"
  },
  {
   "code": "BOM",
@@ -1779,7 +2040,8 @@
   "lat": 19.0896,
   "lon": 72.8656,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  },
  {
   "code": "BLR",
@@ -1787,7 +2049,8 @@
   "lat": 13.1986,
   "lon": 77.7066,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  },
  {
   "code": "CMB",
@@ -1795,7 +2058,8 @@
   "lat": 7.1808,
   "lon": 79.8841,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "lk"
  },
  {
   "code": "MLE",
@@ -1803,7 +2067,8 @@
   "lat": 4.1918,
   "lon": 73.5291,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "mv"
  },
  {
   "code": "DUB",
@@ -1811,7 +2076,8 @@
   "lat": 53.4213,
   "lon": -6.2701,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ie"
  },
  {
   "code": "CPH",
@@ -1819,7 +2085,8 @@
   "lat": 55.618,
   "lon": 12.6508,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "dk"
  },
  {
   "code": "ARN",
@@ -1827,7 +2094,8 @@
   "lat": 59.6519,
   "lon": 17.9186,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "se"
  },
  {
   "code": "OSL",
@@ -1835,7 +2103,8 @@
   "lat": 60.1939,
   "lon": 11.1004,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "no"
  },
  {
   "code": "HEL",
@@ -1843,7 +2112,8 @@
   "lat": 60.3172,
   "lon": 24.9633,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fi"
  },
  {
   "code": "KEF",
@@ -1851,7 +2121,8 @@
   "lat": 63.985,
   "lon": -22.6056,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "is"
  },
  {
   "code": "BRU",
@@ -1859,7 +2130,8 @@
   "lat": 50.901,
   "lon": 4.4844,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "be"
  },
  {
   "code": "BER",
@@ -1867,7 +2139,8 @@
   "lat": 52.3667,
   "lon": 13.5033,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "de"
  },
  {
   "code": "DUS",
@@ -1875,7 +2148,8 @@
   "lat": 51.2895,
   "lon": 6.7668,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "de"
  },
  {
   "code": "HAM",
@@ -1883,7 +2157,8 @@
   "lat": 53.6304,
   "lon": 9.9882,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "de"
  },
  {
   "code": "MXP",
@@ -1891,7 +2166,8 @@
   "lat": 45.6306,
   "lon": 8.7281,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "VCE",
@@ -1899,7 +2175,8 @@
   "lat": 45.5053,
   "lon": 12.3519,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "GVA",
@@ -1907,7 +2184,8 @@
   "lat": 46.2381,
   "lon": 6.109,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ch"
  },
  {
   "code": "PRG",
@@ -1915,7 +2193,8 @@
   "lat": 50.1008,
   "lon": 14.26,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "cz"
  },
  {
   "code": "WAW",
@@ -1923,7 +2202,8 @@
   "lat": 52.1657,
   "lon": 20.9671,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pl"
  },
  {
   "code": "BUD",
@@ -1931,7 +2211,8 @@
   "lat": 47.4369,
   "lon": 19.2556,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "hu"
  },
  {
   "code": "NCE",
@@ -1939,7 +2220,8 @@
   "lat": 43.6584,
   "lon": 7.2159,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "ORY",
@@ -1947,7 +2229,8 @@
   "lat": 48.7262,
   "lon": 2.3652,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "YYJ",
@@ -1955,7 +2238,8 @@
   "lat": 48.6469,
   "lon": -123.4258,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YLW",
@@ -1963,7 +2247,8 @@
   "lat": 49.9561,
   "lon": -119.3778,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YXE",
@@ -1971,7 +2256,8 @@
   "lat": 52.1708,
   "lon": -106.6997,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YQR",
@@ -1979,7 +2265,8 @@
   "lat": 50.4319,
   "lon": -104.6658,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YQB",
@@ -1987,7 +2274,8 @@
   "lat": 46.7911,
   "lon": -71.3933,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "YYT",
@@ -1995,7 +2283,8 @@
   "lat": 47.6186,
   "lon": -52.7519,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ca"
  },
  {
   "code": "MZT",
@@ -2003,7 +2292,8 @@
   "lat": 23.1614,
   "lon": -106.2661,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "ZIH",
@@ -2011,7 +2301,8 @@
   "lat": 17.6016,
   "lon": -101.4605,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "HUX",
@@ -2019,7 +2310,8 @@
   "lat": 15.7753,
   "lon": -96.2626,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "OAX",
@@ -2027,7 +2319,8 @@
   "lat": 16.9999,
   "lon": -96.7266,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "MID",
@@ -2035,7 +2328,8 @@
   "lat": 20.937,
   "lon": -89.6577,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "CZM",
@@ -2043,7 +2337,8 @@
   "lat": 20.5224,
   "lon": -86.9256,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "TIJ",
@@ -2051,7 +2346,8 @@
   "lat": 32.5411,
   "lon": -116.97,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "BJX",
@@ -2059,7 +2355,8 @@
   "lat": 20.9935,
   "lon": -101.4808,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "mx"
  },
  {
   "code": "SXM",
@@ -2067,7 +2364,8 @@
   "lat": 18.041,
   "lon": -63.1089,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "sx"
  },
  {
   "code": "BGI",
@@ -2075,7 +2373,8 @@
   "lat": 13.0746,
   "lon": -59.4925,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "bb"
  },
  {
   "code": "ANU",
@@ -2083,7 +2382,8 @@
   "lat": 17.1367,
   "lon": -61.7927,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ag"
  },
  {
   "code": "SKB",
@@ -2091,7 +2391,8 @@
   "lat": 17.3112,
   "lon": -62.7187,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "kn"
  },
  {
   "code": "GCM",
@@ -2099,7 +2400,8 @@
   "lat": 19.2928,
   "lon": -81.3577,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "ky"
  },
  {
   "code": "UVF",
@@ -2107,7 +2409,8 @@
   "lat": 13.7332,
   "lon": -60.9526,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "lc"
  },
  {
   "code": "CUR",
@@ -2115,7 +2418,8 @@
   "lat": 12.1889,
   "lon": -68.9598,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "cw"
  },
  {
   "code": "BDA",
@@ -2123,7 +2427,8 @@
   "lat": 32.364,
   "lon": -64.6787,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "bm"
  },
  {
   "code": "POS",
@@ -2131,7 +2436,8 @@
   "lat": 10.5954,
   "lon": -61.3372,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "tt"
  },
  {
   "code": "PLS",
@@ -2139,7 +2445,8 @@
   "lat": 21.7736,
   "lon": -72.2659,
   "intl": true,
-  "area": "Americas"
+  "area": "Americas",
+  "cc": "tc"
  },
  {
   "code": "FAO",
@@ -2147,7 +2454,8 @@
   "lat": 37.0144,
   "lon": -7.9659,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pt"
  },
  {
   "code": "FNC",
@@ -2155,7 +2463,8 @@
   "lat": 32.6979,
   "lon": -16.7745,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pt"
  },
  {
   "code": "PDL",
@@ -2163,7 +2472,8 @@
   "lat": 37.7412,
   "lon": -25.6979,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pt"
  },
  {
   "code": "ALC",
@@ -2171,7 +2481,8 @@
   "lat": 38.2822,
   "lon": -0.5582,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "VLC",
@@ -2179,7 +2490,8 @@
   "lat": 39.4893,
   "lon": -0.4816,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "SVQ",
@@ -2187,7 +2499,8 @@
   "lat": 37.418,
   "lon": -5.8931,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "BIO",
@@ -2195,7 +2508,8 @@
   "lat": 43.3011,
   "lon": -2.9106,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "IBZ",
@@ -2203,7 +2517,8 @@
   "lat": 38.8729,
   "lon": 1.3731,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "TFS",
@@ -2211,7 +2526,8 @@
   "lat": 28.0445,
   "lon": -16.5725,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "LPA",
@@ -2219,7 +2535,8 @@
   "lat": 27.9319,
   "lon": -15.3866,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "es"
  },
  {
   "code": "LYS",
@@ -2227,7 +2544,8 @@
   "lat": 45.7256,
   "lon": 5.0811,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "MRS",
@@ -2235,7 +2553,8 @@
   "lat": 43.4393,
   "lon": 5.2214,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "TLS",
@@ -2243,7 +2562,8 @@
   "lat": 43.6291,
   "lon": 1.3638,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "BOD",
@@ -2251,7 +2571,8 @@
   "lat": 44.8283,
   "lon": -0.7156,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "fr"
  },
  {
   "code": "BLQ",
@@ -2259,7 +2580,8 @@
   "lat": 44.5354,
   "lon": 11.2887,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "FLR",
@@ -2267,7 +2589,8 @@
   "lat": 43.81,
   "lon": 11.2051,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "PSA",
@@ -2275,7 +2598,8 @@
   "lat": 43.6839,
   "lon": 10.3927,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "CTA",
@@ -2283,7 +2607,8 @@
   "lat": 37.4668,
   "lon": 15.0664,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "NAP",
@@ -2291,7 +2616,8 @@
   "lat": 40.886,
   "lon": 14.2908,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "it"
  },
  {
   "code": "MLA",
@@ -2299,7 +2625,8 @@
   "lat": 35.8575,
   "lon": 14.4775,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "mt"
  },
  {
   "code": "GLA",
@@ -2307,7 +2634,8 @@
   "lat": 55.8719,
   "lon": -4.4331,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "BFS",
@@ -2315,7 +2643,8 @@
   "lat": 54.6575,
   "lon": -6.2158,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "ORK",
@@ -2323,7 +2652,8 @@
   "lat": 51.8413,
   "lon": -8.4911,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ie"
  },
  {
   "code": "SNN",
@@ -2331,7 +2661,8 @@
   "lat": 52.702,
   "lon": -8.9248,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ie"
  },
  {
   "code": "BRS",
@@ -2339,7 +2670,8 @@
   "lat": 51.3827,
   "lon": -2.7191,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "NCL",
@@ -2347,7 +2679,8 @@
   "lat": 55.0375,
   "lon": -1.6917,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "LTN",
@@ -2355,7 +2688,8 @@
   "lat": 51.8747,
   "lon": -0.3683,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gb"
  },
  {
   "code": "GOT",
@@ -2363,7 +2697,8 @@
   "lat": 57.6628,
   "lon": 12.2798,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "se"
  },
  {
   "code": "BGO",
@@ -2371,7 +2706,8 @@
   "lat": 60.2934,
   "lon": 5.2181,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "no"
  },
  {
   "code": "BLL",
@@ -2379,7 +2715,8 @@
   "lat": 55.7403,
   "lon": 9.1518,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "dk"
  },
  {
   "code": "RIX",
@@ -2387,7 +2724,8 @@
   "lat": 56.9236,
   "lon": 23.9711,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "lv"
  },
  {
   "code": "VNO",
@@ -2395,7 +2733,8 @@
   "lat": 54.6341,
   "lon": 25.2858,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "lt"
  },
  {
   "code": "TLL",
@@ -2403,7 +2742,8 @@
   "lat": 59.4133,
   "lon": 24.8328,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ee"
  },
  {
   "code": "KRK",
@@ -2411,7 +2751,8 @@
   "lat": 50.0777,
   "lon": 19.7848,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "pl"
  },
  {
   "code": "SZG",
@@ -2419,7 +2760,8 @@
   "lat": 47.7933,
   "lon": 13.0043,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "at"
  },
  {
   "code": "ZAG",
@@ -2427,7 +2769,8 @@
   "lat": 45.7429,
   "lon": 16.0688,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "hr"
  },
  {
   "code": "SPU",
@@ -2435,7 +2778,8 @@
   "lat": 43.5389,
   "lon": 16.298,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "hr"
  },
  {
   "code": "DBV",
@@ -2443,7 +2787,8 @@
   "lat": 42.5614,
   "lon": 18.2682,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "hr"
  },
  {
   "code": "SKG",
@@ -2451,7 +2796,8 @@
   "lat": 40.5197,
   "lon": 22.9709,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gr"
  },
  {
   "code": "HER",
@@ -2459,7 +2805,8 @@
   "lat": 35.3397,
   "lon": 25.1803,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gr"
  },
  {
   "code": "JTR",
@@ -2467,7 +2814,8 @@
   "lat": 36.3992,
   "lon": 25.4793,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "gr"
  },
  {
   "code": "LCA",
@@ -2475,7 +2823,8 @@
   "lat": 34.8751,
   "lon": 33.6249,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "cy"
  },
  {
   "code": "OTP",
@@ -2483,7 +2832,8 @@
   "lat": 44.5711,
   "lon": 26.085,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "ro"
  },
  {
   "code": "SOF",
@@ -2491,7 +2841,8 @@
   "lat": 42.6967,
   "lon": 23.4114,
   "intl": true,
-  "area": "Europe"
+  "area": "Europe",
+  "cc": "bg"
  },
  {
   "code": "ZQN",
@@ -2499,7 +2850,8 @@
   "lat": -45.0211,
   "lon": 168.7392,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "nz"
  },
  {
   "code": "WLG",
@@ -2507,7 +2859,8 @@
   "lat": -41.3272,
   "lon": 174.8053,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "nz"
  },
  {
   "code": "HBA",
@@ -2515,7 +2868,8 @@
   "lat": -42.8361,
   "lon": 147.5103,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "CBR",
@@ -2523,7 +2877,8 @@
   "lat": -35.3069,
   "lon": 149.195,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "DRW",
@@ -2531,7 +2886,8 @@
   "lat": -12.4147,
   "lon": 130.877,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "au"
  },
  {
   "code": "RAR",
@@ -2539,7 +2895,8 @@
   "lat": -21.2027,
   "lon": -159.8061,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "ck"
  },
  {
   "code": "APW",
@@ -2547,7 +2904,8 @@
   "lat": -13.83,
   "lon": -172.0083,
   "intl": true,
-  "area": "Oceania"
+  "area": "Oceania",
+  "cc": "ws"
  },
  {
   "code": "MRU",
@@ -2555,7 +2913,8 @@
   "lat": -20.4302,
   "lon": 57.6836,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "mu"
  },
  {
   "code": "SEZ",
@@ -2563,7 +2922,8 @@
   "lat": -4.6743,
   "lon": 55.5218,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "sc"
  },
  {
   "code": "ZNZ",
@@ -2571,7 +2931,8 @@
   "lat": -6.222,
   "lon": 39.2249,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "tz"
  },
  {
   "code": "DAR",
@@ -2579,7 +2940,8 @@
   "lat": -6.8781,
   "lon": 39.2026,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "tz"
  },
  {
   "code": "JRO",
@@ -2587,7 +2949,8 @@
   "lat": -3.4294,
   "lon": 37.0745,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "tz"
  },
  {
   "code": "KGL",
@@ -2595,7 +2958,8 @@
   "lat": -1.9686,
   "lon": 30.1395,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "rw"
  },
  {
   "code": "EBB",
@@ -2603,7 +2967,8 @@
   "lat": 0.0424,
   "lon": 32.4435,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ug"
  },
  {
   "code": "ACC",
@@ -2611,7 +2976,8 @@
   "lat": 5.6052,
   "lon": -0.1668,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "gh"
  },
  {
   "code": "LOS",
@@ -2619,7 +2985,8 @@
   "lat": 6.5774,
   "lon": 3.3212,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ng"
  },
  {
   "code": "DSS",
@@ -2627,7 +2994,8 @@
   "lat": 14.67,
   "lon": -17.0733,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "sn"
  },
  {
   "code": "RAK",
@@ -2635,7 +3003,8 @@
   "lat": 31.6069,
   "lon": -8.0363,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "ma"
  },
  {
   "code": "TUN",
@@ -2643,7 +3012,8 @@
   "lat": 36.851,
   "lon": 10.2272,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "tn"
  },
  {
   "code": "DUR",
@@ -2651,7 +3021,8 @@
   "lat": -29.6144,
   "lon": 31.1197,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "za"
  },
  {
   "code": "VFA",
@@ -2659,7 +3030,8 @@
   "lat": -18.0959,
   "lon": 25.839,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "zw"
  },
  {
   "code": "WDH",
@@ -2667,7 +3039,8 @@
   "lat": -22.4799,
   "lon": 17.4709,
   "intl": true,
-  "area": "Middle East & Africa"
+  "area": "Middle East & Africa",
+  "cc": "na"
  },
  {
   "code": "OKA",
@@ -2675,7 +3048,8 @@
   "lat": 26.1958,
   "lon": 127.6459,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "SDJ",
@@ -2683,7 +3057,8 @@
   "lat": 38.1397,
   "lon": 140.917,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "HIJ",
@@ -2691,7 +3066,8 @@
   "lat": 34.4361,
   "lon": 132.9194,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "jp"
  },
  {
   "code": "CJU",
@@ -2699,7 +3075,8 @@
   "lat": 33.5113,
   "lon": 126.493,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kr"
  },
  {
   "code": "KHH",
@@ -2707,7 +3084,8 @@
   "lat": 22.5771,
   "lon": 120.35,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "tw"
  },
  {
   "code": "CNX",
@@ -2715,7 +3093,8 @@
   "lat": 18.7668,
   "lon": 98.9626,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "USM",
@@ -2723,7 +3102,8 @@
   "lat": 9.5478,
   "lon": 100.0623,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "KBV",
@@ -2731,7 +3111,8 @@
   "lat": 8.0992,
   "lon": 98.9862,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "th"
  },
  {
   "code": "PEN",
@@ -2739,7 +3120,8 @@
   "lat": 5.2971,
   "lon": 100.277,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "my"
  },
  {
   "code": "LGK",
@@ -2747,7 +3129,8 @@
   "lat": 6.3297,
   "lon": 99.7287,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "my"
  },
  {
   "code": "BKI",
@@ -2755,7 +3138,8 @@
   "lat": 5.9372,
   "lon": 116.051,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "my"
  },
  {
   "code": "SUB",
@@ -2763,7 +3147,8 @@
   "lat": -7.3798,
   "lon": 112.7868,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "id"
  },
  {
   "code": "CEB",
@@ -2771,7 +3156,8 @@
   "lat": 10.3075,
   "lon": 123.9794,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "ph"
  },
  {
   "code": "CRK",
@@ -2779,7 +3165,8 @@
   "lat": 15.1859,
   "lon": 120.5603,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "ph"
  },
  {
   "code": "DAD",
@@ -2787,7 +3174,8 @@
   "lat": 16.0439,
   "lon": 108.1994,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "vn"
  },
  {
   "code": "CXR",
@@ -2795,7 +3183,8 @@
   "lat": 11.9982,
   "lon": 109.2194,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "vn"
  },
  {
   "code": "PQC",
@@ -2803,7 +3192,8 @@
   "lat": 10.1698,
   "lon": 103.9931,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "vn"
  },
  {
   "code": "SAI",
@@ -2811,7 +3201,8 @@
   "lat": 13.3706,
   "lon": 104.2239,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kh"
  },
  {
   "code": "KTI",
@@ -2819,7 +3210,8 @@
   "lat": 11.3,
   "lon": 104.9167,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "kh"
  },
  {
   "code": "KTM",
@@ -2827,7 +3219,8 @@
   "lat": 27.6966,
   "lon": 85.3591,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "np"
  },
  {
   "code": "GOI",
@@ -2835,7 +3228,8 @@
   "lat": 15.3808,
   "lon": 73.8314,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  },
  {
   "code": "HYD",
@@ -2843,7 +3237,8 @@
   "lat": 17.2403,
   "lon": 78.4294,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  },
  {
   "code": "MAA",
@@ -2851,6 +3246,7 @@
   "lat": 12.9941,
   "lon": 80.1709,
   "intl": true,
-  "area": "Asia"
+  "area": "Asia",
+  "cc": "in"
  }
 ]

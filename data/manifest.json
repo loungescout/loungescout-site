@@ -1,7 +1,7 @@
 {
  "files": {
   "airlines": "01080bc6d6d5ccdf94634c12d0c56b4668f4e244e76b88c044b8c6b03e026ffb",
-  "airports": "0ee9e1c11e9128120c841c76cdac4d4df0dc2c2ec16ccd7f28666191f1cf6aa1",
+  "airports": "57988f5f688626c5ab6ed7477c8eef49016ea9a6458ca1ecf41672c5ba03ef29",
   "amenity_codes": "5e92553a0ea6f9c65742608359fffa4b29e1c1e8d8357e25f4b8c3bb91ad7dce",
   "amenity_labels": "5a1b1265c989a83e9c1537a2f74fd84204f448bde5f062b4db3490f58b51b3a7",
   "cards": "93c3d641e2c73a0e3e3ed37a09e2bf63c0598a7524e4c344a3c861c068f78b94",
@@ -15,5 +15,5 @@
   "sources_updated": "adf7838fbfad2e2228fd7ddcf8024a20ac7f04ae35343ab166a4a09a33abdbf3",
   "terminals": "0f5b3de6c79f08786b12bb200f135d130e1abdf876281a95ad93e58d3c41e06e"
  },
- "version": 202611220734
+ "version": 202611220821
 }
